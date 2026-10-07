@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-07T20:25:31.496159+00:00",
+"generated_at": "2026-10-07T20:40:31.680825+00:00",
 "source": "yfinance",
 "count": 195,
 "ok": 193,
@@ -1634,9 +1634,9 @@
 "currency": "USD"
 },
 "XLE": {
-"price": 63.38,
+"price": 63.36,
 "prev_close": 63.75,
-"move_pct": -0.58,
+"move_pct": -0.612,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
@@ -1697,27 +1697,27 @@
 "currency": "USD"
 },
 "BZ=F": {
-"price": 101.04,
+"price": 101.23,
 "prev_close": 100.58,
-"move_pct": 0.457,
+"move_pct": 0.646,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
 "currency": "USD"
 },
 "CL=F": {
-"price": 89.08,
+"price": 89.23,
 "prev_close": 89.44,
-"move_pct": -0.403,
+"move_pct": -0.235,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
 "currency": "USD"
 },
 "NG=F": {
-"price": 3.21,
+"price": 3.209,
 "prev_close": 3.114,
-"move_pct": 3.083,
+"move_pct": 3.051,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
@@ -1733,18 +1733,18 @@
 "currency": "USD"
 },
 "BTC-USD": {
-"price": 83478.8672,
+"price": 83298.5078,
 "prev_close": 85557.5625,
-"move_pct": -2.43,
+"move_pct": -2.64,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
 "currency": "USD"
 },
 "ILS=X": {
-"price": 3.0673,
+"price": 3.0674,
 "prev_close": 3.053,
-"move_pct": 0.468,
+"move_pct": 0.472,
 "asof": "2026-10-07T00:00:00+00:00",
 "session_date": "2026-10-07",
 "stale": false,
