@@ -1,15 +1,15 @@
 {
-"generated_at": "2026-10-08T23:20:42.867429+00:00",
+"generated_at": "2026-10-08T23:35:42.755519+00:00",
 "source": "yfinance",
 "count": 195,
 "ok": 193,
 "quotes": {
 "ABBN.SW": {
-"price": 79.88,
-"prev_close": 82.58,
-"move_pct": -3.27,
-"asof": "2026-10-07T00:00:00+00:00",
-"session_date": "2026-10-07",
+"price": 78.8,
+"prev_close": 79.88,
+"move_pct": -1.352,
+"asof": "2026-10-08T00:00:00+00:00",
+"session_date": "2026-10-08",
 "stale": false,
 "currency": "CHF"
 },
@@ -869,9 +869,9 @@
 "currency": "USD"
 },
 "LYC.AX": {
-"price": 12.52,
+"price": 12.47,
 "prev_close": 12.4,
-"move_pct": 0.968,
+"move_pct": 0.565,
 "asof": "2026-10-09T00:00:00+00:00",
 "session_date": "2026-10-09",
 "stale": false,
@@ -1121,9 +1121,9 @@
 "currency": "USD"
 },
 "PDN.AX": {
-"price": 8.69,
+"price": 8.63,
 "prev_close": 8.71,
-"move_pct": -0.23,
+"move_pct": -0.918,
 "asof": "2026-10-09T00:00:00+00:00",
 "session_date": "2026-10-09",
 "stale": false,
@@ -1697,18 +1697,18 @@
 "currency": "USD"
 },
 "BZ=F": {
-"price": 103.73,
+"price": 103.78,
 "prev_close": 100.2,
-"move_pct": 3.523,
+"move_pct": 3.573,
 "asof": "2026-10-08T00:00:00+00:00",
 "session_date": "2026-10-08",
 "stale": false,
 "currency": "USD"
 },
 "CL=F": {
-"price": 91.06,
+"price": 91.22,
 "prev_close": 88.28,
-"move_pct": 3.149,
+"move_pct": 3.33,
 "asof": "2026-10-08T00:00:00+00:00",
 "session_date": "2026-10-08",
 "stale": false,
@@ -1733,18 +1733,18 @@
 "currency": "USD"
 },
 "BTC-USD": {
-"price": 81766.7031,
+"price": 81821.9531,
 "prev_close": 83275.9297,
-"move_pct": -1.812,
+"move_pct": -1.746,
 "asof": "2026-10-08T00:00:00+00:00",
 "session_date": "2026-10-08",
 "stale": false,
 "currency": "USD"
 },
 "ILS=X": {
-"price": 3.0617,
+"price": 3.0593,
 "prev_close": 3.0713,
-"move_pct": -0.313,
+"move_pct": -0.391,
 "asof": "2026-10-09T00:00:00+00:00",
 "session_date": "2026-10-09",
 "stale": false,
