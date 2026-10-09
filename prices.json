@@ -1,15 +1,15 @@
 {
-"generated_at": "2026-10-09T23:17:20.691845+00:00",
+"generated_at": "2026-10-09T23:32:21.045359+00:00",
 "source": "yfinance",
 "count": 195,
 "ok": 193,
 "quotes": {
 "ABBN.SW": {
-"price": 78.8,
-"prev_close": 79.88,
-"move_pct": -1.352,
-"asof": "2026-10-08T00:00:00+00:00",
-"session_date": "2026-10-08",
+"price": 79.64,
+"prev_close": 78.8,
+"move_pct": 1.066,
+"asof": "2026-10-09T00:00:00+00:00",
+"session_date": "2026-10-09",
 "stale": false,
 "currency": "CHF"
 },
@@ -1733,9 +1733,9 @@
 "currency": "USD"
 },
 "BTC-USD": {
-"price": 82585.6172,
+"price": 82546.4609,
 "prev_close": 81676.3359,
-"move_pct": 1.113,
+"move_pct": 1.065,
 "asof": "2026-10-09T00:00:00+00:00",
 "session_date": "2026-10-09",
 "stale": false,
