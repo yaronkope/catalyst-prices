@@ -1,0 +1,1563 @@
+{
+"generated_at": "2026-10-11T19:40:10+00:00",
+"horizon_days": 45,
+"earnings": [
+{
+"t": "JNJ",
+"name": "Johnson & Johnson",
+"date": "2026-10-13",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.5046,
+"rev_est": 25393355540.0
+},
+{
+"t": "ASML",
+"name": "ASML Holding N.V. - New York Re",
+"date": "2026-10-14",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 10.6598,
+"rev_est": 11691531680.0
+},
+{
+"t": "TSM",
+"name": "Taiwan Semiconductor Manufactur",
+"date": "2026-10-15",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.4792,
+"rev_est": 1456164068420.0
+},
+{
+"t": "ABBN.SW",
+"name": "ABB LTD N",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.8871,
+"rev_est": 9730341120.0
+},
+{
+"t": "GE",
+"name": "GE Aerospace",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.9937,
+"rev_est": 12840559620.0
+},
+{
+"t": "GM",
+"name": "General Motors Company",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.5978,
+"rev_est": 48675897360.0
+},
+{
+"t": "HAL",
+"name": "Halliburton Company",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.5851,
+"rev_est": 5578265500.0
+},
+{
+"t": "NOC",
+"name": "Northrop Grumman Corporation",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 7.1555,
+"rev_est": 11121617230.0
+},
+{
+"t": "RTX",
+"name": "RTX Corporation",
+"date": "2026-10-20",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.7704,
+"rev_est": 24047207240.0
+},
+{
+"t": "LBRT",
+"name": "Liberty Energy Inc.",
+"date": "2026-10-21",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.0952,
+"rev_est": 1205253190.0
+},
+{
+"t": "LRCX",
+"name": "Lam Research Corporation",
+"date": "2026-10-21",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.1779,
+"rev_est": 8133724960.0
+},
+{
+"t": "T",
+"name": "AT&T Inc.",
+"date": "2026-10-21",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.6026,
+"rev_est": 31633369610.0
+},
+{
+"t": "TDY",
+"name": "Teledyne Technologies Incorpora",
+"date": "2026-10-21",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 6.1628,
+"rev_est": 1652449880.0
+},
+{
+"t": "TSLA",
+"name": "Tesla, Inc.",
+"date": "2026-10-21",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.4522,
+"rev_est": 28025453480.0
+},
+{
+"t": "VRT",
+"name": "Vertiv Holdings, LLC",
+"date": "2026-10-21",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.8293,
+"rev_est": 3766694900.0
+},
+{
+"t": "BX",
+"name": "Blackstone Inc.",
+"date": "2026-10-22",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.3163,
+"rev_est": 3383975000.0
+},
+{
+"t": "LMT",
+"name": "Lockheed Martin Corporation",
+"date": "2026-10-22",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 7.5376,
+"rev_est": 20437780300.0
+},
+{
+"t": "VLO",
+"name": "Valero Energy Corporation",
+"date": "2026-10-22",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 20.2712,
+"rev_est": 40494189020.0
+},
+{
+"t": "WDC",
+"name": "Western Digital Corporation",
+"date": "2026-10-22",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.0603,
+"rev_est": 4138076370.0
+},
+{
+"t": "INFY",
+"name": "Infosys Limited",
+"date": "2026-10-23",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.205,
+"rev_est": 492925776410.0
+},
+{
+"t": "SAAB-B.ST",
+"name": "SAAB AB ser. B",
+"date": "2026-10-23",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.5102,
+"rev_est": 20139171010.0
+},
+{
+"t": "SLB",
+"name": "SLB Limited",
+"date": "2026-10-23",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.6219,
+"rev_est": 9266407800.0
+},
+{
+"t": "CDNS",
+"name": "Cadence Design Systems, Inc.",
+"date": "2026-10-26",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.046,
+"rev_est": 1612387030.0
+},
+{
+"t": "VZ",
+"name": "Verizon Communications Inc.",
+"date": "2026-10-26",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.2778,
+"rev_est": 34849919060.0
+},
+{
+"t": "000660.KS",
+"name": "SK hynix",
+"date": "2026-10-27",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 86241.31,
+"rev_est": 99673611310000.0
+},
+{
+"t": "AROC",
+"name": "Archrock, Inc.",
+"date": "2026-10-27",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.4738,
+"rev_est": 386344680.0
+},
+{
+"t": "BA",
+"name": "Boeing Company (The)",
+"date": "2026-10-27",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.1868,
+"rev_est": 24701883700.0
+},
+{
+"t": "BE",
+"name": "Bloom Energy Corporation",
+"date": "2026-10-27",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.6677,
+"rev_est": 1064087560.0
+},
+{
+"t": "BKR",
+"name": "Baker Hughes Company",
+"date": "2026-10-27",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.6191,
+"rev_est": 7741848910.0
+},
+{
+"t": "MTDR",
+"name": "Matador Resources Company",
+"date": "2026-10-27",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.8964,
+"rev_est": 1070771760.0
+},
+{
+"t": "RCL",
+"name": "Royal Caribbean Cruises Ltd.",
+"date": "2026-10-27",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 6.3668,
+"rev_est": 5606854990.0
+},
+{
+"t": "005930.KS",
+"name": "SamsungElec",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 13542.434,
+"rev_est": 196696311210000.0
+},
+{
+"t": "AEP",
+"name": "American Electric Power Company",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.9076,
+"rev_est": 6452960520.0
+},
+{
+"t": "AIR.PA",
+"name": "AIRBUS SE",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.8307,
+"rev_est": 19080606650.0
+},
+{
+"t": "DSY.PA",
+"name": "DASSAULT SYSTEMES",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3097,
+"rev_est": 1518559390.0
+},
+{
+"t": "F",
+"name": "Ford Motor Company",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.41,
+"rev_est": 46863018110.0
+},
+{
+"t": "FTNT",
+"name": "Fortinet, Inc.",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.8572,
+"rev_est": 2062568310.0
+},
+{
+"t": "GEV",
+"name": "GE Vernova Inc.",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.0031,
+"rev_est": 11992316970.0
+},
+{
+"t": "GOOGL",
+"name": "Alphabet Inc.",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.0673,
+"rev_est": 127400614950.0
+},
+{
+"t": "META",
+"name": "Meta Platforms, Inc.",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 6.7358,
+"rev_est": 63347373250.0
+},
+{
+"t": "MSFT",
+"name": "Microsoft Corporation",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.7234,
+"rev_est": 90685460400.0
+},
+{
+"t": "NOW",
+"name": "ServiceNow, Inc.",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.0255,
+"rev_est": 4095770420.0
+},
+{
+"t": "PSX",
+"name": "Phillips 66",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 11.1955,
+"rev_est": 41653885090.0
+},
+{
+"t": "TMUS",
+"name": "T-Mobile US, Inc.",
+"date": "2026-10-28",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.98,
+"rev_est": 23142939610.0
+},
+{
+"t": "UMC",
+"name": "United Microelectronics Corpora",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.1227,
+"rev_est": 75707390080.0
+},
+{
+"t": "1211.HK",
+"name": "BYD COMPANY",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.35,
+"rev_est": 272041905700.0
+},
+{
+"t": "AMZN",
+"name": "Amazon.com, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.9767,
+"rev_est": 202022776300.0
+},
+{
+"t": "CAT",
+"name": "Caterpillar, Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 6.9329,
+"rev_est": 20451765010.0
+},
+{
+"t": "COIN",
+"name": "Coinbase Global, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.1601,
+"rev_est": 1194076470.0
+},
+{
+"t": "CTSH",
+"name": "Cognizant Technology Solutions ",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.4638,
+"rev_est": 5645162420.0
+},
+{
+"t": "DLR",
+"name": "Digital Realty Trust, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.575,
+"rev_est": 1756803960.0
+},
+{
+"t": "EFXT",
+"name": "Enerflex Ltd",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3928,
+"rev_est": 909828200.0
+},
+{
+"t": "INTC",
+"name": "Intel Corporation",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3909,
+"rev_est": 16434269030.0
+},
+{
+"t": "LHX",
+"name": "L3Harris Technologies, Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.059,
+"rev_est": 5959768340.0
+},
+{
+"t": "LNT",
+"name": "Alliant Energy Corporation",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.2246,
+"rev_est": 1296000000.0
+},
+{
+"t": "MSTR",
+"name": "Strategy Inc",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 12.63,
+"rev_est": 129356470.0
+},
+{
+"t": "MTZ",
+"name": "MasTec, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 2.9559,
+"rev_est": 4935586650.0
+},
+{
+"t": "NET",
+"name": "Cloudflare, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.3431,
+"rev_est": 738089270.0
+},
+{
+"t": "OWL",
+"name": "Blue Owl Capital Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.2274,
+"rev_est": 704583680.0
+},
+{
+"t": "PWR",
+"name": "Quanta Services, Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 4.9911,
+"rev_est": 10871417170.0
+},
+{
+"t": "RIOT",
+"name": "Riot Platforms, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.2919,
+"rev_est": 159751990.0
+},
+{
+"t": "RIVN",
+"name": "Rivian Automotive, Inc.",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.6409,
+"rev_est": 1985410130.0
+},
+{
+"t": "SNDK",
+"name": "Sandisk Corporation",
+"date": "2026-10-29",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 46.2722,
+"rev_est": 10694236670.0
+},
+{
+"t": "WEC",
+"name": "WEC Energy Group, Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.9338,
+"rev_est": 2271493830.0
+},
+{
+"t": "XEL",
+"name": "Xcel Energy Inc.",
+"date": "2026-10-29",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.3129,
+"rev_est": 4266723720.0
+},
+{
+"t": "2454.TW",
+"name": "MEDIATEK INC",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 15.5112,
+"rev_est": 157742562320.0
+},
+{
+"t": "8035.T",
+"name": "TOKYO ELECTRON",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 85.01,
+"rev_est": 898895824540.0
+},
+{
+"t": "CCJ",
+"name": "Cameco Corporation",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3357,
+"rev_est": 741037970.0
+},
+{
+"t": "CVX",
+"name": "Chevron Corporation",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.8005,
+"rev_est": 57368797100.0
+},
+{
+"t": "GD",
+"name": "General Dynamics Corporation",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.142,
+"rev_est": 13767439820.0
+},
+{
+"t": "XOM",
+"name": "ExxonMobil Holdings Corporation",
+"date": "2026-10-30",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 3.7625,
+"rev_est": 100344077920.0
+},
+{
+"t": "AAPL",
+"name": "Apple Inc.",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.9822,
+"rev_est": 113617923250.0
+},
+{
+"t": "AESI",
+"name": "Atlas Energy Solutions Inc.",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.2275,
+"rev_est": 264393270.0
+},
+{
+"t": "CHKP",
+"name": "Check Point Software Technologi",
+"date": "2026-11-02",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.4826,
+"rev_est": 671917890.0
+},
+{
+"t": "CIFR",
+"name": "Cipher Digital Inc.",
+"date": "2026-11-02",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.1603,
+"rev_est": 37209950.0
+},
+{
+"t": "FANG",
+"name": "Diamondback Energy, Inc.",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 5.0167,
+"rev_est": 4606674500.0
+},
+{
+"t": "SEI",
+"name": "Solaris Energy Infrastructure, ",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.2531,
+"rev_est": 273598900.0
+},
+{
+"t": "UUUU",
+"name": "Energy Fuels Inc",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.04,
+"rev_est": 53035000.0
+},
+{
+"t": "WMB",
+"name": "Williams Companies, Inc. (The)",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.5342,
+"rev_est": 2924817190.0
+},
+{
+"t": "AMD",
+"name": "Advanced Micro Devices, Inc.",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.9294,
+"rev_est": 13058084460.0
+},
+{
+"t": "APO",
+"name": "Apollo Global Management, Inc. ",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.2343,
+"rev_est": 1364242860.0
+},
+{
+"t": "DNN",
+"name": "Denison Mines Corp",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.0169,
+"rev_est": null
+},
+{
+"t": "ETN",
+"name": "Eaton Corporation, PLC",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 3.5351,
+"rev_est": 8495585450.0
+},
+{
+"t": "KGS",
+"name": "Kodiak Gas Services, Inc.",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.6643,
+"rev_est": 387794990.0
+},
+{
+"t": "KTOS",
+"name": "Kratos Defense & Security Solut",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.2001,
+"rev_est": 469817060.0
+},
+{
+"t": "MOS",
+"name": "Mosaic Company (The)",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.0341,
+"rev_est": 3085092830.0
+},
+{
+"t": "MPC",
+"name": "Marathon Petroleum Corporation",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 24.2871,
+"rev_est": 43642954700.0
+},
+{
+"t": "NXE",
+"name": "Nexgen Energy Ltd.",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.04,
+"rev_est": 0.0
+},
+{
+"t": "SMCI",
+"name": "Super Micro Computer, Inc.",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.0371,
+"rev_est": 14941898910.0
+},
+{
+"t": "STIM",
+"name": "Neuronetics, Inc.",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.11,
+"rev_est": 40425000.0
+},
+{
+"t": "TEVA",
+"name": "Teva Pharmaceutical Industries ",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.7274,
+"rev_est": 4237647300.0
+},
+{
+"t": "APA",
+"name": "APA Corporation",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.4367,
+"rev_est": 2266102310.0
+},
+{
+"t": "ARM",
+"name": "Arm Holdings plc",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.4734,
+"rev_est": 1375935220.0
+},
+{
+"t": "FSLY",
+"name": "Fastly, Inc.",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.1186,
+"rev_est": 187800890.0
+},
+{
+"t": "GFS",
+"name": "GlobalFoundries Inc.",
+"date": "2026-11-04",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.5108,
+"rev_est": 1888182560.0
+},
+{
+"t": "LEU",
+"name": "Centrus Energy Corp.",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.0074,
+"rev_est": 65546670.0
+},
+{
+"t": "MARA",
+"name": "MARA Holdings, Inc.",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.1,
+"rev_est": 175671100.0
+},
+{
+"t": "NCLH",
+"name": "Norwegian Cruise Line Holdings ",
+"date": "2026-11-04",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.9384,
+"rev_est": 2871271100.0
+},
+{
+"t": "NTR",
+"name": "Nutrien Ltd.",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.8826,
+"rev_est": 5673060140.0
+},
+{
+"t": "QCOM",
+"name": "QUALCOMM Incorporated",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.1568,
+"rev_est": 10138218290.0
+},
+{
+"t": "TLN",
+"name": "Talen Energy Corporation",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 7.3677,
+"rev_est": 1334096000.0
+},
+{
+"t": "TRMB",
+"name": "Trimble Inc.",
+"date": "2026-11-04",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.86,
+"rev_est": 966357900.0
+},
+{
+"t": "373220.KS",
+"name": "LG Energy Solution",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 4635.419,
+"rev_est": 10200333330000.0
+},
+{
+"t": "AEE",
+"name": "Ameren Corporation",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 2.2991,
+"rev_est": 2870952800.0
+},
+{
+"t": "AKAM",
+"name": "Akamai Technologies, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.6713,
+"rev_est": 1117856350.0
+},
+{
+"t": "BSY",
+"name": "Bentley Systems, Incorporated",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3305,
+"rev_est": 420527450.0
+},
+{
+"t": "CMI",
+"name": "Cummins Inc.",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 8.2435,
+"rev_est": 9873057890.0
+},
+{
+"t": "COP",
+"name": "ConocoPhillips",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.8483,
+"rev_est": 18416956990.0
+},
+{
+"t": "DVN",
+"name": "Devon Energy Corporation",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.252,
+"rev_est": 7072221530.0
+},
+{
+"t": "EOG",
+"name": "EOG Resources, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.3126,
+"rev_est": 7498109020.0
+},
+{
+"t": "IREN",
+"name": "IREN LIMITED",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.665,
+"rev_est": 221329820.0
+},
+{
+"t": "MAERSK-B.CO",
+"name": "A.P. Møller - Mærsk B A/S",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 249.5015,
+"rev_est": 18294806710.0
+},
+{
+"t": "MP",
+"name": "MP Materials Corp.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.0017,
+"rev_est": 118608000.0
+},
+{
+"t": "RCAT",
+"name": "Red Cat Holdings, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.205,
+"rev_est": 41133500.0
+},
+{
+"t": "UMAC",
+"name": "Unusual Machines, Inc.",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.16,
+"rev_est": 12280230.0
+},
+{
+"t": "USAR",
+"name": "USA Rare Earth, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.146,
+"rev_est": 13553750.0
+},
+{
+"t": "VTRS",
+"name": "Viatris Inc.",
+"date": "2026-11-05",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.6433,
+"rev_est": 3800284190.0
+},
+{
+"t": "VST",
+"name": "Vistra Corp.",
+"date": "2026-11-06",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.1133,
+"rev_est": 7266729000.0
+},
+{
+"t": "CEG",
+"name": "Constellation Energy Corporatio",
+"date": "2026-11-09",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.7528,
+"rev_est": 9350469670.0
+},
+{
+"t": "FIVN",
+"name": "Five9, Inc.",
+"date": "2026-11-09",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.7969,
+"rev_est": 319039450.0
+},
+{
+"t": "OXY",
+"name": "Occidental Petroleum Corporatio",
+"date": "2026-11-09",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.35,
+"rev_est": 6569823080.0
+},
+{
+"t": "TSEM",
+"name": "Tower Semiconductor Ltd.",
+"date": "2026-11-09",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.0663,
+"rev_est": 522063610.0
+},
+{
+"t": "BWAY",
+"name": "Brainsway Ltd.",
+"date": "2026-11-10",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.0867,
+"rev_est": 17796330.0
+},
+{
+"t": "NBIS",
+"name": "Nebius Group N.V.",
+"date": "2026-11-10",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.655,
+"rev_est": 904809050.0
+},
+{
+"t": "OKLO",
+"name": "Oklo Inc.",
+"date": "2026-11-10",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.2551,
+"rev_est": 993170.0
+},
+{
+"t": "CRWV",
+"name": "CoreWeave, Inc.",
+"date": "2026-11-11",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -1.1925,
+"rev_est": 3537763520.0
+},
+{
+"t": "ENR.DE",
+"name": "Siemens Energy AG             N",
+"date": "2026-11-11",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.3755,
+"rev_est": 12660734920.0
+},
+{
+"t": "ICL",
+"name": "ICL Group Ltd.",
+"date": "2026-11-11",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.1017,
+"rev_est": null
+},
+{
+"t": "PTC",
+"name": "PTC Inc.",
+"date": "2026-11-11",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.9634,
+"rev_est": 665307090.0
+},
+{
+"t": "SND",
+"name": "Smart Sand, Inc.",
+"date": "2026-11-11",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": null,
+"rev_est": null
+},
+{
+"t": "AMAT",
+"name": "Applied Materials, Inc.",
+"date": "2026-11-12",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.0559,
+"rev_est": 10299491080.0
+},
+{
+"t": "AMRQ.L",
+"name": "AMAROQ LTD. COM SHS NPV (DI)",
+"date": "2026-11-12",
+"time": "unknown",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": null,
+"rev_est": null
+},
+{
+"t": "BN",
+"name": "Brookfield Corporation",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.33,
+"rev_est": 1706000000.0
+},
+{
+"t": "HLAG.DE",
+"name": "Hapag-Lloyd AG                N",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.718,
+"rev_est": 6232843850.0
+},
+{
+"t": "NICE",
+"name": "NICE Ltd",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 2.7805,
+"rev_est": 785743940.0
+},
+{
+"t": "ONDS",
+"name": "Ondas Inc",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.09,
+"rev_est": 148039400.0
+},
+{
+"t": "SIE.DE",
+"name": "SIEMENS AG                    N",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.7924,
+"rev_est": 23144605520.0
+},
+{
+"t": "LUMI.TA",
+"name": "BK LEUMI LE ISRAEL",
+"date": "2026-11-17",
+"time": "unknown",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.3799,
+"rev_est": 5491784220.0
+},
+{
+"t": "NVDA",
+"name": "NVIDIA Corporation",
+"date": "2026-11-17",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 2.4733,
+"rev_est": 108976837760.0
+},
+{
+"t": "ESTC",
+"name": "Elastic N.V.",
+"date": "2026-11-19",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.8093,
+"rev_est": 486668760.0
+},
+{
+"t": "PANW",
+"name": "Palo Alto Networks, Inc.",
+"date": "2026-11-19",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.9715,
+"rev_est": 3307503520.0
+},
+{
+"t": "POLI.TA",
+"name": "BANK HAPOALIM B.M.",
+"date": "2026-11-19",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.7526,
+"rev_est": 6134538670.0
+},
+{
+"t": "ZIM",
+"name": "ZIM Integrated Shipping Service",
+"date": "2026-11-19",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 7.52,
+"rev_est": 2576600000.0
+},
+{
+"t": "ESLT",
+"name": "Elbit Systems Ltd.",
+"date": "2026-11-24",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 3.8934,
+"rev_est": 2257018670.0
+},
+{
+"t": "ZS",
+"name": "Zscaler, Inc.",
+"date": "2026-11-24",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.1611,
+"rev_est": 938164540.0
+},
+{
+"t": "DY",
+"name": "Dycom Industries, Inc.",
+"date": "2026-11-25",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 4.5283,
+"rev_est": 1937213980.0
+},
+{
+"t": "PHOE.TA",
+"name": "PHOENIX FINANC LTD",
+"date": "2026-11-25",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": null,
+"rev_est": null
+}
+],
+"macro": [
+{
+"date": "2026-10-14",
+"title": "US CPI (September 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/2026/10_sched.htm"
+},
+{
+"date": "2026-10-15",
+"title": "US PPI (September 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/2026/10_sched.htm"
+},
+{
+"date": "2026-10-27",
+"title": "Israel general election",
+"time_et": null,
+"source": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election (cites Ynet 16.7.26, Times of Israel 12.7.26)"
+},
+{
+"date": "2026-10-28",
+"title": "FOMC decision (Oct 27-28 meeting)",
+"time_et": "14:00",
+"source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (time = usual statement time, not stated on the page)"
+},
+{
+"date": "2026-10-30",
+"title": "US Employment Cost Index (Q3 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/2026/10_sched.htm"
+},
+{
+"date": "2026-11-06",
+"title": "US jobs report (October 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/news_release/empsit.htm"
+},
+{
+"date": "2026-11-10",
+"title": "US CPI (October 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/news_release/cpi.htm"
+}
+],
+"ex_dividend": [
+{
+"t": "ACN",
+"date": "2026-10-13"
+},
+{
+"t": "APA",
+"date": "2026-10-22"
+},
+{
+"t": "AMAT",
+"date": "2026-11-19"
+},
+{
+"t": "DELL",
+"date": "2026-10-20"
+},
+{
+"t": "ESLT",
+"date": "2026-10-13"
+},
+{
+"t": "EOG",
+"date": "2026-10-16"
+},
+{
+"t": "GEV",
+"date": "2026-10-27"
+},
+{
+"t": "MU",
+"date": "2026-10-14"
+},
+{
+"t": "MSFT",
+"date": "2026-11-19"
+},
+{
+"t": "TMUS",
+"date": "2026-11-25"
+}
+],
+"errors": []
+}
