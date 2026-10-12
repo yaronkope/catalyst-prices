@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-12 20:16Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-12 20:31Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 10 | 45 | ✅ | 47 movers, market post; 2 errors |
-| news.json | 15 | 45 | ✅ | 263 items, sources ok 18/21; 3 errors |
-| gnews.json | 72 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 1032 | 1560 | ✅ | 147 earnings (88 confirmed), 7 macro; 0 errors |
+| candidates.json | 5 | 45 | ✅ | 45 movers, market post; 2 errors |
+| news.json | 10 | 45 | ✅ | 257 items, sources ok 18/21; 3 errors |
+| gnews.json | 87 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 16 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 1048 | 1560 | ✅ | 147 earnings (88 confirmed), 7 macro; 0 errors |
 
 **news.json sources down:** `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
