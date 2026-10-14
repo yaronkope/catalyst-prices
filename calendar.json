@@ -1,17 +1,7 @@
 {
-"generated_at": "2026-10-13T03:03:45+00:00",
+"generated_at": "2026-10-14T03:03:44+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "JNJ",
-"name": "Johnson & Johnson",
-"date": "2026-10-13",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.5309,
-"rev_est": 25382141400.0
-},
 {
 "t": "ASML",
 "name": "ASML Holding N.V. - New York Re",
@@ -19,8 +9,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 10.7645,
-"rev_est": 11726436440.0
+"eps_est": 10.7582,
+"rev_est": 11716143870.0
 },
 {
 "t": "TSM",
@@ -40,7 +30,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.8473,
-"rev_est": 9749391310.0
+"rev_est": 9755280190.0
 },
 {
 "t": "GE",
@@ -49,8 +39,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9937,
-"rev_est": 12840582700.0
+"eps_est": 2.0015,
+"rev_est": 12839529840.0
 },
 {
 "t": "GM",
@@ -60,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.6061,
-"rev_est": 48568555480.0
+"rev_est": 48661743520.0
 },
 {
 "t": "HAL",
@@ -79,8 +69,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.1555,
-"rev_est": 11121617230.0
+"eps_est": 7.1575,
+"rev_est": 11121370980.0
 },
 {
 "t": "RTX",
@@ -89,8 +79,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.7704,
-"rev_est": 24047207240.0
+"eps_est": 1.7759,
+"rev_est": 24085688910.0
 },
 {
 "t": "LBRT",
@@ -120,7 +110,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 6.7358,
-"rev_est": 63352671120.0
+"rev_est": 63356766870.0
 },
 {
 "t": "T",
@@ -159,8 +149,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 1.8293,
-"rev_est": 3766694900.0
+"eps_est": 1.8292,
+"rev_est": 3765961320.0
 },
 {
 "t": "BE",
@@ -179,7 +169,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2919,
+"eps_est": 1.2892,
 "rev_est": 3367900000.0
 },
 {
@@ -189,8 +179,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.5291,
-"rev_est": 20419033080.0
+"eps_est": 7.535,
+"rev_est": 20441201960.0
 },
 {
 "t": "VLO",
@@ -199,8 +189,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 20.4106,
-"rev_est": 40494189020.0
+"eps_est": 20.8309,
+"rev_est": 42404617100.0
 },
 {
 "t": "WDC",
@@ -220,7 +210,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.205,
-"rev_est": 492736913870.0
+"rev_est": 492282016540.0
 },
 {
 "t": "SAAB-B.ST",
@@ -270,7 +260,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 86241.31,
-"rev_est": 99673611310000.0
+"rev_est": 99673624820000.0
 },
 {
 "t": "AROC",
@@ -289,8 +279,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.1939,
-"rev_est": 24538533790.0
+"eps_est": -0.1934,
+"rev_est": 24482756340.0
 },
 {
 "t": "BKR",
@@ -300,7 +290,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.6191,
-"rev_est": 7741848910.0
+"rev_est": 7738359700.0
 },
 {
 "t": "MTDR",
@@ -309,8 +299,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 1.9122,
-"rev_est": 1069797120.0
+"eps_est": 1.9202,
+"rev_est": 1075812610.0
 },
 {
 "t": "RCL",
@@ -319,8 +309,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.3738,
-"rev_est": 5608768630.0
+"eps_est": 6.3825,
+"rev_est": 5612300450.0
 },
 {
 "t": "005930.KS",
@@ -330,7 +320,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 13542.434,
-"rev_est": 196554951940000.0
+"rev_est": 196550856670000.0
 },
 {
 "t": "AEP",
@@ -339,8 +329,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9082,
-"rev_est": 6452960520.0
+"eps_est": 1.9182,
+"rev_est": 6455598020.0
 },
 {
 "t": "AIR.PA",
@@ -349,8 +339,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.8307,
-"rev_est": 19080606650.0
+"eps_est": 1.7657,
+"rev_est": 19034431650.0
 },
 {
 "t": "DSY.PA",
@@ -370,7 +360,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.4069,
-"rev_est": 46726618110.0
+"rev_est": 46834290850.0
 },
 {
 "t": "FTNT",
@@ -379,8 +369,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.8572,
-"rev_est": 2062568310.0
+"eps_est": 0.8583,
+"rev_est": 2063352100.0
 },
 {
 "t": "GEV",
@@ -390,7 +380,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.0031,
-"rev_est": 11992316970.0
+"rev_est": 11998874600.0
 },
 {
 "t": "GOOGL",
@@ -400,7 +390,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0369,
-"rev_est": 127459099580.0
+"rev_est": 127500474580.0
 },
 {
 "t": "MSFT",
@@ -419,8 +409,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.0255,
-"rev_est": 4095763750.0
+"eps_est": 1.0241,
+"rev_est": 4094242720.0
 },
 {
 "t": "PSX",
@@ -429,8 +419,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 11.5615,
-"rev_est": 41721885090.0
+"eps_est": 11.8109,
+"rev_est": 43550629540.0
 },
 {
 "t": "TMUS",
@@ -440,7 +430,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.98,
-"rev_est": 23144831170.0
+"rev_est": 23137877350.0
 },
 {
 "t": "UMC",
@@ -469,8 +459,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 1.9794,
-"rev_est": 202089495540.0
+"eps_est": 1.9767,
+"rev_est": 202107203880.0
 },
 {
 "t": "CAT",
@@ -479,7 +469,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.9329,
+"eps_est": 6.9405,
 "rev_est": 20451765010.0
 },
 {
@@ -489,8 +479,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.1748,
-"rev_est": 1189853750.0
+"eps_est": -0.2026,
+"rev_est": 1196223320.0
 },
 {
 "t": "CTSH",
@@ -500,7 +490,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.4638,
-"rev_est": 5645162420.0
+"rev_est": 5646024920.0
 },
 {
 "t": "DLR",
@@ -520,7 +510,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.4098,
-"rev_est": 905903200.0
+"rev_est": 905111200.0
 },
 {
 "t": "INTC",
@@ -540,7 +530,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.059,
-"rev_est": 5958061080.0
+"rev_est": 5950662550.0
 },
 {
 "t": "LNT",
@@ -569,18 +559,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 2.9559,
-"rev_est": 4935586650.0
-},
-{
-"t": "NET",
-"name": "Cloudflare, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.3431,
-"rev_est": 738089270.0
+"eps_est": 2.961,
+"rev_est": 4935939090.0
 },
 {
 "t": "OWL",
@@ -589,8 +569,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.2274,
-"rev_est": 704583680.0
+"eps_est": 0.2264,
+"rev_est": 704125230.0
 },
 {
 "t": "PWR",
@@ -598,9 +578,9 @@
 "date": "2026-10-29",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
-"eps_est": 4.9911,
-"rev_est": 10871417170.0
+"confirmed": true,
+"eps_est": 4.9959,
+"rev_est": 10882893370.0
 },
 {
 "t": "RIOT",
@@ -609,8 +589,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.2919,
-"rev_est": 159751990.0
+"eps_est": -0.3006,
+"rev_est": 160453670.0
 },
 {
 "t": "RIVN",
@@ -639,8 +619,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9338,
-"rev_est": 2271493830.0
+"eps_est": 0.9566,
+"rev_est": 2283732600.0
 },
 {
 "t": "XEL",
@@ -649,8 +629,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3169,
-"rev_est": 4266723720.0
+"eps_est": 1.3331,
+"rev_est": 4290368460.0
 },
 {
 "t": "2454.TW",
@@ -679,7 +659,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3357,
+"eps_est": 0.3321,
 "rev_est": 736906520.0
 },
 {
@@ -689,7 +669,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7591,
+"eps_est": 4.7816,
 "rev_est": 60533629080.0
 },
 {
@@ -699,8 +679,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.1353,
-"rev_est": 13753739820.0
+"eps_est": 4.1358,
+"rev_est": 13750332260.0
 },
 {
 "t": "XOM",
@@ -719,8 +699,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9822,
-"rev_est": 113617923250.0
+"eps_est": 1.9821,
+"rev_est": 113613193620.0
 },
 {
 "t": "AESI",
@@ -739,7 +719,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4826,
+"eps_est": 2.4829,
 "rev_est": 671917890.0
 },
 {
@@ -759,8 +739,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 5.062,
-"rev_est": 4710266220.0
+"eps_est": 5.0905,
+"rev_est": 4711039600.0
 },
 {
 "t": "TSEM",
@@ -788,9 +768,9 @@
 "date": "2026-11-02",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 0.5342,
-"rev_est": 2937960850.0
+"rev_est": 2935524020.0
 },
 {
 "t": "AMD",
@@ -809,8 +789,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.2343,
-"rev_est": 1364242860.0
+"eps_est": 2.2162,
+"rev_est": 1362357140.0
 },
 {
 "t": "DNN",
@@ -829,8 +809,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 3.5351,
-"rev_est": 8495585450.0
+"eps_est": 3.5363,
+"rev_est": 8501206790.0
 },
 {
 "t": "KGS",
@@ -859,7 +839,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.0341,
+"eps_est": 0.0266,
 "rev_est": 3085092830.0
 },
 {
@@ -869,7 +849,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 24.6945,
+"eps_est": 25.3818,
 "rev_est": 43643500150.0
 },
 {
@@ -913,13 +893,23 @@
 "rev_est": 4239488210.0
 },
 {
+"t": "TLN",
+"name": "Talen Energy Corporation",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 7.3677,
+"rev_est": 1334096000.0
+},
+{
 "t": "APA",
 "name": "APA Corporation",
 "date": "2026-11-04",
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4638,
+"eps_est": 1.4818,
 "rev_est": 2376851840.0
 },
 {
@@ -979,8 +969,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.9384,
-"rev_est": 2871271100.0
+"eps_est": 0.9397,
+"rev_est": 2875978920.0
 },
 {
 "t": "NTR",
@@ -989,8 +979,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.8621,
-"rev_est": 5673060140.0
+"eps_est": 0.8414,
+"rev_est": 5656031570.0
 },
 {
 "t": "QCOM",
@@ -1009,18 +999,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.2531,
-"rev_est": 273598900.0
-},
-{
-"t": "TLN",
-"name": "Talen Energy Corporation",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 7.3677,
-"rev_est": 1334096000.0
+"eps_est": 0.2544,
+"rev_est": 273698900.0
 },
 {
 "t": "TRMB",
@@ -1029,7 +1009,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.86,
+"eps_est": 0.8614,
 "rev_est": 966357900.0
 },
 {
@@ -1040,7 +1020,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 4635.419,
-"rev_est": 10200333330000.0
+"rev_est": 9279252880000.0
 },
 {
 "t": "AEE",
@@ -1049,8 +1029,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 2.2991,
-"rev_est": 2870952800.0
+"eps_est": 2.3094,
+"rev_est": 2884672800.0
 },
 {
 "t": "AKAM",
@@ -1089,8 +1069,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.8535,
-"rev_est": 18416956990.0
+"eps_est": 2.8751,
+"rev_est": 17733934350.0
 },
 {
 "t": "DVN",
@@ -1109,7 +1089,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.2645,
+"eps_est": 4.2949,
 "rev_est": 7332124600.0
 },
 {
@@ -1141,6 +1121,16 @@
 "confirmed": true,
 "eps_est": -0.0017,
 "rev_est": 118871820.0
+},
+{
+"t": "NET",
+"name": "Cloudflare, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.3431,
+"rev_est": 738089270.0
 },
 {
 "t": "RCAT",
@@ -1249,7 +1239,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.2551,
+"eps_est": -0.2558,
 "rev_est": 993170.0
 },
 {
@@ -1259,7 +1249,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -1.1925,
+"eps_est": -1.1915,
 "rev_est": 3537763520.0
 },
 {
@@ -1460,7 +1450,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 4.5283,
-"rev_est": 1937213980.0
+"rev_est": 1943013980.0
 },
 {
 "t": "PHOE.TA",
@@ -1539,10 +1529,6 @@
 ],
 "ex_dividend": [
 {
-"t": "ACN",
-"date": "2026-10-13"
-},
-{
 "t": "APA",
 "date": "2026-10-22"
 },
@@ -1553,10 +1539,6 @@
 {
 "t": "DELL",
 "date": "2026-10-20"
-},
-{
-"t": "ESLT",
-"date": "2026-10-13"
 },
 {
 "t": "EOG",
