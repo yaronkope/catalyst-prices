@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-14 17:04Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-14 17:19Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 18 | 45 | ✅ | 95 movers, market open; 2 errors |
-| news.json | 3 | 45 | ✅ | 277 items, sources ok 18/21; 3 errors |
-| gnews.json | 119 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1249 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 841 | 1560 | ✅ | 148 earnings (95 confirmed), 7 macro; 0 errors |
+| candidates.json | 13 | 45 | ✅ | 88 movers, market open; 2 errors |
+| news.json | 13 | 45 | ✅ | 308 items, sources ok 28/36; 8 errors |
+| gnews.json | 15 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1264 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 856 | 1560 | ✅ | 148 earnings (95 confirmed), 7 macro; 0 errors |
 
-**news.json sources down:** `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `edgar_fts` first order: HTTP 403; `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
