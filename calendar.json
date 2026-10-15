@@ -1,17 +1,7 @@
 {
-"generated_at": "2026-10-14T03:03:44+00:00",
+"generated_at": "2026-10-15T03:03:57+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "ASML",
-"name": "ASML Holding N.V. - New York Re",
-"date": "2026-10-14",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 10.7582,
-"rev_est": 11716143870.0
-},
 {
 "t": "TSM",
 "name": "Taiwan Semiconductor Manufactur",
@@ -39,8 +29,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.0015,
-"rev_est": 12839529840.0
+"eps_est": 2.0019,
+"rev_est": 12838831240.0
 },
 {
 "t": "GM",
@@ -59,7 +49,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.5851,
+"eps_est": 0.5852,
 "rev_est": 5578265500.0
 },
 {
@@ -69,8 +59,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.1575,
-"rev_est": 11121370980.0
+"eps_est": 7.1807,
+"rev_est": 11123838560.0
 },
 {
 "t": "RTX",
@@ -80,7 +70,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.7759,
-"rev_est": 24085688910.0
+"rev_est": 24085470480.0
 },
 {
 "t": "LBRT",
@@ -89,8 +79,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.0952,
-"rev_est": 1205253190.0
+"eps_est": 0.0719,
+"rev_est": 1200408640.0
 },
 {
 "t": "LRCX",
@@ -110,7 +100,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 6.7358,
-"rev_est": 63356766870.0
+"rev_est": 63342120060.0
 },
 {
 "t": "T",
@@ -120,7 +110,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.6032,
-"rev_est": 31640979590.0
+"rev_est": 31645332310.0
 },
 {
 "t": "TDY",
@@ -128,7 +118,7 @@
 "date": "2026-10-21",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 6.1628,
 "rev_est": 1652449880.0
 },
@@ -139,18 +129,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.4495,
-"rev_est": 28087162610.0
-},
-{
-"t": "VRT",
-"name": "Vertiv Holdings, LLC",
-"date": "2026-10-21",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 1.8292,
-"rev_est": 3765961320.0
+"eps_est": 0.4549,
+"rev_est": 28111085380.0
 },
 {
 "t": "BE",
@@ -159,8 +139,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.6677,
-"rev_est": 1064087560.0
+"eps_est": 0.6712,
+"rev_est": 1067425560.0
 },
 {
 "t": "BX",
@@ -179,8 +159,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.535,
-"rev_est": 20441201960.0
+"eps_est": 7.5352,
+"rev_est": 20447546410.0
 },
 {
 "t": "VLO",
@@ -189,7 +169,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 20.8309,
+"eps_est": 20.9497,
 "rev_est": 42404617100.0
 },
 {
@@ -229,7 +209,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.6219,
+"eps_est": 0.6211,
 "rev_est": 9266407800.0
 },
 {
@@ -249,8 +229,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2782,
-"rev_est": 34805380120.0
+"eps_est": 1.2743,
+"rev_est": 34853415520.0
 },
 {
 "t": "000660.KS",
@@ -280,7 +260,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.1934,
-"rev_est": 24482756340.0
+"rev_est": 24445061990.0
 },
 {
 "t": "BKR",
@@ -293,24 +273,14 @@
 "rev_est": 7738359700.0
 },
 {
-"t": "MTDR",
-"name": "Matador Resources Company",
-"date": "2026-10-27",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 1.9202,
-"rev_est": 1075812610.0
-},
-{
 "t": "RCL",
 "name": "Royal Caribbean Cruises Ltd.",
 "date": "2026-10-27",
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.3825,
-"rev_est": 5612300450.0
+"eps_est": 6.3829,
+"rev_est": 5612552450.0
 },
 {
 "t": "005930.KS",
@@ -329,8 +299,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9182,
-"rev_est": 6455598020.0
+"eps_est": 1.9143,
+"rev_est": 6451473020.0
 },
 {
 "t": "AIR.PA",
@@ -339,8 +309,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.7657,
-"rev_est": 19034431650.0
+"eps_est": 1.7357,
+"rev_est": 18786174250.0
 },
 {
 "t": "DSY.PA",
@@ -380,7 +350,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.0031,
-"rev_est": 11998874600.0
+"rev_est": 11997041270.0
 },
 {
 "t": "GOOGL",
@@ -389,8 +359,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0369,
-"rev_est": 127500474580.0
+"eps_est": 3.008,
+"rev_est": 127605928130.0
 },
 {
 "t": "MSFT",
@@ -399,8 +369,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.718,
-"rev_est": 90698093080.0
+"eps_est": 4.7185,
+"rev_est": 90700021710.0
 },
 {
 "t": "NOW",
@@ -409,8 +379,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.0241,
-"rev_est": 4094242720.0
+"eps_est": 1.0228,
+"rev_est": 4094374960.0
 },
 {
 "t": "PSX",
@@ -419,8 +389,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 11.8109,
-"rev_est": 43550629540.0
+"eps_est": 11.8395,
+"rev_est": 43228629540.0
 },
 {
 "t": "TMUS",
@@ -443,14 +413,24 @@
 "rev_est": 75707390080.0
 },
 {
+"t": "VRT",
+"name": "Vertiv Holdings, LLC",
+"date": "2026-10-28",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.8284,
+"rev_est": 3762687410.0
+},
+{
 "t": "1211.HK",
 "name": "BYD COMPANY",
 "date": "2026-10-29",
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 1.35,
-"rev_est": 272041905700.0
+"eps_est": 1.3,
+"rev_est": 271668683039.0
 },
 {
 "t": "AMZN",
@@ -460,7 +440,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 1.9767,
-"rev_est": 202107203880.0
+"rev_est": 202083118080.0
 },
 {
 "t": "CAT",
@@ -469,8 +449,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.9405,
-"rev_est": 20451765010.0
+"eps_est": 7.0264,
+"rev_est": 20692015010.0
 },
 {
 "t": "COIN",
@@ -478,9 +458,9 @@
 "date": "2026-10-29",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
-"eps_est": -0.2026,
-"rev_est": 1196223320.0
+"confirmed": true,
+"eps_est": -0.2044,
+"rev_est": 1195768770.0
 },
 {
 "t": "CTSH",
@@ -509,8 +489,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.4098,
-"rev_est": 905111200.0
+"eps_est": 0.3998,
+"rev_est": 904674170.0
 },
 {
 "t": "INTC",
@@ -529,8 +509,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.059,
-"rev_est": 5950662550.0
+"eps_est": 3.0592,
+"rev_est": 5947668080.0
 },
 {
 "t": "LNT",
@@ -539,7 +519,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2626,
+"eps_est": 1.2706,
 "rev_est": 1296000000.0
 },
 {
@@ -599,8 +579,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.6483,
-"rev_est": 1990783810.0
+"eps_est": -0.6533,
+"rev_est": 1990594620.0
 },
 {
 "t": "SNDK",
@@ -610,7 +590,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 46.2722,
-"rev_est": 10694236670.0
+"rev_est": 10676645260.0
 },
 {
 "t": "WEC",
@@ -620,7 +600,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.9566,
-"rev_est": 2283732600.0
+"rev_est": 2273110500.0
 },
 {
 "t": "XEL",
@@ -629,8 +609,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3331,
-"rev_est": 4290368460.0
+"eps_est": 1.3673,
+"rev_est": 4282973720.0
 },
 {
 "t": "2454.TW",
@@ -659,7 +639,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3321,
+"eps_est": 0.3423,
 "rev_est": 736906520.0
 },
 {
@@ -669,8 +649,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7816,
-"rev_est": 60533629080.0
+"eps_est": 4.8336,
+"rev_est": 60487879080.0
 },
 {
 "t": "GD",
@@ -679,8 +659,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.1358,
-"rev_est": 13750332260.0
+"eps_est": 4.1343,
+"rev_est": 13732433960.0
 },
 {
 "t": "XOM",
@@ -689,8 +669,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 3.7625,
-"rev_est": 102993363640.0
+"eps_est": 3.7654,
+"rev_est": 103025506490.0
 },
 {
 "t": "AAPL",
@@ -709,7 +689,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.2275,
+"eps_est": -0.2325,
 "rev_est": 264393270.0
 },
 {
@@ -739,8 +719,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 5.0905,
-"rev_est": 4711039600.0
+"eps_est": 5.1504,
+"rev_est": 4714490550.0
 },
 {
 "t": "TSEM",
@@ -771,6 +751,16 @@
 "confirmed": true,
 "eps_est": 0.5342,
 "rev_est": 2935524020.0
+},
+{
+"t": "373220.KS",
+"name": "LG Energy Solution",
+"date": "2026-11-03",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4635.419,
+"rev_est": 9188672850000.0
 },
 {
 "t": "AMD",
@@ -809,8 +799,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 3.5363,
-"rev_est": 8501206790.0
+"eps_est": 3.5375,
+"rev_est": 8503644880.0
 },
 {
 "t": "KGS",
@@ -838,7 +828,7 @@
 "date": "2026-11-03",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 0.0266,
 "rev_est": 3085092830.0
 },
@@ -849,8 +839,18 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 25.3818,
+"eps_est": 25.1812,
 "rev_est": 43643500150.0
+},
+{
+"t": "MTDR",
+"name": "Matador Resources Company",
+"date": "2026-11-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.8807,
+"rev_est": 1055789180.0
 },
 {
 "t": "NXE",
@@ -899,7 +899,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.3677,
+"eps_est": 7.2977,
 "rev_est": 1334096000.0
 },
 {
@@ -909,7 +909,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4818,
+"eps_est": 1.5006,
 "rev_est": 2376851840.0
 },
 {
@@ -950,7 +950,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.0074,
-"rev_est": 65198980.0
+"rev_est": 65434850.0
 },
 {
 "t": "MARA",
@@ -969,8 +969,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.9397,
-"rev_est": 2875978920.0
+"eps_est": 0.939,
+"rev_est": 2878195510.0
 },
 {
 "t": "NTR",
@@ -1009,18 +1009,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.8614,
+"eps_est": 0.8616,
 "rev_est": 966357900.0
-},
-{
-"t": "373220.KS",
-"name": "LG Energy Solution",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 4635.419,
-"rev_est": 9279252880000.0
 },
 {
 "t": "AEE",
@@ -1028,7 +1018,7 @@
 "date": "2026-11-05",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 2.3094,
 "rev_est": 2884672800.0
 },
@@ -1059,8 +1049,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 8.2449,
-"rev_est": 9872915210.0
+"eps_est": 8.179,
+"rev_est": 9879200920.0
 },
 {
 "t": "COP",
@@ -1069,8 +1059,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.8751,
-"rev_est": 17733934350.0
+"eps_est": 2.9163,
+"rev_est": 17891661630.0
 },
 {
 "t": "DVN",
@@ -1079,7 +1069,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.252,
+"eps_est": 1.2552,
 "rev_est": 7072221530.0
 },
 {
@@ -1089,7 +1079,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.2949,
+"eps_est": 4.328,
 "rev_est": 7332124600.0
 },
 {
@@ -1109,7 +1099,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 249.5015,
+"eps_est": 253.7515,
 "rev_est": 18294806710.0
 },
 {
@@ -1119,8 +1109,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0017,
-"rev_est": 118871820.0
+"eps_est": -0.0004,
+"rev_est": 119126110.0
 },
 {
 "t": "NET",
@@ -1209,8 +1199,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.35,
-"rev_est": 6569823080.0
+"eps_est": 1.4064,
+"rev_est": 6604658560.0
 },
 {
 "t": "BWAY",
@@ -1300,7 +1290,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.0558,
-"rev_est": 10299491080.0
+"rev_est": 10299478580.0
 },
 {
 "t": "AMRQ.L",
@@ -1485,12 +1475,6 @@
 ],
 "macro": [
 {
-"date": "2026-10-14",
-"title": "US CPI (September 2026)",
-"time_et": "08:30",
-"source": "https://www.bls.gov/schedule/2026/10_sched.htm"
-},
-{
 "date": "2026-10-15",
 "title": "US PPI (September 2026)",
 "time_et": "08:30",
@@ -1537,6 +1521,10 @@
 "date": "2026-11-19"
 },
 {
+"t": "CMI",
+"date": "2026-11-20"
+},
+{
 "t": "DELL",
 "date": "2026-10-20"
 },
@@ -1549,8 +1537,8 @@
 "date": "2026-10-27"
 },
 {
-"t": "MU",
-"date": "2026-10-14"
+"t": "JNJ",
+"date": "2026-11-24"
 },
 {
 "t": "MSFT",
