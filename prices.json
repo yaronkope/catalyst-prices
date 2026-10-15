@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-15T01:07:20.633704+00:00",
+"generated_at": "2026-10-15T01:22:23.867180+00:00",
 "source": "yfinance",
 "count": 195,
 "ok": 193,
@@ -368,14 +368,14 @@
 "mcap_usd": 80253034663
 },
 "1211.HK": {
-"price": 72.85,
-"prev_close": 73.25,
-"move_pct": -0.546,
-"asof": "2026-10-14T00:00:00+00:00",
-"session_date": "2026-10-14",
+"price": 73.45,
+"prev_close": 72.85,
+"move_pct": 0.824,
+"asof": "2026-10-15T00:00:00+00:00",
+"session_date": "2026-10-15",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.0228,
+"ret_5d": 0.00754,
 "mcap_usd": 84635786947
 },
 "CDNS": {
@@ -1028,14 +1028,14 @@
 "mcap_usd": 359058677945
 },
 "373220.KS": {
-"price": 401500.0,
+"price": 403000.0,
 "prev_close": 422000.0,
-"move_pct": -4.858,
+"move_pct": -4.502,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "KRW",
-"ret_5d": 0.02685,
+"ret_5d": 0.03069,
 "mcap_usd": 73581615114
 },
 "LBRT": {
@@ -1138,14 +1138,14 @@
 "mcap_usd": 6829995181
 },
 "2454.TW": {
-"price": 4475.0,
-"prev_close": 4525.0,
-"move_pct": -1.105,
-"asof": "2026-10-14T00:00:00+00:00",
-"session_date": "2026-10-14",
+"price": 4265.0,
+"prev_close": 4475.0,
+"move_pct": -4.693,
+"asof": "2026-10-15T00:00:00+00:00",
+"session_date": "2026-10-15",
 "stale": false,
 "currency": "TWD",
-"ret_5d": -0.09045,
+"ret_5d": -0.11789,
 "mcap_usd": 222055007332
 },
 "META": {
@@ -1369,14 +1369,14 @@
 "mcap_usd": 395762475002
 },
 "PDN.AX": {
-"price": 7.11,
+"price": 7.085,
 "prev_close": 7.28,
-"move_pct": -2.335,
+"move_pct": -2.679,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.1837,
+"ret_5d": -0.18657,
 "mcap_usd": 2224065411
 },
 "PANW": {
@@ -1534,14 +1534,14 @@
 "mcap_usd": 194186850000
 },
 "005930.KS": {
-"price": 214000.0,
+"price": 214500.0,
 "prev_close": 232000.0,
-"move_pct": -7.759,
+"move_pct": -7.543,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.20298,
+"ret_5d": -0.20112,
 "mcap_usd": 1125740343394
 },
 "SNDK": {
@@ -1611,14 +1611,14 @@
 "mcap_usd": 128807966463
 },
 "000660.KS": {
-"price": 1280000.0,
+"price": 1272000.0,
 "prev_close": 1419000.0,
-"move_pct": -9.796,
+"move_pct": -10.359,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.25711,
+"ret_5d": -0.26175,
 "mcap_usd": 751863702072
 },
 "SLB": {
@@ -1776,14 +1776,14 @@
 "mcap_usd": 47491436423
 },
 "8035.T": {
-"price": 10530.0,
+"price": 10515.0,
 "prev_close": 11240.0,
-"move_pct": -6.317,
+"move_pct": -6.45,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "JPY",
-"ret_5d": -0.1576,
+"ret_5d": -0.1588,
 "mcap_usd": 32304305800
 },
 "TSEM": {
@@ -2073,36 +2073,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 105.27,
+"price": 104.85,
 "prev_close": 105.69,
-"move_pct": -0.397,
+"move_pct": -0.795,
 "asof": "2026-10-14T00:00:00+00:00",
 "session_date": "2026-10-14",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.0506,
+"ret_5d": 0.04641,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 94.48,
+"price": 94.27,
 "prev_close": 94.14,
-"move_pct": 0.361,
+"move_pct": 0.138,
 "asof": "2026-10-14T00:00:00+00:00",
 "session_date": "2026-10-14",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.07023,
+"ret_5d": 0.06785,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.273,
+"price": 3.268,
 "prev_close": 3.283,
-"move_pct": -0.305,
+"move_pct": -0.457,
 "asof": "2026-10-14T00:00:00+00:00",
 "session_date": "2026-10-14",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.02185,
+"ret_5d": 0.02029,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2117,14 +2117,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 81621.0391,
+"price": 81552.5234,
 "prev_close": 83095.125,
-"move_pct": -1.774,
+"move_pct": -1.856,
 "asof": "2026-10-15T00:00:00+00:00",
 "session_date": "2026-10-15",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.01121,
+"ret_5d": -0.01204,
 "mcap_usd": null
 },
 "ILS=X": {
