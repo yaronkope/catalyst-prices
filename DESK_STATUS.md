@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 07:52Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 08:07Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 5 | 45 | ✅ | 81 movers, market closed; 2 errors |
-| news.json | 10 | 45 | ✅ | 194 items, sources ok 15/22; 7 errors |
-| gnews.json | 47 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 697 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 288 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 0 | 45 | ✅ | 81 movers, market pre; 2 errors |
+| news.json | 5 | 45 | ✅ | 210 items, sources ok 16/22; 6 errors |
+| gnews.json | 62 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 712 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 303 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `edgar_fts` first order: HTTP 403; `pentagon_contracts` HTTP 403; `prnewswire_rss` HTTP 404; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `edgar_fts` first order: HTTP 403; `pentagon_contracts` HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
