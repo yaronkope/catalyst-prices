@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-16T22:45:04.713555+00:00",
+"generated_at": "2026-10-16T23:00:11.032739+00:00",
 "source": "yfinance",
 "count": 195,
 "ok": 193,
@@ -93,14 +93,14 @@
 "mcap_usd": 4270937841682
 },
 "AMRQ.L": {
-"price": 112.5,
-"prev_close": 115.5,
-"move_pct": -2.597,
-"asof": "2026-10-16T00:00:00+00:00",
-"session_date": "2026-10-16",
+"price": 115.5,
+"prev_close": 115.0,
+"move_pct": 0.435,
+"asof": "2026-10-15T00:00:00+00:00",
+"session_date": "2026-10-15",
 "stale": false,
 "currency": "GBp",
-"ret_5d": -0.03846,
+"ret_5d": -0.02119,
 "mcap_usd": 714784146
 },
 "AMZN": {
@@ -731,14 +731,14 @@
 "mcap_usd": 2984194461
 },
 "ENOG.L": {
-"price": 742.5,
-"prev_close": 712.5,
-"move_pct": 4.211,
-"asof": "2026-10-16T00:00:00+00:00",
-"session_date": "2026-10-16",
+"price": 712.5,
+"prev_close": 745.0,
+"move_pct": -4.362,
+"asof": "2026-10-15T00:00:00+00:00",
+"session_date": "2026-10-15",
 "stale": false,
 "currency": "GBp",
-"ret_5d": 0.01643,
+"ret_5d": 0.01858,
 "mcap_usd": 1746120224
 },
 "UUUU": {
@@ -1479,14 +1479,14 @@
 "mcap_usd": 18851145403
 },
 "RR.L": {
-"price": 1350.6,
-"prev_close": 1362.8,
-"move_pct": -0.895,
-"asof": "2026-10-16T00:00:00+00:00",
-"session_date": "2026-10-16",
+"price": 1362.8,
+"prev_close": 1361.4,
+"move_pct": 0.103,
+"asof": "2026-10-15T00:00:00+00:00",
+"session_date": "2026-10-15",
 "stale": false,
 "currency": "GBp",
-"ret_5d": -0.02498,
+"ret_5d": -0.00307,
 "mcap_usd": 148731962593
 },
 "RCL": {
@@ -2117,14 +2117,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 81653.2734,
+"price": 81685.4297,
 "prev_close": 82141.4609,
-"move_pct": -0.594,
+"move_pct": -0.555,
 "asof": "2026-10-16T00:00:00+00:00",
 "session_date": "2026-10-16",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02421,
+"ret_5d": -0.02383,
 "mcap_usd": null
 },
 "ILS=X": {
