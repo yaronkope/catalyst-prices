@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 23:00Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 23:16Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 14 | 45 | ✅ | 96 movers, market post; 2 errors |
-| news.json | 19 | 45 | ✅ | 197 items, sources ok 14/21; 7 errors |
-| gnews.json | 116 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 165 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 1197 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 9 | 45 | ✅ | 96 movers, market post; 2 errors |
+| news.json | 14 | 45 | ✅ | 197 items, sources ok 14/21; 7 errors |
+| gnews.json | 11 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 181 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 1212 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
 **news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_tariffs` no RSS entries for query 'tariffs'; `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
