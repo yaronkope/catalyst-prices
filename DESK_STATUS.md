@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 21:15Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 21:30Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 93 movers, market post; 2 errors |
-| news.json | 13 | 45 | ✅ | 192 items, sources ok 12/21; 9 errors |
-| gnews.json | 10 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 60 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 1091 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 3 | 45 | ✅ | 93 movers, market post; 2 errors |
+| news.json | 8 | 45 | ✅ | 193 items, sources ok 12/21; 9 errors |
+| gnews.json | 25 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 75 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 1107 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
 **news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_nvidia` no RSS entries for query 'nvidia'; `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
