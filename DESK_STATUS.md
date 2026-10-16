@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 01:04Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 01:19Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 18 | 45 | ✅ | 105 movers, market closed; 2 errors |
-| news.json | 3 | 45 | ✅ | 210 items, sources ok 16/21; 5 errors |
-| gnews.json | 119 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 289 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 1321 | 1560 | ✅ | 147 earnings (101 confirmed), 6 macro; 0 errors |
+| candidates.json | 13 | 45 | ✅ | 81 movers, market closed; 2 errors |
+| news.json | 18 | 45 | ✅ | 210 items, sources ok 16/21; 5 errors |
+| gnews.json | 15 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 304 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 1336 | 1560 | ✅ | 147 earnings (101 confirmed), 6 macro; 0 errors |
 
 **news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
