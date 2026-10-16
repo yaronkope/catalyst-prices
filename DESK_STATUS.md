@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 22:00Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 22:15Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 13 | 45 | ✅ | 93 movers, market post; 2 errors |
-| news.json | 19 | 45 | ✅ | 181 items, sources ok 14/21; 7 errors |
-| gnews.json | 55 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 105 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 1137 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 9 | 45 | ✅ | 93 movers, market post; 2 errors |
+| news.json | 13 | 45 | ✅ | 179 items, sources ok 13/21; 8 errors |
+| gnews.json | 70 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 120 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 1152 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `edgar_fts` first order: HTTP 403; `prnewswire_rss` HTTP 404; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `edgar_fts` first order: HTTP 403; `prnewswire_rss` HTTP 404; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
