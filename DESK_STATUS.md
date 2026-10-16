@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 04:35Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 04:50Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 72 movers, market closed; 2 errors |
-| news.json | 13 | 45 | ✅ | 215 items, sources ok 14/21; 7 errors |
-| gnews.json | 91 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 500 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 92 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 4 | 45 | ✅ | 72 movers, market closed; 2 errors |
+| news.json | 9 | 45 | ✅ | 197 items, sources ok 14/21; 7 errors |
+| gnews.json | 106 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 515 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 107 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_tariffs` no RSS entries for query 'tariffs'; `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_tariffs` no RSS entries for query 'tariffs'; `edgar_fts` first order: HTTP 403; `prnewswire_rss` HTTP 404; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
