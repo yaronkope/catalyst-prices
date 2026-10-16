@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-16 11:08Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-16 11:23Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 1 | 45 | ✅ | 72 movers, market pre; 2 errors |
-| news.json | 1 | 45 | ✅ | 227 items, sources ok 24/36; 12 errors |
-| gnews.json | 123 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 893 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 485 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
+| candidates.json | 16 | 45 | ✅ | 72 movers, market pre; 2 errors |
+| news.json | 1 | 45 | ✅ | 207 items, sources ok 14/21; 7 errors |
+| gnews.json | 18 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 908 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 500 | 1560 | ✅ | 146 earnings (101 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_nvidia` no RSS entries for query 'nvidia'; `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `edgar_fts` first order: HTTP 403; `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403; `prnewswire_rss` HTTP 404; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_nvidia` no RSS entries for query 'nvidia'; `edgar_fts` first order: HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
