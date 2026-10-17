@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-17 08:35Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-17 08:50Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/195 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 96 movers, market closed; 2 errors |
-| news.json | 13 | 45 | ✅ | 193 items, sources ok 17/22; 5 errors |
-| gnews.json | 90 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 740 | 1800 | ✅ | 45 sessions; 2 errors |
-| calendar.json | 332 | 1560 | ✅ | 151 earnings (105 confirmed), 5 macro; 0 errors |
+| candidates.json | 3 | 45 | ✅ | 96 movers, market closed; 2 errors |
+| news.json | 8 | 45 | ✅ | 209 items, sources ok 18/22; 4 errors |
+| gnews.json | 105 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 755 | 1800 | ✅ | 45 sessions; 2 errors |
+| calendar.json | 347 | 1560 | ✅ | 151 earnings (105 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `edgar_fts` first order: HTTP 403; `pentagon_contracts` HTTP 403; `prnewswire_rss` HTTP 502; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
+**news.json sources down:** `edgar_fts` first order: HTTP 403; `pentagon_contracts` HTTP 403; `stocktitan_filings` HTTP 429; `stocktitan_news` HTTP 429
 
 ## Notes from Claude Code
 
