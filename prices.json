@@ -1,7 +1,7 @@
 {
-"generated_at": "2026-10-18T13:47:50.771354+00:00",
+"generated_at": "2026-10-18T14:02:51.092811+00:00",
 "source": "yfinance",
-"count": 195,
+"count": 193,
 "ok": 193,
 "quotes": {
 "ABBN.SW": {
@@ -542,17 +542,6 @@
 "currency": "USD",
 "ret_5d": -0.25207,
 "mcap_usd": 33858831660
-},
-"CTRA": {
-"price": null,
-"prev_close": null,
-"move_pct": null,
-"asof": null,
-"session_date": null,
-"stale": true,
-"error": "no data from yfinance",
-"ret_5d": null,
-"mcap_usd": null
 },
 "CRML": {
 "price": 6.97,
@@ -1885,17 +1874,6 @@
 "ret_5d": 0.02527,
 "mcap_usd": 128044218721
 },
-"VRNT": {
-"price": null,
-"prev_close": null,
-"move_pct": null,
-"asof": null,
-"session_date": null,
-"stale": true,
-"error": "no data from yfinance",
-"ret_5d": null,
-"mcap_usd": 1242795465
-},
 "VZ": {
 "price": 44.79,
 "prev_close": 44.4,
@@ -2117,14 +2095,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 81407.6172,
+"price": 81239.9062,
 "prev_close": 81382.1484,
-"move_pct": 0.031,
+"move_pct": -0.175,
 "asof": "2026-10-18T00:00:00+00:00",
 "session_date": "2026-10-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02031,
+"ret_5d": -0.02233,
 "mcap_usd": null
 },
 "ILS=X": {
