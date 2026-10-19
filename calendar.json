@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-18T03:03:50+00:00",
+"generated_at": "2026-10-19T03:03:40+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -9,7 +9,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.8473,
+"eps_est": 0.8305,
 "rev_est": 9755280190.0
 },
 {
@@ -119,7 +119,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.4522,
+"eps_est": 0.4505,
 "rev_est": 28111085380.0
 },
 {
@@ -169,8 +169,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0771,
-"rev_est": 4138076370.0
+"eps_est": 4.0786,
+"rev_est": 4138234270.0
 },
 {
 "t": "INFY",
@@ -230,7 +230,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 85670.06,
-"rev_est": 99676980720000.0
+"rev_est": 99594729060000.0
 },
 {
 "t": "AROC",
@@ -289,7 +289,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.013,
+"eps_est": 2.0176,
 "rev_est": 6600408440.0
 },
 {
@@ -418,7 +418,7 @@
 "date": "2026-10-29",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 1.3,
 "rev_est": 271668683039.0
 },
@@ -1189,8 +1189,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3978,
-"rev_est": 6739361580.0
+"eps_est": 1.4075,
+"rev_est": 6756070810.0
 },
 {
 "t": "BWAY",
@@ -1541,6 +1541,26 @@
 "confirmed": false,
 "eps_est": 0.5999,
 "rev_est": 1654186550.0
+},
+{
+"t": "HPE",
+"name": "Hewlett Packard Enterprise Comp",
+"date": "2026-12-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 1.2729,
+"rev_est": 14368789340.0
+},
+{
+"t": "S",
+"name": "SentinelOne, Inc.",
+"date": "2026-12-03",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 0.0914,
+"rev_est": 310193220.0
 }
 ],
 "macro": [
