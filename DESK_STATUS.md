@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-20 14:45Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-20 15:00Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 18 | 45 | ✅ | 47 movers, market open; 0 errors |
-| news.json | 3 | 45 | ✅ | 299 items (194 tagged = 65%), sources ok 20/21; 1 errors |
-| gnews.json | 100 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1110 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 701 | 1560 | ✅ | 156 earnings (108 confirmed), 6 macro; 0 errors |
+| candidates.json | 13 | 45 | ✅ | 49 movers, market open; 0 errors |
+| news.json | 18 | 45 | ✅ | 299 items (194 tagged = 65%), sources ok 20/21; 1 errors |
+| gnews.json | 115 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1125 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 716 | 1560 | ✅ | 156 earnings (108 confirmed), 6 macro; 0 errors |
 
 **news.json sources down:** `prnewswire_rss` TooManyRedirects: Exceeded 30 redirects.
 
