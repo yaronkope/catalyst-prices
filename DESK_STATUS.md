@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-21 16:57Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-21 17:12Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 10 | 45 | ✅ | 44 movers, market open; 0 errors |
-| news.json | 15 | 45 | ✅ | 290 items (208 tagged = 72%), sources ok 19/21; 2 errors |
-| gnews.json | 112 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1242 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 833 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
+| candidates.json | 6 | 45 | ✅ | 43 movers, market open; 0 errors |
+| news.json | 6 | 45 | ✅ | 334 items (220 tagged = 66%), sources ok 30/36; 6 errors |
+| gnews.json | 7 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1258 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 849 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `truth_social` HTTP 403
+**news.json sources down:** `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403; `truth_social` HTTP 403
 
 ## Notes from Claude Code
 
