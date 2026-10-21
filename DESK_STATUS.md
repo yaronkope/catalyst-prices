@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-21 15:41Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-21 15:56Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 14 | 45 | ✅ | 34 movers, market open; 0 errors |
-| news.json | 20 | 45 | ✅ | 292 items (204 tagged = 70%), sources ok 19/21; 2 errors |
-| gnews.json | 36 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1166 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 758 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
+| candidates.json | 10 | 45 | ✅ | 40 movers, market open; 0 errors |
+| news.json | 14 | 45 | ✅ | 295 items (205 tagged = 69%), sources ok 20/21; 1 errors |
+| gnews.json | 52 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1182 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 773 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `truth_social` HTTP 403
+**news.json sources down:** `truth_social` HTTP 403
 
 ## Notes from Claude Code
 
