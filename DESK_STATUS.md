@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-21 02:48Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-21 03:03Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 2 | 45 | ✅ | 49 movers, market closed; 0 errors |
-| news.json | 7 | 45 | ✅ | 279 items (176 tagged = 63%), sources ok 21/21; 0 errors |
-| gnews.json | 104 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 393 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 1425 | 1560 | ✅ | 156 earnings (108 confirmed), 6 macro; 0 errors |
+| candidates.json | 17 | 45 | ✅ | 49 movers, market closed; 0 errors |
+| news.json | 2 | 45 | ✅ | 264 items (174 tagged = 66%), sources ok 20/21; 1 errors |
+| gnews.json | 119 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 408 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 1440 | 1560 | ✅ | 156 earnings (108 confirmed), 6 macro; 0 errors |
+
+**news.json sources down:** `prnewswire_rss` TooManyRedirects: Exceeded 30 redirects.
 
 ## Notes from Claude Code
 
