@@ -1,67 +1,7 @@
 {
-"generated_at": "2026-10-20T03:03:43+00:00",
+"generated_at": "2026-10-21T03:03:51+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "ABBN.SW",
-"name": "ABB LTD N",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.8305,
-"rev_est": 9755280190.0
-},
-{
-"t": "GE",
-"name": "GE Aerospace",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.008,
-"rev_est": 12877838930.0
-},
-{
-"t": "GM",
-"name": "General Motors Company",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.6314,
-"rev_est": 48762897360.0
-},
-{
-"t": "HAL",
-"name": "Halliburton Company",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.585,
-"rev_est": 5578265500.0
-},
-{
-"t": "NOC",
-"name": "Northrop Grumman Corporation",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 7.1807,
-"rev_est": 11123838560.0
-},
-{
-"t": "RTX",
-"name": "RTX Corporation",
-"date": "2026-10-20",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.7791,
-"rev_est": 24105403810.0
-},
 {
 "t": "LBRT",
 "name": "Liberty Energy Inc.",
@@ -90,7 +30,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 6.8017,
-"rev_est": 63400497920.0
+"rev_est": 63405722410.0
 },
 {
 "t": "T",
@@ -129,7 +69,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.6724,
+"eps_est": 0.6723,
 "rev_est": 1071238500.0
 },
 {
@@ -139,8 +79,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2823,
-"rev_est": 3334150000.0
+"eps_est": 1.2723,
+"rev_est": 3205600000.0
 },
 {
 "t": "LMT",
@@ -169,7 +109,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0822,
+"eps_est": 4.0827,
 "rev_est": 4139971110.0
 },
 {
@@ -269,8 +209,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.3829,
-"rev_est": 5612552450.0
+"eps_est": 6.385,
+"rev_est": 5613461540.0
 },
 {
 "t": "005930.KS",
@@ -299,8 +239,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.7066,
-"rev_est": 18059456030.0
+"eps_est": 1.6788,
+"rev_est": 18111649030.0
 },
 {
 "t": "DSY.PA",
@@ -349,8 +289,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.9663,
-"rev_est": 127793710140.0
+"eps_est": 2.9872,
+"rev_est": 127853434530.0
 },
 {
 "t": "MSFT",
@@ -359,8 +299,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7184,
-"rev_est": 90723217990.0
+"eps_est": 4.7161,
+"rev_est": 90724359020.0
 },
 {
 "t": "NOW",
@@ -369,8 +309,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.0228,
-"rev_est": 4094374960.0
+"eps_est": 1.0231,
+"rev_est": 4094546460.0
 },
 {
 "t": "PSX",
@@ -379,8 +319,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 11.8356,
-"rev_est": 43228629540.0
+"eps_est": 11.8578,
+"rev_est": 43231629540.0
 },
 {
 "t": "TMUS",
@@ -400,7 +340,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.1227,
-"rev_est": 75495430740.0
+"rev_est": 75317697410.0
 },
 {
 "t": "VRT",
@@ -409,8 +349,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.8238,
-"rev_est": 3762687410.0
+"eps_est": 1.8237,
+"rev_est": 3762379600.0
 },
 {
 "t": "1211.HK",
@@ -430,7 +370,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.9807,
-"rev_est": 202162044620.0
+"rev_est": 202197758900.0
 },
 {
 "t": "CAT",
@@ -499,8 +439,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0537,
-"rev_est": 5942073960.0
+"eps_est": 3.0392,
+"rev_est": 5936779840.0
 },
 {
 "t": "LNT",
@@ -509,8 +449,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2822,
-"rev_est": 1296000000.0
+"eps_est": 1.2955,
+"rev_est": 1318000000.0
 },
 {
 "t": "MSTR",
@@ -539,8 +479,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.939,
-"rev_est": 2878195510.0
+"eps_est": 0.9365,
+"rev_est": 2879706370.0
 },
 {
 "t": "OWL",
@@ -559,18 +499,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.9902,
+"eps_est": 4.9903,
 "rev_est": 10892730030.0
-},
-{
-"t": "RIOT",
-"name": "Riot Platforms, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.3006,
-"rev_est": 160453670.0
 },
 {
 "t": "RIVN",
@@ -599,7 +529,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9631,
+"eps_est": 0.9638,
 "rev_est": 2274110500.0
 },
 {
@@ -609,7 +539,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3673,
+"eps_est": 1.3742,
 "rev_est": 4282973720.0
 },
 {
@@ -619,8 +549,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 15.6069,
-"rev_est": 160119885550.0
+"eps_est": 15.7782,
+"rev_est": 161344198050.0
 },
 {
 "t": "8035.T",
@@ -639,8 +569,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.335,
-"rev_est": 736906520.0
+"eps_est": 0.3135,
+"rev_est": 750634160.0
 },
 {
 "t": "CVX",
@@ -649,8 +579,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.8538,
-"rev_est": 60673754080.0
+"eps_est": 4.8208,
+"rev_est": 60816483850.0
 },
 {
 "t": "GD",
@@ -669,8 +599,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0031,
-"rev_est": 104559757460.0
+"eps_est": 4.0169,
+"rev_est": 104708752700.0
 },
 {
 "t": "AAPL",
@@ -679,8 +609,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9821,
-"rev_est": 113626875100.0
+"eps_est": 1.9819,
+"rev_est": 113357085200.0
 },
 {
 "t": "AESI",
@@ -689,7 +619,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.2325,
+"eps_est": -0.24,
 "rev_est": 264393270.0
 },
 {
@@ -699,8 +629,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4851,
-"rev_est": 672076710.0
+"eps_est": 2.4865,
+"rev_est": 672043700.0
 },
 {
 "t": "CIFR",
@@ -708,7 +638,7 @@
 "date": "2026-11-02",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": -0.1625,
 "rev_est": 37209950.0
 },
@@ -719,8 +649,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 5.3232,
-"rev_est": 4765399640.0
+"eps_est": 5.4508,
+"rev_est": 4773822730.0
 },
 {
 "t": "TSEM",
@@ -780,7 +710,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.2085,
-"rev_est": 1361642860.0
+"rev_est": 1359716670.0
 },
 {
 "t": "DNN",
@@ -789,7 +719,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.015,
+"eps_est": -0.0167,
 "rev_est": null
 },
 {
@@ -798,7 +728,7 @@
 "date": "2026-11-03",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 3.5463,
 "rev_est": 8524657130.0
 },
@@ -819,7 +749,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.2007,
+"eps_est": 0.2029,
 "rev_est": 470108790.0
 },
 {
@@ -829,8 +759,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.0051,
-"rev_est": 3085092830.0
+"eps_est": 0.0001,
+"rev_est": 3062319020.0
 },
 {
 "t": "MPC",
@@ -839,8 +769,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 25.3701,
-"rev_est": 43643500150.0
+"eps_est": 25.509,
+"rev_est": 43643954700.0
 },
 {
 "t": "MTDR",
@@ -849,7 +779,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.7626,
+"eps_est": 1.759,
 "rev_est": 1070446050.0
 },
 {
@@ -859,7 +789,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.04,
+"eps_est": -0.041,
 "rev_est": 0.0
 },
 {
@@ -868,7 +798,7 @@
 "date": "2026-11-03",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 1.0371,
 "rev_est": 14941898910.0
 },
@@ -950,7 +880,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.0074,
-"rev_est": 65434850.0
+"rev_est": 63872350.0
 },
 {
 "t": "MARA",
@@ -990,7 +920,17 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.1553,
-"rev_est": 10129778290.0
+"rev_est": 10129786290.0
+},
+{
+"t": "RIOT",
+"name": "Riot Platforms, Inc.",
+"date": "2026-11-04",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.3006,
+"rev_est": 160453670.0
 },
 {
 "t": "SEI",
@@ -1019,7 +959,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.3116,
+"eps_est": 2.3225,
 "rev_est": 2886072800.0
 },
 {
@@ -1059,8 +999,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.99,
-"rev_est": 18110207790.0
+"eps_est": 2.9972,
+"rev_est": 18135598690.0
 },
 {
 "t": "DVN",
@@ -1069,7 +1009,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2754,
+"eps_est": 1.263,
 "rev_est": 6853351270.0
 },
 {
@@ -1079,7 +1019,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.4118,
+"eps_est": 4.4254,
 "rev_est": 7283938880.0
 },
 {
@@ -1229,7 +1169,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.2554,
+"eps_est": -0.2588,
 "rev_est": 993170.0
 },
 {
@@ -1280,7 +1220,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.0558,
-"rev_est": 10299491080.0
+"rev_est": 10296755910.0
 },
 {
 "t": "AMRQ.L",
@@ -1340,7 +1280,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.8125,
-"rev_est": 23153830040.0
+"rev_est": 23242580040.0
 },
 {
 "t": "LUMI.TA",
@@ -1360,7 +1300,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.4733,
-"rev_est": 108976837760.0
+"rev_est": 108976833310.0
 },
 {
 "t": "ESTC",
@@ -1621,10 +1561,6 @@
 {
 "t": "CMI",
 "date": "2026-11-20"
-},
-{
-"t": "DELL",
-"date": "2026-10-20"
 },
 {
 "t": "GEV",
