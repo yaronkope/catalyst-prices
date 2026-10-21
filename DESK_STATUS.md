@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-21 19:28Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-21 19:43Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 1 | 45 | ✅ | 38 movers, market open; 0 errors |
-| news.json | 6 | 45 | ✅ | 329 items (215 tagged = 65%), sources ok 20/21; 1 errors |
-| gnews.json | 23 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1393 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 985 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
+| candidates.json | 16 | 45 | ✅ | 38 movers, market open; 0 errors |
+| news.json | 1 | 45 | ✅ | 311 items (198 tagged = 64%), sources ok 19/21; 2 errors |
+| gnews.json | 38 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1408 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 1000 | 1560 | ✅ | 150 earnings (106 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `truth_social` HTTP 403
+**news.json sources down:** `edgar_fts` timeout after 15s; `truth_social` HTTP 403
 
 ## Notes from Claude Code
 
