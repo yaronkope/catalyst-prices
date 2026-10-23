@@ -1,57 +1,7 @@
 {
-"generated_at": "2026-10-22T03:04:12+00:00",
+"generated_at": "2026-10-23T03:03:40+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "BE",
-"name": "Bloom Energy Corporation",
-"date": "2026-10-22",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.6723,
-"rev_est": 1071661090.0
-},
-{
-"t": "BX",
-"name": "Blackstone Inc.",
-"date": "2026-10-22",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.2586,
-"rev_est": 3205600000.0
-},
-{
-"t": "LMT",
-"name": "Lockheed Martin Corporation",
-"date": "2026-10-22",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 7.5223,
-"rev_est": 20462885300.0
-},
-{
-"t": "VLO",
-"name": "Valero Energy Corporation",
-"date": "2026-10-22",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 21.1809,
-"rev_est": 41744365210.0
-},
-{
-"t": "WDC",
-"name": "Western Digital Corporation",
-"date": "2026-10-22",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.0962,
-"rev_est": 4145113980.0
-},
 {
 "t": "INFY",
 "name": "Infosys Limited",
@@ -150,7 +100,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 6.3755,
-"rev_est": 5612673990.0
+"rev_est": 5612693040.0
 },
 {
 "t": "005930.KS",
@@ -169,7 +119,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.0364,
+"eps_est": 2.0391,
 "rev_est": 6600058440.0
 },
 {
@@ -200,7 +150,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.4035,
-"rev_est": 46784192500.0
+"rev_est": 45806791430.0
 },
 {
 "t": "FTNT",
@@ -259,7 +209,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 11.805,
+"eps_est": 11.7934,
 "rev_est": 43229269300.0
 },
 {
@@ -329,8 +279,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.1083,
-"rev_est": 1205173910.0
+"eps_est": -0.0912,
+"rev_est": 1211214500.0
 },
 {
 "t": "CTSH",
@@ -350,7 +300,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.575,
-"rev_est": 1757469180.0
+"rev_est": 1757473280.0
 },
 {
 "t": "EFXT",
@@ -410,7 +360,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.961,
-"rev_est": 4946946260.0
+"rev_est": 4947694260.0
 },
 {
 "t": "NCLH",
@@ -419,7 +369,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9365,
+"eps_est": 0.939,
 "rev_est": 2879706370.0
 },
 {
@@ -469,7 +419,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9681,
+"eps_est": 0.9706,
 "rev_est": 2272430600.0
 },
 {
@@ -489,8 +439,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 15.8765,
-"rev_est": 162114198050.0
+"eps_est": 15.9276,
+"rev_est": 162640223370.0
 },
 {
 "t": "8035.T",
@@ -509,8 +459,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3077,
-"rev_est": 750634160.0
+"eps_est": 0.2727,
+"rev_est": 753865590.0
 },
 {
 "t": "CVX",
@@ -539,7 +489,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0438,
+"eps_est": 4.0327,
 "rev_est": 106024365960.0
 },
 {
@@ -709,8 +659,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 25.3401,
-"rev_est": 43817125160.0
+"eps_est": 25.3707,
+"rev_est": 43812588800.0
 },
 {
 "t": "MTDR",
@@ -719,8 +669,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.7725,
-"rev_est": 1070446050.0
+"eps_est": 1.7811,
+"rev_est": 1058589310.0
 },
 {
 "t": "NXE",
@@ -749,8 +699,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.7306,
-"rev_est": 4239488210.0
+"eps_est": 0.7312,
+"rev_est": 4240942750.0
 },
 {
 "t": "TLN",
@@ -769,8 +719,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.5441,
-"rev_est": 2394101580.0
+"eps_est": 1.5614,
+"rev_est": 2448087290.0
 },
 {
 "t": "ARM",
@@ -808,9 +758,9 @@
 "date": "2026-11-04",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
-"eps_est": -0.0617,
-"rev_est": 59371640.0
+"confirmed": true,
+"eps_est": -0.0746,
+"rev_est": 58527890.0
 },
 {
 "t": "MARA",
@@ -829,8 +779,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.8213,
-"rev_est": 5659603000.0
+"eps_est": 0.7966,
+"rev_est": 5658031570.0
 },
 {
 "t": "PTC",
@@ -899,7 +849,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.289,
+"eps_est": 2.2898,
 "rev_est": 2834397660.0
 },
 {
@@ -949,7 +899,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2817,
+"eps_est": 1.2917,
 "rev_est": 6853351270.0
 },
 {
@@ -968,7 +918,7 @@
 "date": "2026-11-05",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": -0.665,
 "rev_est": 221329820.0
 },
@@ -980,7 +930,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 250.4119,
-"rev_est": 18294825320.0
+"rev_est": 18296969740.0
 },
 {
 "t": "MP",
@@ -1016,9 +966,9 @@
 "t": "UMAC",
 "name": "Unusual Machines, Inc.",
 "date": "2026-11-05",
-"time": "bmo",
+"time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": -0.16,
 "rev_est": 12280230.0
 },
@@ -1099,8 +1049,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.655,
-"rev_est": 904809050.0
+"eps_est": -0.6389,
+"rev_est": 905738460.0
 },
 {
 "t": "OKLO",
@@ -1109,7 +1059,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.2576,
+"eps_est": -0.2588,
 "rev_est": 1049590.0
 },
 {
@@ -1119,8 +1069,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -1.196,
-"rev_est": 3541404090.0
+"eps_est": -1.2053,
+"rev_est": 3540875520.0
 },
 {
 "t": "ENR.DE",
@@ -1196,7 +1146,7 @@
 "t": "NICE",
 "name": "NICE Ltd",
 "date": "2026-11-12",
-"time": "unknown",
+"time": "bmo",
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 2.7805,
@@ -1399,8 +1349,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.3884,
-"rev_est": 511894720.0
+"eps_est": 0.4217,
+"rev_est": 510431840.0
 },
 {
 "t": "CRM",
@@ -1491,16 +1441,16 @@
 "date": "2026-10-30"
 },
 {
-"t": "APA",
-"date": "2026-10-22"
-},
-{
 "t": "AMAT",
 "date": "2026-11-19"
 },
 {
 "t": "ASML",
 "date": "2026-10-27"
+},
+{
+"t": "CAT",
+"date": "2026-10-26"
 },
 {
 "t": "CMI",
@@ -1511,8 +1461,16 @@
 "date": "2026-10-27"
 },
 {
+"t": "GM",
+"date": "2026-12-04"
+},
+{
 "t": "JNJ",
 "date": "2026-11-24"
+},
+{
+"t": "LBRT",
+"date": "2026-12-04"
 },
 {
 "t": "LMT",
@@ -1525,6 +1483,10 @@
 {
 "t": "PSX",
 "date": "2026-11-17"
+},
+{
+"t": "QCOM",
+"date": "2026-12-03"
 },
 {
 "t": "TMUS",
