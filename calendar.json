@@ -1,37 +1,7 @@
 {
-"generated_at": "2026-10-23T03:03:40+00:00",
+"generated_at": "2026-10-24T03:03:37+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "INFY",
-"name": "Infosys Limited",
-"date": "2026-10-23",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.205,
-"rev_est": 492088900310.0
-},
-{
-"t": "SAAB-B.ST",
-"name": "SAAB AB ser. B",
-"date": "2026-10-23",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.5696,
-"rev_est": 20020370170.0
-},
-{
-"t": "SLB",
-"name": "SLB Limited",
-"date": "2026-10-23",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.6147,
-"rev_est": 9266407800.0
-},
 {
 "t": "CDNS",
 "name": "Cadence Design Systems, Inc.",
@@ -39,8 +9,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.046,
-"rev_est": 1612387030.0
+"eps_est": 2.0471,
+"rev_est": 1612887030.0
 },
 {
 "t": "VZ",
@@ -61,16 +31,6 @@
 "confirmed": true,
 "eps_est": 86312.01,
 "rev_est": 99678538450000.0
-},
-{
-"t": "AROC",
-"name": "Archrock, Inc.",
-"date": "2026-10-27",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.4738,
-"rev_est": 386344680.0
 },
 {
 "t": "BA",
@@ -110,7 +70,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 13710.027,
-"rev_est": 196404689890000.0
+"rev_est": 195940858880000.0
 },
 {
 "t": "AEP",
@@ -169,8 +129,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0031,
-"rev_est": 11997041270.0
+"eps_est": 4.0043,
+"rev_est": 12004512780.0
 },
 {
 "t": "GOOGL",
@@ -179,8 +139,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.9639,
-"rev_est": 127853434530.0
+"eps_est": 2.9659,
+"rev_est": 127832702820.0
 },
 {
 "t": "MSFT",
@@ -189,8 +149,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7161,
-"rev_est": 90723191680.0
+"eps_est": 4.7153,
+"rev_est": 90716592940.0
 },
 {
 "t": "NOW",
@@ -200,7 +160,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.0231,
-"rev_est": 4094546460.0
+"rev_est": 4094810350.0
 },
 {
 "t": "PSX",
@@ -259,8 +219,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9807,
-"rev_est": 202202785780.0
+"eps_est": 1.9823,
+"rev_est": 202202781700.0
 },
 {
 "t": "CAT",
@@ -289,8 +249,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4638,
-"rev_est": 5646024920.0
+"eps_est": 1.4639,
+"rev_est": 5646242310.0
 },
 {
 "t": "DLR",
@@ -300,7 +260,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.575,
-"rev_est": 1757473280.0
+"rev_est": 1757490670.0
 },
 {
 "t": "EFXT",
@@ -359,8 +319,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.961,
-"rev_est": 4947694260.0
+"eps_est": 2.9568,
+"rev_est": 4943086000.0
 },
 {
 "t": "NCLH",
@@ -369,8 +329,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.939,
-"rev_est": 2879706370.0
+"eps_est": 0.9407,
+"rev_est": 2881261930.0
 },
 {
 "t": "OWL",
@@ -513,6 +473,16 @@
 "rev_est": 264466930.0
 },
 {
+"t": "AROC",
+"name": "Archrock, Inc.",
+"date": "2026-11-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.4738,
+"rev_est": 386344680.0
+},
+{
 "t": "CHKP",
 "name": "Check Point Software Technologi",
 "date": "2026-11-02",
@@ -539,8 +509,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 5.4777,
-"rev_est": 4813305820.0
+"eps_est": 5.6005,
+"rev_est": 4844569450.0
 },
 {
 "t": "TSEM",
@@ -559,8 +529,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.04,
-"rev_est": 53035000.0
+"eps_est": -0.03,
+"rev_est": 53098330.0
 },
 {
 "t": "WMB",
@@ -569,7 +539,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.5384,
+"eps_est": 0.5412,
 "rev_est": 2928536080.0
 },
 {
@@ -620,7 +590,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.5463,
-"rev_est": 8543046080.0
+"rev_est": 8524657130.0
 },
 {
 "t": "KGS",
@@ -639,8 +609,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.2029,
-"rev_est": 470108790.0
+"eps_est": 0.2043,
+"rev_est": 470103350.0
 },
 {
 "t": "MOS",
@@ -649,8 +619,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0045,
-"rev_est": 3060819020.0
+"eps_est": -0.0203,
+"rev_est": 3055831040.0
 },
 {
 "t": "MPC",
@@ -779,7 +749,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.7966,
+"eps_est": 0.779,
 "rev_est": 5658031570.0
 },
 {
@@ -810,7 +780,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.3006,
-"rev_est": 160453670.0
+"rev_est": 160214780.0
 },
 {
 "t": "SEI",
@@ -889,7 +859,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0248,
+"eps_est": 3.0484,
 "rev_est": 18939142100.0
 },
 {
@@ -899,7 +869,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2917,
+"eps_est": 1.3143,
 "rev_est": 6853351270.0
 },
 {
@@ -909,8 +879,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.4417,
-"rev_est": 7289224600.0
+"eps_est": 4.4558,
+"rev_est": 7179346520.0
 },
 {
 "t": "IREN",
@@ -939,8 +909,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0018,
-"rev_est": 119126110.0
+"eps_est": -0.0061,
+"rev_est": 119031110.0
 },
 {
 "t": "NET",
@@ -969,8 +939,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.16,
-"rev_est": 12280230.0
+"eps_est": -0.135,
+"rev_est": 12388870.0
 },
 {
 "t": "USAR",
@@ -991,6 +961,16 @@
 "confirmed": true,
 "eps_est": 0.641,
 "rev_est": 3790061960.0
+},
+{
+"t": "OKLO",
+"name": "Oklo Inc.",
+"date": "2026-11-06",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.2588,
+"rev_est": 1049590.0
 },
 {
 "t": "VST",
@@ -1029,8 +1009,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4534,
-"rev_est": 6834505780.0
+"eps_est": 1.4661,
+"rev_est": 6854592450.0
 },
 {
 "t": "BWAY",
@@ -1053,23 +1033,13 @@
 "rev_est": 905738460.0
 },
 {
-"t": "OKLO",
-"name": "Oklo Inc.",
-"date": "2026-11-10",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.2588,
-"rev_est": 1049590.0
-},
-{
 "t": "CRWV",
 "name": "CoreWeave, Inc.",
 "date": "2026-11-11",
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -1.2053,
+"eps_est": -1.2092,
 "rev_est": 3540875520.0
 },
 {
@@ -1170,7 +1140,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.8125,
-"rev_est": 23242580040.0
+"rev_est": 23239932540.0
 },
 {
 "t": "LUMI.TA",
@@ -1391,6 +1361,16 @@
 "confirmed": false,
 "eps_est": 0.0914,
 "rev_est": 310193220.0
+},
+{
+"t": "UEC",
+"name": "Uranium Energy Corp.",
+"date": "2026-12-08",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.005,
+"rev_est": 9501500.0
 }
 ],
 "macro": [
@@ -1441,6 +1421,10 @@
 "date": "2026-10-30"
 },
 {
+"t": "AEE",
+"date": "2026-12-08"
+},
+{
 "t": "AMAT",
 "date": "2026-11-19"
 },
@@ -1477,6 +1461,10 @@
 "date": "2026-12-01"
 },
 {
+"t": "MTDR",
+"date": "2026-11-10"
+},
+{
 "t": "MSFT",
 "date": "2026-11-19"
 },
@@ -1491,6 +1479,10 @@
 {
 "t": "TMUS",
 "date": "2026-11-25"
+},
+{
+"t": "WDC",
+"date": "2026-12-04"
 }
 ],
 "errors": []
