@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-24T03:03:37+00:00",
+"generated_at": "2026-10-25T04:03:55+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -9,8 +9,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.0471,
-"rev_est": 1612887030.0
+"eps_est": 2.0532,
+"rev_est": 1615109250.0
 },
 {
 "t": "VZ",
@@ -50,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.6149,
-"rev_est": 7738618140.0
+"rev_est": 7747893840.0
 },
 {
 "t": "RCL",
@@ -79,28 +79,28 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.0391,
+"eps_est": 2.0393,
 "rev_est": 6600058440.0
 },
 {
 "t": "AIR.PA",
 "name": "AIRBUS SE",
 "date": "2026-10-28",
-"time": "bmo",
+"time": "amc",
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.6788,
-"rev_est": 18111649030.0
+"rev_est": 18049243580.0
 },
 {
 "t": "DSY.PA",
 "name": "DASSAULT SYSTEMES",
 "date": "2026-10-28",
-"time": "bmo",
+"time": "amc",
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.3097,
-"rev_est": 1519603450.0
+"rev_est": 1520730410.0
 },
 {
 "t": "F",
@@ -120,7 +120,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.8585,
-"rev_est": 2063837880.0
+"rev_est": 2063837720.0
 },
 {
 "t": "GEV",
@@ -149,8 +149,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7153,
-"rev_est": 90716592940.0
+"eps_est": 4.7199,
+"rev_est": 90751435050.0
 },
 {
 "t": "NOW",
@@ -239,8 +239,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0912,
-"rev_est": 1211214500.0
+"eps_est": 0.0671,
+"rev_est": 1221487230.0
 },
 {
 "t": "CTSH",
@@ -349,8 +349,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.9935,
-"rev_est": 10910437420.0
+"eps_est": 4.9957,
+"rev_est": 10907835860.0
 },
 {
 "t": "RIVN",
@@ -379,7 +379,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9706,
+"eps_est": 0.9704,
 "rev_est": 2272430600.0
 },
 {
@@ -490,7 +490,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.4851,
-"rev_est": 672076710.0
+"rev_est": 672140140.0
 },
 {
 "t": "CIFR",
@@ -699,8 +699,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.4745,
-"rev_est": 1377405590.0
+"eps_est": 0.4753,
+"rev_est": 1377533970.0
 },
 {
 "t": "FSLY",
@@ -710,7 +710,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.1186,
-"rev_est": 187803310.0
+"rev_est": 187802480.0
 },
 {
 "t": "GFS",
@@ -730,7 +730,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.0746,
-"rev_est": 58527890.0
+"rev_est": 57174770.0
 },
 {
 "t": "MARA",
@@ -749,8 +749,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.779,
-"rev_est": 5658031570.0
+"eps_est": 0.7872,
+"rev_est": 5666402620.0
 },
 {
 "t": "PTC",
@@ -780,7 +780,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.3006,
-"rev_est": 160214780.0
+"rev_est": 159048120.0
 },
 {
 "t": "SEI",
@@ -830,7 +830,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.6713,
-"rev_est": 1117864870.0
+"rev_est": 1117865540.0
 },
 {
 "t": "BSY",
@@ -920,7 +920,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.3431,
-"rev_est": 738089270.0
+"rev_est": 738090880.0
 },
 {
 "t": "RCAT",
@@ -969,8 +969,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.2588,
-"rev_est": 1049590.0
+"eps_est": -0.2641,
+"rev_est": 1091870.0
 },
 {
 "t": "VST",
@@ -1086,7 +1086,7 @@
 "t": "AMRQ.L",
 "name": "AMAROQ LTD. COM SHS NPV (DI)",
 "date": "2026-11-12",
-"time": "unknown",
+"time": "bmo",
 "source": "yfinance",
 "confirmed": true,
 "eps_est": null,
@@ -1180,7 +1180,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.9715,
-"rev_est": 3307503520.0
+"rev_est": 3307502950.0
 },
 {
 "t": "POLI.TA",
@@ -1239,7 +1239,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": null,
+"eps_est": 3.48,
 "rev_est": null
 },
 {
@@ -1300,7 +1300,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.9347,
-"rev_est": 816171160.0
+"rev_est": 816171110.0
 },
 {
 "t": "WDAY",
@@ -1340,7 +1340,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.5999,
-"rev_est": 1654186550.0
+"rev_est": 1654183980.0
 },
 {
 "t": "HPE",
@@ -1360,7 +1360,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.0914,
-"rev_est": 310193220.0
+"rev_est": 310192610.0
 },
 {
 "t": "UEC",
@@ -1371,6 +1371,26 @@
 "confirmed": false,
 "eps_est": -0.005,
 "rev_est": 9501500.0
+},
+{
+"t": "AVGO",
+"name": "Broadcom Inc.",
+"date": "2026-12-09",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.8302,
+"rev_est": 34903492790.0
+},
+{
+"t": "SNPS",
+"name": "Synopsys, Inc.",
+"date": "2026-12-09",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 4.1332,
+"rev_est": 2562189820.0
 }
 ],
 "macro": [
@@ -1409,6 +1429,12 @@
 "title": "US jobs report (November 2026)",
 "time_et": "08:30",
 "source": "https://www.bls.gov/schedule/news_release/empsit.htm"
+},
+{
+"date": "2026-12-09",
+"title": "FOMC decision + SEP (Dec 8-9 meeting)",
+"time_et": "14:00",
+"source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (time = usual statement time, not stated on the page)"
 }
 ],
 "ex_dividend": [
@@ -1429,8 +1455,16 @@
 "date": "2026-11-19"
 },
 {
+"t": "AROC",
+"date": "2026-11-03"
+},
+{
 "t": "ASML",
 "date": "2026-10-27"
+},
+{
+"t": "CCL",
+"date": "2026-11-06"
 },
 {
 "t": "CAT",
@@ -1453,6 +1487,10 @@
 "date": "2026-11-24"
 },
 {
+"t": "LHX",
+"date": "2026-12-04"
+},
+{
 "t": "LBRT",
 "date": "2026-12-04"
 },
@@ -1469,12 +1507,20 @@
 "date": "2026-11-19"
 },
 {
+"t": "MOS",
+"date": "2026-12-04"
+},
+{
 "t": "PSX",
 "date": "2026-11-17"
 },
 {
 "t": "QCOM",
 "date": "2026-12-03"
+},
+{
+"t": "SLB",
+"date": "2026-12-02"
 },
 {
 "t": "TMUS",
