@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-25 14:18Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-25 14:33Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 12 | 45 | ✅ | 61 movers, market closed; 0 errors |
-| news.json | 17 | 45 | ✅ | 220 items (145 tagged = 66%), sources ok 20/21; 1 errors |
-| gnews.json | 14 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 2524 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 615 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
+| candidates.json | 7 | 45 | ✅ | 61 movers, market closed; 0 errors |
+| news.json | 12 | 45 | ✅ | 211 items (145 tagged = 69%), sources ok 20/21; 1 errors |
+| gnews.json | 29 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 2539 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 630 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
 
-**news.json sources down:** `edgar_fts` timeout after 15s
+**news.json sources down:** `prnewswire_rss` TooManyRedirects: Exceeded 30 redirects.
 
 ## Notes from Claude Code
 
