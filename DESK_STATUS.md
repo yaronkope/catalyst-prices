@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-25 16:20Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-25 16:35Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 13 | 45 | ✅ | 61 movers, market closed; 0 errors |
-| news.json | 18 | 45 | ✅ | 229 items (152 tagged = 66%), sources ok 21/21; 0 errors |
-| gnews.json | 15 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 2645 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 736 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
+| candidates.json | 8 | 45 | ✅ | 61 movers, market closed; 0 errors |
+| news.json | 13 | 45 | ✅ | 219 items (150 tagged = 68%), sources ok 20/21; 1 errors |
+| gnews.json | 30 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 2660 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 751 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
+
+**news.json sources down:** `bing_israel_defense` no RSS entries for query 'Israel defense'
 
 ## Notes from Claude Code
 
