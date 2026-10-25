@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-25 23:24Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-25 23:39Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 17 | 45 | ✅ | 61 movers, market closed; 0 errors |
-| news.json | 2 | 45 | ✅ | 133 items (70 tagged = 53%), sources ok 20/21; 1 errors |
-| gnews.json | 79 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3069 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 1160 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
+| candidates.json | 11 | 45 | ✅ | 58 movers, market closed; 0 errors |
+| news.json | 17 | 45 | ✅ | 133 items (70 tagged = 53%), sources ok 20/21; 1 errors |
+| gnews.json | 94 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3084 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 1175 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
 
 **news.json sources down:** `prnewswire_rss` timeout after 15s
 
