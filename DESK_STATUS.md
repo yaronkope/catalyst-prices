@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 04:11Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 04:26Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 5 | 45 | ✅ | 58 movers, market closed; 0 errors |
-| news.json | 10 | 45 | ✅ | 129 items (63 tagged = 49%), sources ok 20/21; 1 errors |
-| gnews.json | 6 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3357 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 8 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 20 | 45 | ✅ | 58 movers, market closed; 0 errors |
+| news.json | 5 | 45 | ✅ | 128 items (62 tagged = 48%), sources ok 20/21; 1 errors |
+| gnews.json | 22 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3372 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 23 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
 
-**news.json sources down:** `prnewswire_rss` timeout after 15s
+**news.json sources down:** `prnewswire_rss` HTTP 502
 
 ## Notes from Claude Code
 
