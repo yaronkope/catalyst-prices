@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 20:06Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 20:22Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 20 | 45 | ✅ | 64 movers, market open; 0 errors |
-| news.json | 4 | 45 | ✅ | 223 items (147 tagged = 66%), sources ok 17/21; 4 errors |
-| gnews.json | 122 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 4311 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 963 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 15 | 45 | ✅ | 54 movers, market post; 0 errors |
+| news.json | 19 | 45 | ✅ | 223 items (147 tagged = 66%), sources ok 17/21; 4 errors |
+| gnews.json | 17 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 4327 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 978 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
 
 **news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `calcalist_market` HTTP 429
 
