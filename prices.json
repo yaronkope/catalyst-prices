@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-26T07:43:49.660187+00:00",
+"generated_at": "2026-10-26T07:58:54.764898+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -368,14 +368,14 @@
 "mcap_usd": 84762387320
 },
 "1211.HK": {
-"price": 70.9,
+"price": 70.95,
 "prev_close": 71.6,
-"move_pct": -0.978,
+"move_pct": -0.908,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.03864,
+"ret_5d": -0.03797,
 "mcap_usd": 83235640187
 },
 "CDNS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 110.14,
+"price": 110.42,
 "prev_close": 116.72,
-"move_pct": -5.637,
+"move_pct": -5.398,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00539,
+"ret_5d": 0.00794,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 101.44,
+"price": 101.61,
 "prev_close": 103.27,
-"move_pct": -1.772,
+"move_pct": -1.607,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02142,
+"ret_5d": -0.01978,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 2.998,
+"price": 3.0,
 "prev_close": 2.64,
-"move_pct": 13.561,
+"move_pct": 13.636,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.01962,
+"ret_5d": -0.01897,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 80033.25,
+"price": 79961.2109,
 "prev_close": 80024.0078,
-"move_pct": 0.012,
+"move_pct": -0.078,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.04736,
+"ret_5d": -0.04822,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.1095,
+"price": 3.113,
 "prev_close": 3.1125,
-"move_pct": -0.096,
+"move_pct": 0.015,
 "asof": "2026-10-26T00:00:00+00:00",
 "session_date": "2026-10-26",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.00511,
+"ret_5d": 0.00625,
 "mcap_usd": null
 },
 "^TA125.TA": {
