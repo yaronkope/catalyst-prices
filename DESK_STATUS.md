@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 09:15Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 09:30Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 57 movers, market pre; 0 errors |
-| news.json | 13 | 45 | ✅ | 157 items (86 tagged = 55%), sources ok 20/21; 1 errors |
-| gnews.json | 70 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3660 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 312 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 3 | 45 | ✅ | 56 movers, market pre; 0 errors |
+| news.json | 8 | 45 | ✅ | 185 items (93 tagged = 50%), sources ok 20/21; 1 errors |
+| gnews.json | 85 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3675 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 327 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
 
-**news.json sources down:** `prnewswire_rss` timeout after 15s
+**news.json sources down:** `bing_israel_defense` no RSS entries for query 'Israel defense'
 
 ## Notes from Claude Code
 
