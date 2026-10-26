@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-25T04:03:55+00:00",
+"generated_at": "2026-10-26T04:03:49+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -120,7 +120,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.8585,
-"rev_est": 2063837720.0
+"rev_est": 2063836640.0
 },
 {
 "t": "GEV",
@@ -249,7 +249,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4639,
+"eps_est": 1.4638,
 "rev_est": 5646242310.0
 },
 {
@@ -280,7 +280,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.3953,
-"rev_est": 16473360700.0
+"rev_est": 16473499590.0
 },
 {
 "t": "LHX",
@@ -289,8 +289,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0392,
-"rev_est": 5936779840.0
+"eps_est": 3.0343,
+"rev_est": 5940736520.0
 },
 {
 "t": "LNT",
@@ -369,8 +369,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 46.2722,
-"rev_est": 10676645260.0
+"eps_est": 46.4061,
+"rev_est": 10700329480.0
 },
 {
 "t": "WEC",
@@ -459,8 +459,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9819,
-"rev_est": 113357085200.0
+"eps_est": 1.9833,
+"rev_est": 113381085200.0
 },
 {
 "t": "AESI",
@@ -529,7 +529,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.03,
+"eps_est": -0.04,
 "rev_est": 53098330.0
 },
 {
@@ -620,7 +620,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.0203,
-"rev_est": 3055831040.0
+"rev_est": 3054531040.0
 },
 {
 "t": "MPC",
@@ -1270,7 +1270,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 0.3115,
-"rev_est": 1528559430.0
+"rev_est": 1528559730.0
 },
 {
 "t": "MDB",
@@ -1435,6 +1435,12 @@
 "title": "FOMC decision + SEP (Dec 8-9 meeting)",
 "time_et": "14:00",
 "source": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (time = usual statement time, not stated on the page)"
+},
+{
+"date": "2026-12-10",
+"title": "US CPI (November 2026)",
+"time_et": "08:30",
+"source": "https://www.bls.gov/schedule/news_release/cpi.htm"
 }
 ],
 "ex_dividend": [
@@ -1525,6 +1531,14 @@
 {
 "t": "TMUS",
 "date": "2026-11-25"
+},
+{
+"t": "TSM",
+"date": "2026-12-10"
+},
+{
+"t": "WEC",
+"date": "2026-11-13"
 },
 {
 "t": "WDC",
