@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 00:54Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 01:10Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 59 movers, market closed; 0 errors |
-| news.json | 12 | 45 | ✅ | 122 items (63 tagged = 52%), sources ok 20/21; 1 errors |
-| gnews.json | 50 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3160 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 1251 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
+| candidates.json | 3 | 45 | ✅ | 58 movers, market closed; 0 errors |
+| news.json | 8 | 45 | ✅ | 121 items (64 tagged = 53%), sources ok 19/21; 2 errors |
+| gnews.json | 65 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3175 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 1266 | 1560 | ✅ | 139 earnings (101 confirmed), 7 macro; 0 errors |
 
-**news.json sources down:** `prnewswire_rss` timeout after 15s
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `prnewswire_rss` HTTP 502
 
 ## Notes from Claude Code
 
