@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 05:27Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 05:42Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 0 | 45 | ✅ | 59 movers, market closed; 0 errors |
-| news.json | 5 | 45 | ✅ | 125 items (60 tagged = 48%), sources ok 20/22; 2 errors |
-| gnews.json | 82 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3432 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 84 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 16 | 45 | ✅ | 59 movers, market closed; 0 errors |
+| news.json | 1 | 45 | ✅ | 131 items (60 tagged = 46%), sources ok 20/22; 2 errors |
+| gnews.json | 97 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3447 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 99 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
 
-**news.json sources down:** `pentagon_contracts` HTTP 403; `prnewswire_rss` HTTP 502
+**news.json sources down:** `pentagon_contracts` HTTP 403; `prnewswire_rss` timeout after 15s
 
 ## Notes from Claude Code
 
