@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-26 12:48Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-26 13:03Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 1 | 45 | ✅ | 60 movers, market pre; 0 errors |
-| news.json | 6 | 45 | ✅ | 227 items (158 tagged = 70%), sources ok 17/21; 4 errors |
-| gnews.json | 43 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3873 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 524 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 16 | 45 | ✅ | 60 movers, market pre; 0 errors |
+| news.json | 1 | 45 | ✅ | 265 items (196 tagged = 74%), sources ok 18/21; 3 errors |
+| gnews.json | 58 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3888 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 540 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
 
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `prnewswire_rss` HTTP 502
+**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `prnewswire_rss` timeout after 15s
 
 ## Notes from Claude Code
 
