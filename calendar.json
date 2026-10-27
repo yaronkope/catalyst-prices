@@ -1,27 +1,7 @@
 {
-"generated_at": "2026-10-26T04:03:49+00:00",
+"generated_at": "2026-10-27T04:04:17+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "CDNS",
-"name": "Cadence Design Systems, Inc.",
-"date": "2026-10-26",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.0532,
-"rev_est": 1615109250.0
-},
-{
-"t": "VZ",
-"name": "Verizon Communications Inc.",
-"date": "2026-10-26",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.2743,
-"rev_est": 34852637740.0
-},
 {
 "t": "000660.KS",
 "name": "SK hynix",
@@ -29,8 +9,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 86312.01,
-"rev_est": 99678538450000.0
+"eps_est": 85590.555,
+"rev_est": 99592133040000.0
 },
 {
 "t": "BA",
@@ -80,7 +60,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.0393,
-"rev_est": 6600058440.0
+"rev_est": 6531923510.0
 },
 {
 "t": "AIR.PA",
@@ -149,8 +129,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.7199,
-"rev_est": 90751435050.0
+"eps_est": 4.7207,
+"rev_est": 90735945570.0
 },
 {
 "t": "NOW",
@@ -219,8 +199,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9823,
-"rev_est": 202202781700.0
+"eps_est": 1.9892,
+"rev_est": 202242791190.0
 },
 {
 "t": "CAT",
@@ -249,8 +229,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4638,
-"rev_est": 5646242310.0
+"eps_est": 1.4634,
+"rev_est": 5646668400.0
 },
 {
 "t": "DLR",
@@ -270,7 +250,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.3998,
-"rev_est": 899441830.0
+"rev_est": 894212000.0
 },
 {
 "t": "INTC",
@@ -289,8 +269,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0343,
-"rev_est": 5940736520.0
+"eps_est": 2.9452,
+"rev_est": 5936779840.0
 },
 {
 "t": "LNT",
@@ -309,8 +289,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 12.63,
-"rev_est": 129359170.0
+"eps_est": 5.82,
+"rev_est": 128979170.0
 },
 {
 "t": "MTZ",
@@ -339,8 +319,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.2258,
-"rev_est": 702875230.0
+"eps_est": 0.226,
+"rev_est": 703075230.0
 },
 {
 "t": "PWR",
@@ -379,8 +359,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9704,
-"rev_est": 2272430600.0
+"eps_est": 0.9718,
+"rev_est": 2201819820.0
 },
 {
 "t": "XEL",
@@ -389,7 +369,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3921,
+"eps_est": 1.3926,
 "rev_est": 4298658460.0
 },
 {
@@ -398,7 +378,7 @@
 "date": "2026-10-30",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 15.9276,
 "rev_est": 162640223370.0
 },
@@ -603,16 +583,6 @@
 "rev_est": 387817690.0
 },
 {
-"t": "KTOS",
-"name": "Kratos Defense & Security Solut",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.2043,
-"rev_est": 470103350.0
-},
-{
 "t": "MOS",
 "name": "Mosaic Company (The)",
 "date": "2026-11-03",
@@ -679,7 +649,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.2977,
+"eps_est": 8.3702,
 "rev_est": 1352859010.0
 },
 {
@@ -689,7 +659,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.5614,
+"eps_est": 1.581,
 "rev_est": 2448087290.0
 },
 {
@@ -729,8 +699,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0746,
-"rev_est": 57174770.0
+"eps_est": -0.1637,
+"rev_est": 56929190.0
 },
 {
 "t": "MARA",
@@ -819,7 +789,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.2898,
+"eps_est": 2.2883,
 "rev_est": 2834397660.0
 },
 {
@@ -883,6 +853,16 @@
 "rev_est": 7179346520.0
 },
 {
+"t": "FIVN",
+"name": "Five9, Inc.",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.7969,
+"rev_est": 319038290.0
+},
+{
 "t": "IREN",
 "name": "IREN LIMITED",
 "date": "2026-11-05",
@@ -891,6 +871,16 @@
 "confirmed": true,
 "eps_est": -0.665,
 "rev_est": 221329820.0
+},
+{
+"t": "KTOS",
+"name": "Kratos Defense & Security Solut",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.2043,
+"rev_est": 470103350.0
 },
 {
 "t": "MAERSK-B.CO",
@@ -921,16 +911,6 @@
 "confirmed": true,
 "eps_est": 0.3431,
 "rev_est": 738090880.0
-},
-{
-"t": "RCAT",
-"name": "Red Cat Holdings, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.18,
-"rev_est": 40684200.0
 },
 {
 "t": "UMAC",
@@ -980,7 +960,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0144,
-"rev_est": 6901848200.0
+"rev_est": 6916114870.0
 },
 {
 "t": "CEG",
@@ -989,18 +969,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.7099,
-"rev_est": 9290057950.0
-},
-{
-"t": "FIVN",
-"name": "Five9, Inc.",
-"date": "2026-11-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.7969,
-"rev_est": 319038290.0
+"eps_est": 3.7936,
+"rev_est": 9313800810.0
 },
 {
 "t": "OXY",
@@ -1049,8 +1019,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.3534,
-"rev_est": 12618870880.0
+"eps_est": 1.3784,
+"rev_est": 12710355880.0
 },
 {
 "t": "ICL",
@@ -1143,6 +1113,16 @@
 "rev_est": 23239932540.0
 },
 {
+"t": "RCAT",
+"name": "Red Cat Holdings, Inc.",
+"date": "2026-11-16",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.18,
+"rev_est": 40684200.0
+},
+{
 "t": "LUMI.TA",
 "name": "BK LEUMI LE ISRAEL",
 "date": "2026-11-17",
@@ -1230,7 +1210,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": 4.5283,
-"rev_est": 1943013980.0
+"rev_est": 1944353980.0
 },
 {
 "t": "PHOE.TA",
@@ -1471,10 +1451,6 @@
 {
 "t": "CCL",
 "date": "2026-11-06"
-},
-{
-"t": "CAT",
-"date": "2026-10-26"
 },
 {
 "t": "CMI",

@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-27 03:58Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-27 04:14Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 12 | 45 | ✅ | 51 movers, market closed; 0 errors |
-| news.json | 16 | 45 | ✅ | 239 items (170 tagged = 71%), sources ok 19/21; 2 errors |
-| gnews.json | 114 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 404 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 1435 | 1560 | ✅ | 139 earnings (101 confirmed), 8 macro; 0 errors |
+| candidates.json | 7 | 45 | ✅ | 52 movers, market closed; 0 errors |
+| news.json | 12 | 45 | ✅ | 241 items (167 tagged = 69%), sources ok 19/21; 2 errors |
+| gnews.json | 9 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 419 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 10 | 1560 | ✅ | 137 earnings (103 confirmed), 8 macro; 0 errors |
 
 **news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'
 
