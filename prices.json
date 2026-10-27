@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-27T07:15:34.924581+00:00",
+"generated_at": "2026-10-27T07:30:35.356353+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -368,14 +368,14 @@
 "mcap_usd": 84717737565
 },
 "1211.HK": {
-"price": 70.05,
+"price": 70.1,
 "prev_close": 70.8,
-"move_pct": -1.059,
+"move_pct": -0.989,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.04888,
+"ret_5d": -0.0482,
 "mcap_usd": 82280043071
 },
 "CDNS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 111.07,
+"price": 111.11,
 "prev_close": 115.81,
-"move_pct": -4.093,
+"move_pct": -4.058,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.02096,
+"ret_5d": 0.02133,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 102.0,
+"price": 102.04,
 "prev_close": 101.76,
-"move_pct": 0.236,
+"move_pct": 0.275,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00206,
+"ret_5d": 0.00246,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.034,
+"price": 3.033,
 "prev_close": 2.602,
-"move_pct": 16.603,
+"move_pct": 16.564,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.02396,
+"ret_5d": 0.02362,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 79462.9922,
+"price": 79577.4688,
 "prev_close": 80006.6562,
-"move_pct": -0.68,
+"move_pct": -0.536,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02274,
+"ret_5d": -0.02133,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.0752,
+"price": 3.0715,
 "prev_close": 3.1047,
-"move_pct": -0.952,
+"move_pct": -1.07,
 "asof": "2026-10-27T00:00:00+00:00",
 "session_date": "2026-10-27",
 "stale": false,
 "currency": "ILS",
-"ret_5d": -0.0087,
+"ret_5d": -0.00989,
 "mcap_usd": null
 },
 "^TA125.TA": {
