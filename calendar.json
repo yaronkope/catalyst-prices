@@ -1,47 +1,7 @@
 {
-"generated_at": "2026-10-27T04:04:17+00:00",
+"generated_at": "2026-10-28T04:04:07+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "000660.KS",
-"name": "SK hynix",
-"date": "2026-10-27",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 85590.555,
-"rev_est": 99592133040000.0
-},
-{
-"t": "BA",
-"name": "Boeing Company (The)",
-"date": "2026-10-27",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.201,
-"rev_est": 24373716540.0
-},
-{
-"t": "BKR",
-"name": "Baker Hughes Company",
-"date": "2026-10-27",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.6149,
-"rev_est": 7747893840.0
-},
-{
-"t": "RCL",
-"name": "Royal Caribbean Cruises Ltd.",
-"date": "2026-10-27",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 6.3755,
-"rev_est": 5612693040.0
-},
 {
 "t": "005930.KS",
 "name": "SamsungElec",
@@ -130,7 +90,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.7207,
-"rev_est": 90735945570.0
+"rev_est": 90736182420.0
 },
 {
 "t": "NOW",
@@ -220,7 +180,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.0671,
-"rev_est": 1221487230.0
+"rev_est": 1223509520.0
 },
 {
 "t": "CTSH",
@@ -250,7 +210,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.3998,
-"rev_est": 894212000.0
+"rev_est": 892567570.0
 },
 {
 "t": "INTC",
@@ -259,8 +219,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3953,
-"rev_est": 16473499590.0
+"eps_est": 0.398,
+"rev_est": 16486699590.0
 },
 {
 "t": "LHX",
@@ -319,7 +279,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.226,
+"eps_est": 0.2252,
 "rev_est": 703075230.0
 },
 {
@@ -329,8 +289,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.9957,
-"rev_est": 10907835860.0
+"eps_est": 5.0294,
+"rev_est": 10978936910.0
 },
 {
 "t": "RIVN",
@@ -429,7 +389,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0327,
+"eps_est": 4.0321,
 "rev_est": 106024365960.0
 },
 {
@@ -439,8 +399,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9833,
-"rev_est": 113381085200.0
+"eps_est": 1.9826,
+"rev_est": 113322287400.0
 },
 {
 "t": "AESI",
@@ -489,8 +449,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 5.6005,
-"rev_est": 4844569450.0
+"eps_est": 5.5769,
+"rev_est": 4852907180.0
 },
 {
 "t": "TSEM",
@@ -549,7 +509,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.2012,
+"eps_est": 2.1962,
 "rev_est": 1357685710.0
 },
 {
@@ -571,16 +531,6 @@
 "confirmed": true,
 "eps_est": 3.5463,
 "rev_est": 8524657130.0
-},
-{
-"t": "KGS",
-"name": "Kodiak Gas Services, Inc.",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.6643,
-"rev_est": 387817690.0
 },
 {
 "t": "MOS",
@@ -649,8 +599,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 8.3702,
-"rev_est": 1352859010.0
+"eps_est": 8.1736,
+"rev_est": 1330369720.0
 },
 {
 "t": "APA",
@@ -659,8 +609,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.581,
-"rev_est": 2448087290.0
+"eps_est": 1.5919,
+"rev_est": 2505797930.0
 },
 {
 "t": "ARM",
@@ -690,7 +640,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.5108,
-"rev_est": 1888193670.0
+"rev_est": 1888182560.0
 },
 {
 "t": "LEU",
@@ -789,7 +739,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.2883,
+"eps_est": 2.2877,
 "rev_est": 2834397660.0
 },
 {
@@ -829,7 +779,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0484,
+"eps_est": 3.0503,
 "rev_est": 18939142100.0
 },
 {
@@ -849,7 +799,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.4558,
+"eps_est": 4.4384,
 "rev_est": 7179346520.0
 },
 {
@@ -960,7 +910,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0144,
-"rev_est": 6916114870.0
+"rev_est": 6726853620.0
 },
 {
 "t": "CEG",
@@ -969,8 +919,18 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.7936,
+"eps_est": 3.8375,
 "rev_est": 9313800810.0
+},
+{
+"t": "KGS",
+"name": "Kodiak Gas Services, Inc.",
+"date": "2026-11-09",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.6643,
+"rev_est": 387548720.0
 },
 {
 "t": "OXY",
@@ -979,7 +939,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4661,
+"eps_est": 1.471,
 "rev_est": 6854592450.0
 },
 {
@@ -993,24 +953,24 @@
 "rev_est": 17796330.0
 },
 {
+"t": "CRWV",
+"name": "CoreWeave, Inc.",
+"date": "2026-11-10",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -1.2092,
+"rev_est": 3540875520.0
+},
+{
 "t": "NBIS",
 "name": "Nebius Group N.V.",
 "date": "2026-11-10",
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.6389,
+"eps_est": -0.605,
 "rev_est": 905738460.0
-},
-{
-"t": "CRWV",
-"name": "CoreWeave, Inc.",
-"date": "2026-11-11",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -1.2092,
-"rev_est": 3540875520.0
 },
 {
 "t": "ENR.DE",
@@ -1209,8 +1169,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 4.5283,
-"rev_est": 1944353980.0
+"eps_est": 4.5326,
+"rev_est": 1945294990.0
 },
 {
 "t": "PHOE.TA",
@@ -1359,8 +1319,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.8302,
-"rev_est": 34903492790.0
+"eps_est": 3.8377,
+"rev_est": 34906205760.0
 },
 {
 "t": "SNPS",
@@ -1374,12 +1334,6 @@
 }
 ],
 "macro": [
-{
-"date": "2026-10-27",
-"title": "Israel general election",
-"time_et": null,
-"source": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election (cites Ynet 16.7.26, Times of Israel 12.7.26)"
-},
 {
 "date": "2026-10-28",
 "title": "FOMC decision (Oct 27-28 meeting)",
@@ -1445,20 +1399,12 @@
 "date": "2026-11-03"
 },
 {
-"t": "ASML",
-"date": "2026-10-27"
-},
-{
 "t": "CCL",
 "date": "2026-11-06"
 },
 {
 "t": "CMI",
 "date": "2026-11-20"
-},
-{
-"t": "GEV",
-"date": "2026-10-27"
 },
 {
 "t": "GM",
@@ -1491,6 +1437,10 @@
 {
 "t": "MOS",
 "date": "2026-12-04"
+},
+{
+"t": "OXY",
+"date": "2026-12-10"
 },
 {
 "t": "PSX",
