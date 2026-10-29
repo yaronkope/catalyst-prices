@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-29 07:32Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-29 07:47Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 6 | 45 | ✅ | 55 movers, market closed; 0 errors |
-| news.json | 10 | 45 | ✅ | 283 items (192 tagged = 68%), sources ok 21/22; 1 errors |
-| gnews.json | 87 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 617 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 209 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
+| candidates.json | 1 | 45 | ✅ | 55 movers, market closed; 0 errors |
+| news.json | 5 | 45 | ✅ | 285 items (190 tagged = 67%), sources ok 20/22; 2 errors |
+| gnews.json | 103 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 632 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 224 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `pentagon_contracts` HTTP 403
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
