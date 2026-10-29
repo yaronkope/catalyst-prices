@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-29 11:49Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-29 12:04Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 2 | 45 | ✅ | 53 movers, market pre; 0 errors |
-| news.json | 7 | 45 | ✅ | 317 items (224 tagged = 71%), sources ok 20/21; 1 errors |
-| gnews.json | 104 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 874 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 466 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
+| candidates.json | 17 | 45 | ✅ | 53 movers, market pre; 0 errors |
+| news.json | 2 | 45 | ✅ | 340 items (239 tagged = 70%), sources ok 19/21; 2 errors |
+| gnews.json | 119 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 889 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 481 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'
 
 ## Notes from Claude Code
 
