@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-29 16:07Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-29 16:22Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 0 | 45 | ✅ | 74 movers, market open; 0 errors |
-| news.json | 5 | 45 | ✅ | 288 items (197 tagged = 68%), sources ok 20/21; 1 errors |
-| gnews.json | 122 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1132 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 724 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
+| candidates.json | 15 | 45 | ✅ | 74 movers, market open; 0 errors |
+| news.json | 0 | 45 | ✅ | 288 items (195 tagged = 68%), sources ok 19/21; 2 errors |
+| gnews.json | 17 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1147 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 739 | 1560 | ✅ | 119 earnings (92 confirmed), 6 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_nvidia` no RSS entries for query 'nvidia'
 
 ## Notes from Claude Code
 
