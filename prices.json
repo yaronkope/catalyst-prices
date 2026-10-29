@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-29T20:24:06.265516+00:00",
+"generated_at": "2026-10-29T20:39:35.021234+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -731,14 +731,14 @@
 "mcap_usd": 1853287557
 },
 "UUUU": {
-"price": 8.21,
+"price": 8.23,
 "prev_close": 8.39,
-"move_pct": -2.145,
+"move_pct": -1.907,
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.06762,
+"ret_5d": 0.07022,
 "mcap_usd": 2221906400
 },
 "EOG": {
@@ -858,6 +858,7 @@
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
+"currency": "USD",
 "ret_5d": 0.05718,
 "mcap_usd": 25702571784
 },
@@ -1819,14 +1820,14 @@
 "mcap_usd": 47198839476
 },
 "UMAC": {
-"price": 17.22,
+"price": 17.28,
 "prev_close": 17.62,
-"move_pct": -2.27,
+"move_pct": -1.93,
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.05839,
+"ret_5d": 0.06208,
 "mcap_usd": 880233618
 },
 "URA": {
@@ -2072,14 +2073,14 @@
 "mcap_usd": null
 },
 "NG=F": {
-"price": 2.91,
+"price": 2.899,
 "prev_close": 2.817,
-"move_pct": 3.301,
+"move_pct": 2.911,
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.04077,
+"ret_5d": 0.03684,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2094,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 80234.1875,
+"price": 79696.4609,
 "prev_close": 81267.5859,
-"move_pct": -1.272,
+"move_pct": -1.933,
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.00689,
+"ret_5d": -0.01355,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.1125,
+"price": 3.1133,
 "prev_close": 3.0226,
-"move_pct": 2.974,
+"move_pct": 3.0,
 "asof": "2026-10-29T00:00:00+00:00",
 "session_date": "2026-10-29",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.00805,
+"ret_5d": 0.00831,
 "mcap_usd": null
 },
 "^TA125.TA": {
