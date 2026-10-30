@@ -1,197 +1,7 @@
 {
-"generated_at": "2026-10-29T04:03:39+00:00",
+"generated_at": "2026-10-30T04:03:37+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "1211.HK",
-"name": "BYD COMPANY",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.3,
-"rev_est": 271668683039.0
-},
-{
-"t": "AMZN",
-"name": "Amazon.com, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.9925,
-"rev_est": 202264872830.0
-},
-{
-"t": "CAT",
-"name": "Caterpillar, Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 7.0335,
-"rev_est": 20692015010.0
-},
-{
-"t": "COIN",
-"name": "Coinbase Global, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.0671,
-"rev_est": 1223509520.0
-},
-{
-"t": "CTSH",
-"name": "Cognizant Technology Solutions ",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.4634,
-"rev_est": 5646668400.0
-},
-{
-"t": "DLR",
-"name": "Digital Realty Trust, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.575,
-"rev_est": 1757490670.0
-},
-{
-"t": "EFXT",
-"name": "Enerflex Ltd",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.3998,
-"rev_est": 892567570.0
-},
-{
-"t": "INTC",
-"name": "Intel Corporation",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.398,
-"rev_est": 16486699590.0
-},
-{
-"t": "LHX",
-"name": "L3Harris Technologies, Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.9452,
-"rev_est": 5936779840.0
-},
-{
-"t": "LNT",
-"name": "Alliant Energy Corporation",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.3079,
-"rev_est": 1318000000.0
-},
-{
-"t": "MSTR",
-"name": "Strategy Inc",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 5.82,
-"rev_est": 128979170.0
-},
-{
-"t": "MTZ",
-"name": "MasTec, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.9568,
-"rev_est": 4943086000.0
-},
-{
-"t": "NCLH",
-"name": "Norwegian Cruise Line Holdings ",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.9407,
-"rev_est": 2881261930.0
-},
-{
-"t": "OWL",
-"name": "Blue Owl Capital Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.2252,
-"rev_est": 703075230.0
-},
-{
-"t": "PWR",
-"name": "Quanta Services, Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 5.0294,
-"rev_est": 10978936910.0
-},
-{
-"t": "RIVN",
-"name": "Rivian Automotive, Inc.",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.6487,
-"rev_est": 1996794620.0
-},
-{
-"t": "SNDK",
-"name": "Sandisk Corporation",
-"date": "2026-10-29",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 46.4061,
-"rev_est": 10700329480.0
-},
-{
-"t": "WEC",
-"name": "WEC Energy Group, Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.9718,
-"rev_est": 2201819820.0
-},
-{
-"t": "XEL",
-"name": "Xcel Energy Inc.",
-"date": "2026-10-29",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.3926,
-"rev_est": 4298658460.0
-},
 {
 "t": "2454.TW",
 "name": "MEDIATEK INC",
@@ -229,8 +39,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.826,
-"rev_est": 61646139060.0
+"eps_est": 4.833,
+"rev_est": 62203925160.0
 },
 {
 "t": "GD",
@@ -249,8 +59,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0321,
-"rev_est": 106024365960.0
+"eps_est": 4.0357,
+"rev_est": 105238436400.0
 },
 {
 "t": "AAPL",
@@ -450,7 +260,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 7.455,
-"rev_est": 1296655440.0
+"rev_est": 1293624180.0
 },
 {
 "t": "APA",
@@ -510,7 +320,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": -0.1,
-"rev_est": 175671100.0
+"rev_est": 176131100.0
 },
 {
 "t": "NICE",
@@ -649,8 +459,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0503,
-"rev_est": 18939142100.0
+"eps_est": 3.0426,
+"rev_est": 18916527890.0
 },
 {
 "t": "DVN",
@@ -719,7 +529,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0061,
+"eps_est": -0.0083,
 "rev_est": 119040200.0
 },
 {
@@ -729,8 +539,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3431,
-"rev_est": 738090880.0
+"eps_est": 0.3434,
+"rev_est": 738296020.0
 },
 {
 "t": "UMAC",
@@ -779,8 +589,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0144,
-"rev_est": 6388425050.0
+"eps_est": 3.0871,
+"rev_est": 5977906080.0
 },
 {
 "t": "CEG",
@@ -789,8 +599,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.8636,
-"rev_est": 9382503010.0
+"eps_est": 3.8377,
+"rev_est": 9332978850.0
 },
 {
 "t": "KGS",
@@ -850,7 +660,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.3784,
-"rev_est": 12710355880.0
+"rev_est": 12728444880.0
 },
 {
 "t": "ICL",
@@ -918,7 +728,7 @@
 "date": "2026-11-12",
 "time": "bmo",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": -0.09,
 "rev_est": 148039400.0
 },
@@ -1013,6 +823,16 @@
 "rev_est": 2576600000.0
 },
 {
+"t": "DELL",
+"name": "Dell Technologies Inc.",
+"date": "2026-11-24",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 6.5575,
+"rev_est": 49189600800.0
+},
+{
 "t": "ZS",
 "name": "Zscaler, Inc.",
 "date": "2026-11-24",
@@ -1051,16 +871,6 @@
 "confirmed": false,
 "eps_est": 3.0679,
 "rev_est": 2132410570.0
-},
-{
-"t": "DELL",
-"name": "Dell Technologies Inc.",
-"date": "2026-11-27",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 6.5575,
-"rev_est": 49189600800.0
 },
 {
 "t": "CRWD",
@@ -1191,6 +1001,16 @@
 "confirmed": false,
 "eps_est": 4.1332,
 "rev_est": 2562189820.0
+},
+{
+"t": "ORCL",
+"name": "Oracle Corporation",
+"date": "2026-12-14",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.8918,
+"rev_est": 21326804220.0
 }
 ],
 "macro": [
@@ -1253,6 +1073,14 @@
 "date": "2026-11-03"
 },
 {
+"t": "BKR",
+"date": "2026-11-10"
+},
+{
+"t": "BX",
+"date": "2026-11-02"
+},
+{
 "t": "CCL",
 "date": "2026-11-06"
 },
@@ -1309,6 +1137,10 @@
 "date": "2026-12-03"
 },
 {
+"t": "000660.KS",
+"date": "2026-11-27"
+},
+{
 "t": "SLB",
 "date": "2026-12-02"
 },
@@ -1319,6 +1151,10 @@
 {
 "t": "TSM",
 "date": "2026-12-10"
+},
+{
+"t": "VLO",
+"date": "2026-11-24"
 },
 {
 "t": "WEC",
