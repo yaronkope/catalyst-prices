@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-30T07:31:55.451845+00:00",
+"generated_at": "2026-10-30T07:47:28.577380+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -368,14 +368,14 @@
 "mcap_usd": 88177882314
 },
 "1211.HK": {
-"price": 67.95,
+"price": 68.2,
 "prev_close": 68.65,
-"move_pct": -1.02,
+"move_pct": -0.656,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.05098,
+"ret_5d": -0.04749,
 "mcap_usd": 79775632477
 },
 "CDNS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 112.52,
+"price": 112.75,
 "prev_close": 114.88,
-"move_pct": -2.054,
+"move_pct": -1.854,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.03598,
+"ret_5d": -0.03401,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 103.38,
+"price": 103.71,
 "prev_close": 102.0,
-"move_pct": 1.353,
+"move_pct": 1.676,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00107,
+"ret_5d": 0.00426,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 2.898,
+"price": 2.908,
 "prev_close": 2.952,
-"move_pct": -1.829,
+"move_pct": -1.491,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.09773,
+"ret_5d": 0.10152,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 78398.1562,
+"price": 78137.5391,
 "prev_close": 77775.1094,
-"move_pct": 0.801,
+"move_pct": 0.466,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02032,
+"ret_5d": -0.02357,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.1142,
+"price": 3.1155,
 "prev_close": 3.1226,
-"move_pct": -0.268,
+"move_pct": -0.226,
 "asof": "2026-10-30T00:00:00+00:00",
 "session_date": "2026-10-30",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.00055,
+"ret_5d": 0.00096,
 "mcap_usd": null
 },
 "^TA125.TA": {
