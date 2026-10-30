@@ -1,17 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-10-30 18:09Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-10-30 18:25Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 3 | 45 | ✅ | 113 movers, market open; 0 errors |
-| news.json | 3 | 45 | ✅ | 333 items (213 tagged = 64%), sources ok 31/36; 5 errors |
-| gnews.json | 124 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1254 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 846 | 1560 | ✅ | 101 earnings (76 confirmed), 6 macro; 0 errors |
-
-**news.json sources down:** `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
+| candidates.json | 18 | 45 | ✅ | 113 movers, market open; 0 errors |
+| news.json | 3 | 45 | ✅ | 311 items (199 tagged = 64%), sources ok 21/21; 0 errors |
+| gnews.json | 20 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1270 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 861 | 1560 | ✅ | 101 earnings (76 confirmed), 6 macro; 0 errors |
 
 ## Notes from Claude Code
 
