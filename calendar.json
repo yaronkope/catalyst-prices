@@ -1,67 +1,7 @@
 {
-"generated_at": "2026-10-30T04:03:37+00:00",
+"generated_at": "2026-10-31T04:03:41+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "2454.TW",
-"name": "MEDIATEK INC",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 16.0623,
-"rev_est": 163349473370.0
-},
-{
-"t": "8035.T",
-"name": "TOKYO ELECTRON",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 85.01,
-"rev_est": 900597295030.0
-},
-{
-"t": "CCJ",
-"name": "Cameco Corporation",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.2727,
-"rev_est": 753865590.0
-},
-{
-"t": "CVX",
-"name": "Chevron Corporation",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.833,
-"rev_est": 62203925160.0
-},
-{
-"t": "GD",
-"name": "General Dynamics Corporation",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.1255,
-"rev_est": 13726312260.0
-},
-{
-"t": "XOM",
-"name": "ExxonMobil Holdings Corporation",
-"date": "2026-10-30",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.0357,
-"rev_est": 105238436400.0
-},
 {
 "t": "AAPL",
 "name": "Apple Inc.",
@@ -69,8 +9,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.9826,
-"rev_est": 113322287400.0
+"eps_est": 1.9846,
+"rev_est": 113252174380.0
 },
 {
 "t": "AESI",
@@ -100,7 +40,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.4851,
-"rev_est": 672140140.0
+"rev_est": 672139460.0
 },
 {
 "t": "CIFR",
@@ -239,7 +179,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.1958,
+"eps_est": 1.2346,
 "rev_est": 16255843120.0
 },
 {
@@ -249,8 +189,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.7312,
-"rev_est": 4240942750.0
+"eps_est": 0.7302,
+"rev_est": 4240737300.0
 },
 {
 "t": "TLN",
@@ -279,8 +219,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.4753,
-"rev_est": 1377533970.0
+"eps_est": 0.4756,
+"rev_est": 1378098370.0
 },
 {
 "t": "FSLY",
@@ -310,7 +250,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.1328,
-"rev_est": 57035070.0
+"rev_est": 56082430.0
 },
 {
 "t": "MARA",
@@ -479,7 +419,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.4384,
+"eps_est": 4.4538,
 "rev_est": 7179346520.0
 },
 {
@@ -520,7 +460,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 250.4119,
-"rev_est": 18519631370.0
+"rev_est": 18530112600.0
 },
 {
 "t": "MP",
@@ -529,8 +469,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.0083,
-"rev_est": 119040200.0
+"eps_est": -0.0096,
+"rev_est": 118858380.0
 },
 {
 "t": "NET",
@@ -569,8 +509,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.641,
-"rev_est": 3790061960.0
+"eps_est": 0.638,
+"rev_est": 3788536850.0
 },
 {
 "t": "OKLO",
@@ -589,7 +529,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.0871,
+"eps_est": 3.0753,
 "rev_est": 5977906080.0
 },
 {
@@ -599,8 +539,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.8377,
-"rev_est": 9332978850.0
+"eps_est": 3.8757,
+"rev_est": 9349229100.0
 },
 {
 "t": "KGS",
@@ -641,16 +581,6 @@
 "confirmed": true,
 "eps_est": -1.2092,
 "rev_est": 3540875520.0
-},
-{
-"t": "NBIS",
-"name": "Nebius Group N.V.",
-"date": "2026-11-10",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.605,
-"rev_est": 905738460.0
 },
 {
 "t": "ENR.DE",
@@ -721,6 +651,16 @@
 "confirmed": true,
 "eps_est": 3.718,
 "rev_est": 6232843850.0
+},
+{
+"t": "NBIS",
+"name": "Nebius Group N.V.",
+"date": "2026-11-12",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.605,
+"rev_est": 905738460.0
 },
 {
 "t": "ONDS",
@@ -1009,17 +949,11 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.8918,
-"rev_est": 21326804220.0
+"eps_est": 1.8909,
+"rev_est": 21325007560.0
 }
 ],
 "macro": [
-{
-"date": "2026-10-30",
-"title": "US Employment Cost Index (Q3 2026)",
-"time_et": "08:30",
-"source": "https://www.bls.gov/schedule/2026/10_sched.htm"
-},
 {
 "date": "2026-11-06",
 "title": "US jobs report (October 2026)",
@@ -1057,10 +991,6 @@
 "date": "2026-11-10"
 },
 {
-"t": "LNT",
-"date": "2026-10-30"
-},
-{
 "t": "AEE",
 "date": "2026-12-08"
 },
@@ -1081,8 +1011,16 @@
 "date": "2026-11-02"
 },
 {
+"t": "OWL",
+"date": "2026-11-10"
+},
+{
 "t": "CCL",
 "date": "2026-11-06"
+},
+{
+"t": "CTSH",
+"date": "2026-11-13"
 },
 {
 "t": "CMI",
@@ -1090,6 +1028,14 @@
 },
 {
 "t": "ETN",
+"date": "2026-11-10"
+},
+{
+"t": "EFXT",
+"date": "2026-11-12"
+},
+{
+"t": "F",
 "date": "2026-11-10"
 },
 {
@@ -1111,6 +1057,10 @@
 {
 "t": "LMT",
 "date": "2026-12-01"
+},
+{
+"t": "MPC",
+"date": "2026-11-18"
 },
 {
 "t": "MTDR",
