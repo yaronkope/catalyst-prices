@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-10-31T04:03:41+00:00",
+"generated_at": "2026-11-01T04:03:53+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -10,7 +10,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.9846,
-"rev_est": 113252174380.0
+"rev_est": 113265972500.0
 },
 {
 "t": "AESI",
@@ -90,7 +90,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3133.3958,
-"rev_est": 9283733880000.0
+"rev_est": 9306154750000.0
 },
 {
 "t": "AMD",
@@ -100,7 +100,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.9366,
-"rev_est": 13083021310.0
+"rev_est": 13084823940.0
 },
 {
 "t": "APO",
@@ -250,7 +250,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -0.1328,
-"rev_est": 56082430.0
+"rev_est": 55553020.0
 },
 {
 "t": "MARA",
@@ -349,7 +349,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.04,
+"eps_est": -0.03,
 "rev_est": 53035000.0
 },
 {
@@ -560,7 +560,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.471,
-"rev_est": 6854592450.0
+"rev_est": 6892580980.0
 },
 {
 "t": "BWAY",
@@ -1015,12 +1015,24 @@
 "date": "2026-11-10"
 },
 {
+"t": "CCJ",
+"date": "2026-11-30"
+},
+{
 "t": "CCL",
 "date": "2026-11-06"
 },
 {
+"t": "CVX",
+"date": "2026-11-18"
+},
+{
 "t": "CTSH",
 "date": "2026-11-13"
+},
+{
+"t": "CEG",
+"date": "2026-11-16"
 },
 {
 "t": "CMI",
@@ -1033,6 +1045,10 @@
 {
 "t": "EFXT",
 "date": "2026-11-12"
+},
+{
+"t": "XOM",
+"date": "2026-11-16"
 },
 {
 "t": "F",
@@ -1085,6 +1101,10 @@
 {
 "t": "QCOM",
 "date": "2026-12-03"
+},
+{
+"t": "RTX",
+"date": "2026-11-20"
 },
 {
 "t": "000660.KS",
