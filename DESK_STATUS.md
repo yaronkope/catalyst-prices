@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-02 08:20Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-02 08:35Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 14 | 45 | ✅ | 110 movers, market closed; 0 errors |
-| news.json | 14 | 45 | ✅ | 228 items (103 tagged = 45%), sources ok 30/36; 6 errors |
-| gnews.json | 16 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3545 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 256 | 1560 | ✅ | 96 earnings (72 confirmed), 5 macro; 0 errors |
+| candidates.json | 9 | 45 | ✅ | 108 movers, market closed; 0 errors |
+| news.json | 14 | 45 | ✅ | 231 items (119 tagged = 52%), sources ok 20/22; 2 errors |
+| gnews.json | 31 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3560 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 272 | 1560 | ✅ | 96 earnings (72 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
+**news.json sources down:** `edgar_fts` timeout after 15s; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
