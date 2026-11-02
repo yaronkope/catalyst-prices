@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-01T04:03:53+00:00",
+"generated_at": "2026-11-02T04:04:09+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -79,7 +79,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.5386,
+"eps_est": 0.5377,
 "rev_est": 2928536080.0
 },
 {
@@ -349,7 +349,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -0.03,
+"eps_est": -0.04,
 "rev_est": 53035000.0
 },
 {
@@ -420,7 +420,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 4.4538,
-"rev_est": 7179346520.0
+"rev_est": 7289224600.0
 },
 {
 "t": "FIVN",
@@ -739,7 +739,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.9715,
+"eps_est": 0.9706,
 "rev_est": 3307502950.0
 },
 {
@@ -951,6 +951,16 @@
 "confirmed": true,
 "eps_est": 1.8909,
 "rev_est": 21325007560.0
+},
+{
+"t": "ACN",
+"name": "Accenture plc",
+"date": "2026-12-17",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 3.9493,
+"rev_est": 19406448890.0
 }
 ],
 "macro": [
