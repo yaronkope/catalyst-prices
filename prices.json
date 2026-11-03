@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-03T23:40:38.897450+00:00",
+"generated_at": "2026-11-03T23:55:45.125276+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -1050,14 +1050,14 @@
 "mcap_usd": 148570639856
 },
 "LYC.AX": {
-"price": 12.36,
+"price": 12.155,
 "prev_close": 11.97,
-"move_pct": 3.258,
+"move_pct": 1.546,
 "asof": "2026-11-04T00:00:00+00:00",
 "session_date": "2026-11-04",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.01199,
+"ret_5d": -0.02838,
 "mcap_usd": 8618908836
 },
 "MAERSK-B.CO": {
@@ -1358,14 +1358,14 @@
 "mcap_usd": 361415570684
 },
 "PDN.AX": {
-"price": 7.47,
+"price": 7.41,
 "prev_close": 7.4,
-"move_pct": 0.946,
+"move_pct": 0.135,
 "asof": "2026-11-04T00:00:00+00:00",
 "session_date": "2026-11-04",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.05083,
+"ret_5d": -0.05845,
 "mcap_usd": 2351879312
 },
 "PANW": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 104.33,
+"price": 104.1,
 "prev_close": 104.77,
-"move_pct": -0.42,
+"move_pct": -0.639,
 "asof": "2026-11-03T00:00:00+00:00",
 "session_date": "2026-11-03",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.08386,
+"ret_5d": -0.08588,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 96.73,
+"price": 96.41,
 "prev_close": 96.46,
-"move_pct": 0.28,
+"move_pct": -0.052,
 "asof": "2026-11-03T00:00:00+00:00",
 "session_date": "2026-11-03",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.03173,
+"ret_5d": -0.03493,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 2.896,
+"price": 2.893,
 "prev_close": 2.856,
-"move_pct": 1.401,
+"move_pct": 1.296,
 "asof": "2026-11-03T00:00:00+00:00",
 "session_date": "2026-11-03",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.07379,
+"ret_5d": 0.07267,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,14 +2095,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 77768.5938,
+"price": 77530.3281,
 "prev_close": 76677.2969,
-"move_pct": 1.423,
+"move_pct": 1.112,
 "asof": "2026-11-03T00:00:00+00:00",
 "session_date": "2026-11-03",
 "stale": false,
 "currency": "USD",
-"ret_5d": -8e-05,
+"ret_5d": -0.00315,
 "mcap_usd": null
 },
 "ILS=X": {
