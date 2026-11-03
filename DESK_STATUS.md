@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-03 08:21Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-03 08:36Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 14 | 45 | ✅ | 113 movers, market closed; 0 errors |
-| news.json | 14 | 45 | ✅ | 327 items (190 tagged = 58%), sources ok 30/36; 6 errors |
-| gnews.json | 16 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 666 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 257 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
+| candidates.json | 9 | 45 | ✅ | 109 movers, market closed; 0 errors |
+| news.json | 14 | 45 | ✅ | 291 items (168 tagged = 58%), sources ok 20/22; 2 errors |
+| gnews.json | 31 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 681 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 272 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_tariffs` no RSS entries for query 'tariffs'; `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
+**news.json sources down:** `edgar_fts` timeout after 15s; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
