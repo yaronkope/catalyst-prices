@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-03 17:25Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-03 17:40Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 18 | 45 | ✅ | 76 movers, market open; 0 errors |
-| news.json | 3 | 45 | ✅ | 253 items (167 tagged = 66%), sources ok 19/21; 2 errors |
-| gnews.json | 81 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1210 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 801 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
+| candidates.json | 14 | 45 | ✅ | 80 movers, market open; 0 errors |
+| news.json | 18 | 45 | ✅ | 253 items (167 tagged = 66%), sources ok 19/21; 2 errors |
+| gnews.json | 96 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1225 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 817 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
 
 **news.json sources down:** `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_nvidia` no RSS entries for query 'nvidia'
 
