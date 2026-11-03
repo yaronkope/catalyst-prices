@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-03 18:10Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-03 18:27Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
-| prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 4 | 45 | ✅ | 74 movers, market open; 0 errors |
-| news.json | 4 | 45 | ✅ | 311 items (177 tagged = 57%), sources ok 29/36; 7 errors |
-| gnews.json | 6 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1255 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 847 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
+| prices.json | 2 | 30 | ✅ | 193/193 quotes; 0 errors |
+| candidates.json | 0 | 45 | ✅ | 81 movers, market open; 0 errors |
+| news.json | 5 | 45 | ✅ | 243 items (161 tagged = 66%), sources ok 19/21; 2 errors |
+| gnews.json | 22 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1272 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 863 | 1560 | ✅ | 89 earnings (74 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'; `bing_tariffs` no RSS entries for query 'tariffs'
 
 ## Notes from Claude Code
 
