@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-04 05:01Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-04 05:16Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 14 | 45 | ✅ | 79 movers, market closed; 0 errors |
-| news.json | 19 | 45 | ✅ | 247 items (174 tagged = 70%), sources ok 13/21; 8 errors |
-| gnews.json | 56 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 466 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 58 | 1560 | ✅ | 78 earnings (64 confirmed), 5 macro; 0 errors |
+| candidates.json | 10 | 45 | ✅ | 79 movers, market closed; 0 errors |
+| news.json | 15 | 45 | ✅ | 214 items (143 tagged = 67%), sources ok 12/22; 10 errors |
+| gnews.json | 72 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 482 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 73 | 1560 | ✅ | 78 earnings (64 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_nvidia` no RSS entries for query 'nvidia'; `bing_pentagon_drone` no RSS entries for query 'Pentagon drone'; `bing_tariffs` no RSS entries for query 'tariffs'
+**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_nvidia` no RSS entries for query 'nvidia'; `bing_pentagon_drone` no RSS entries for query 'Pentagon drone'; `bing_tariffs` no RSS entries for query 'tariffs'; `edgar_fts` timeout after 15s; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
