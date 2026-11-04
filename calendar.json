@@ -1,127 +1,7 @@
 {
-"generated_at": "2026-11-03T04:04:12+00:00",
+"generated_at": "2026-11-04T04:03:46+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "373220.KS",
-"name": "LG Energy Solution",
-"date": "2026-11-03",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3133.3958,
-"rev_est": 9306154750000.0
-},
-{
-"t": "AMD",
-"name": "Advanced Micro Devices, Inc.",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.9399,
-"rev_est": 13092087100.0
-},
-{
-"t": "APO",
-"name": "Apollo Global Management, Inc. ",
-"date": "2026-11-03",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.1962,
-"rev_est": 1357685710.0
-},
-{
-"t": "DNN",
-"name": "Denison Mines Corp",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.0167,
-"rev_est": null
-},
-{
-"t": "ETN",
-"name": "Eaton Corporation, PLC",
-"date": "2026-11-03",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.5483,
-"rev_est": 8525060140.0
-},
-{
-"t": "MOS",
-"name": "Mosaic Company (The)",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.0155,
-"rev_est": 3054880920.0
-},
-{
-"t": "MPC",
-"name": "Marathon Petroleum Corporation",
-"date": "2026-11-03",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 26.0036,
-"rev_est": 43812588800.0
-},
-{
-"t": "MTDR",
-"name": "Matador Resources Company",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.8278,
-"rev_est": 1078964310.0
-},
-{
-"t": "NXE",
-"name": "Nexgen Energy Ltd.",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.041,
-"rev_est": 0.0
-},
-{
-"t": "SMCI",
-"name": "Super Micro Computer, Inc.",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.2346,
-"rev_est": 16255843120.0
-},
-{
-"t": "TEVA",
-"name": "Teva Pharmaceutical Industries ",
-"date": "2026-11-03",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.7208,
-"rev_est": 4227636520.0
-},
-{
-"t": "TLN",
-"name": "Talen Energy Corporation",
-"date": "2026-11-03",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 7.455,
-"rev_est": 1293624180.0
-},
 {
 "t": "APA",
 "name": "APA Corporation",
@@ -193,6 +73,16 @@
 "rev_est": 5666402620.0
 },
 {
+"t": "NXE",
+"name": "Nexgen Energy Ltd.",
+"date": "2026-11-04",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.041,
+"rev_est": 0.0
+},
+{
 "t": "PTC",
 "name": "PTC Inc.",
 "date": "2026-11-04",
@@ -209,7 +99,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.1603,
+"eps_est": 2.1607,
 "rev_est": 10145914290.0
 },
 {
@@ -310,7 +200,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0474,
-"rev_est": 18834364540.0
+"rev_est": 18956748690.0
 },
 {
 "t": "DVN",
@@ -389,8 +279,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.3434,
-"rev_est": 739385310.0
+"eps_est": 0.3436,
+"rev_est": 739742450.0
 },
 {
 "t": "UMAC",
@@ -653,6 +543,16 @@
 "rev_est": 108976833310.0
 },
 {
+"t": "PANW",
+"name": "Palo Alto Networks, Inc.",
+"date": "2026-11-18",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.9706,
+"rev_est": 3307502950.0
+},
+{
 "t": "ZIM",
 "name": "ZIM Integrated Shipping Service",
 "date": "2026-11-18",
@@ -673,23 +573,13 @@
 "rev_est": 486668760.0
 },
 {
-"t": "PANW",
-"name": "Palo Alto Networks, Inc.",
-"date": "2026-11-19",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.9706,
-"rev_est": 3307502950.0
-},
-{
 "t": "HPE",
 "name": "Hewlett Packard Enterprise Comp",
 "date": "2026-11-23",
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2751,
+"eps_est": 1.2772,
 "rev_est": 14371574890.0
 },
 {
@@ -709,8 +599,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.5575,
-"rev_est": 49189600800.0
+"eps_est": 6.563,
+"rev_est": 49245274940.0
 },
 {
 "t": "WDAY",
@@ -937,10 +827,6 @@
 {
 "t": "AMAT",
 "date": "2026-11-19"
-},
-{
-"t": "AROC",
-"date": "2026-11-03"
 },
 {
 "t": "BKR",
