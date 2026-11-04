@@ -1,17 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-04 13:37Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-04 13:52Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 10 | 45 | ✅ | 78 movers, market pre; 0 errors |
-| news.json | 16 | 45 | ✅ | 328 items (260 tagged = 79%), sources ok 14/21; 7 errors |
-| gnews.json | 92 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 982 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 574 | 1560 | ✅ | 78 earnings (64 confirmed), 5 macro; 0 errors |
-
-**news.json sources down:** `bing_bitcoin` no RSS entries for query 'bitcoin'; `bing_data_center` no RSS entries for query 'data center'; `bing_fda_approval` no RSS entries for query 'FDA approval'; `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'; `bing_israel_defense` no RSS entries for query 'Israel defense'; `bing_pentagon_drone` no RSS entries for query 'Pentagon drone'; `bing_tariffs` no RSS entries for query 'tariffs'
+| candidates.json | 6 | 45 | ✅ | 78 movers, market pre; 0 errors |
+| news.json | 10 | 45 | ✅ | 372 items (240 tagged = 65%), sources ok 21/21; 0 errors |
+| gnews.json | 107 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 997 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 589 | 1560 | ✅ | 78 earnings (64 confirmed), 5 macro; 0 errors |
 
 ## Notes from Claude Code
 
