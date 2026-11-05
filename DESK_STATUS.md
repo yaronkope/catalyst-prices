@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-05 08:30Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-05 08:45Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 4 | 45 | ✅ | 152 movers, market closed; 0 errors |
-| news.json | 9 | 45 | ✅ | 340 items (208 tagged = 61%), sources ok 21/22; 1 errors |
-| gnews.json | 26 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 676 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 267 | 1560 | ✅ | 64 earnings (51 confirmed), 5 macro; 0 errors |
+| candidates.json | 19 | 45 | ✅ | 152 movers, market closed; 0 errors |
+| news.json | 4 | 45 | ✅ | 303 items (174 tagged = 57%), sources ok 20/22; 2 errors |
+| gnews.json | 41 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 691 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 282 | 1560 | ✅ | 64 earnings (51 confirmed), 5 macro; 0 errors |
 
-**news.json sources down:** `pentagon_contracts` HTTP 403
+**news.json sources down:** `edgar_fts` timeout after 15s; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
