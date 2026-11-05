@@ -1,157 +1,7 @@
 {
-"generated_at": "2026-11-04T04:03:46+00:00",
+"generated_at": "2026-11-05T04:03:46+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "APA",
-"name": "APA Corporation",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.5919,
-"rev_est": 2515697930.0
-},
-{
-"t": "ARM",
-"name": "Arm Holdings plc",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.4756,
-"rev_est": 1378098370.0
-},
-{
-"t": "FSLY",
-"name": "Fastly, Inc.",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.1186,
-"rev_est": 187802480.0
-},
-{
-"t": "GFS",
-"name": "GlobalFoundries Inc.",
-"date": "2026-11-04",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.512,
-"rev_est": 1889293670.0
-},
-{
-"t": "LEU",
-"name": "Centrus Energy Corp.",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.1328,
-"rev_est": 55553020.0
-},
-{
-"t": "NICE",
-"name": "NICE Ltd",
-"date": "2026-11-04",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.7805,
-"rev_est": 785744110.0
-},
-{
-"t": "NTR",
-"name": "Nutrien Ltd.",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.7733,
-"rev_est": 5666402620.0
-},
-{
-"t": "NXE",
-"name": "Nexgen Energy Ltd.",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.041,
-"rev_est": 0.0
-},
-{
-"t": "PTC",
-"name": "PTC Inc.",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.9634,
-"rev_est": 665307090.0
-},
-{
-"t": "QCOM",
-"name": "QUALCOMM Incorporated",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.1607,
-"rev_est": 10145914290.0
-},
-{
-"t": "RIOT",
-"name": "Riot Platforms, Inc.",
-"date": "2026-11-04",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.3073,
-"rev_est": 160232730.0
-},
-{
-"t": "SEI",
-"name": "Solaris Energy Infrastructure, ",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.2835,
-"rev_est": 273698900.0
-},
-{
-"t": "STIM",
-"name": "Neuronetics, Inc.",
-"date": "2026-11-04",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.11,
-"rev_est": 40425000.0
-},
-{
-"t": "TRMB",
-"name": "Trimble Inc.",
-"date": "2026-11-04",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.8614,
-"rev_est": 966434450.0
-},
-{
-"t": "UUUU",
-"name": "Energy Fuels Inc",
-"date": "2026-11-04",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.04,
-"rev_est": 53035000.0
-},
 {
 "t": "AEE",
 "name": "Ameren Corporation",
@@ -203,6 +53,16 @@
 "rev_est": 18956748690.0
 },
 {
+"t": "DNN",
+"name": "Denison Mines Corp",
+"date": "2026-11-05",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.0167,
+"rev_est": null
+},
+{
 "t": "DVN",
 "name": "Devon Energy Corporation",
 "date": "2026-11-05",
@@ -249,8 +109,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.2043,
-"rev_est": 470103350.0
+"eps_est": 0.2071,
+"rev_est": 471153350.0
 },
 {
 "t": "MAERSK-B.CO",
@@ -390,7 +250,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": -1.2092,
-"rev_est": 3540875520.0
+"rev_est": 3540786350.0
 },
 {
 "t": "ENR.DE",
@@ -599,8 +459,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.563,
-"rev_est": 49245274940.0
+"eps_est": 6.5537,
+"rev_est": 49175023750.0
 },
 {
 "t": "WDAY",
@@ -648,9 +508,9 @@
 "date": "2026-12-01",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 0.3115,
-"rev_est": 1528559730.0
+"rev_est": 1528559430.0
 },
 {
 "t": "MDB",
@@ -825,6 +685,10 @@
 "date": "2026-12-08"
 },
 {
+"t": "AAPL",
+"date": "2026-11-12"
+},
+{
 "t": "AMAT",
 "date": "2026-11-19"
 },
@@ -859,6 +723,10 @@
 {
 "t": "CMI",
 "date": "2026-11-20"
+},
+{
+"t": "FANG",
+"date": "2026-11-12"
 },
 {
 "t": "ETN",
