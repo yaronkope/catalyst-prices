@@ -1,167 +1,7 @@
 {
-"generated_at": "2026-11-05T04:03:46+00:00",
+"generated_at": "2026-11-06T04:04:26+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "AEE",
-"name": "Ameren Corporation",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.2859,
-"rev_est": 2834397660.0
-},
-{
-"t": "AKAM",
-"name": "Akamai Technologies, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.6722,
-"rev_est": 1117865540.0
-},
-{
-"t": "BSY",
-"name": "Bentley Systems, Incorporated",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.3305,
-"rev_est": 420653450.0
-},
-{
-"t": "CMI",
-"name": "Cummins Inc.",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 8.1963,
-"rev_est": 9869920860.0
-},
-{
-"t": "COP",
-"name": "ConocoPhillips",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.0474,
-"rev_est": 18956748690.0
-},
-{
-"t": "DNN",
-"name": "Denison Mines Corp",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.0167,
-"rev_est": null
-},
-{
-"t": "DVN",
-"name": "Devon Energy Corporation",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.3143,
-"rev_est": 6853351270.0
-},
-{
-"t": "EOG",
-"name": "EOG Resources, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.4538,
-"rev_est": 7289224600.0
-},
-{
-"t": "FIVN",
-"name": "Five9, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.7969,
-"rev_est": 319038290.0
-},
-{
-"t": "IREN",
-"name": "IREN LIMITED",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.665,
-"rev_est": 221714440.0
-},
-{
-"t": "KTOS",
-"name": "Kratos Defense & Security Solut",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.2071,
-"rev_est": 471153350.0
-},
-{
-"t": "MAERSK-B.CO",
-"name": "A.P. Møller - Mærsk B A/S",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 250.4119,
-"rev_est": 18530112600.0
-},
-{
-"t": "MP",
-"name": "MP Materials Corp.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.0096,
-"rev_est": 118858380.0
-},
-{
-"t": "NET",
-"name": "Cloudflare, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.3436,
-"rev_est": 739742450.0
-},
-{
-"t": "UMAC",
-"name": "Unusual Machines, Inc.",
-"date": "2026-11-05",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.135,
-"rev_est": 12388870.0
-},
-{
-"t": "VTRS",
-"name": "Viatris Inc.",
-"date": "2026-11-05",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.638,
-"rev_est": 3788536850.0
-},
 {
 "t": "OKLO",
 "name": "Oklo Inc.",
@@ -213,6 +53,16 @@
 "rev_est": 176131100.0
 },
 {
+"t": "NXE",
+"name": "Nexgen Energy Ltd.",
+"date": "2026-11-09",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.041,
+"rev_est": 0.0
+},
+{
 "t": "OXY",
 "name": "Occidental Petroleum Corporatio",
 "date": "2026-11-09",
@@ -249,7 +99,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -1.2092,
+"eps_est": -1.209,
 "rev_est": 3540786350.0
 },
 {
@@ -428,7 +278,7 @@
 "date": "2026-11-19",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 0.8093,
 "rev_est": 486668760.0
 },
@@ -473,16 +323,6 @@
 "rev_est": 2691535090.0
 },
 {
-"t": "ZS",
-"name": "Zscaler, Inc.",
-"date": "2026-11-24",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 1.1611,
-"rev_est": 938160410.0
-},
-{
 "t": "DY",
 "name": "Dycom Industries, Inc.",
 "date": "2026-11-25",
@@ -518,7 +358,7 @@
 "date": "2026-12-01",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 1.608,
 "rev_est": 761812730.0
 },
@@ -573,6 +413,16 @@
 "rev_est": 1654183980.0
 },
 {
+"t": "ZS",
+"name": "Zscaler, Inc.",
+"date": "2026-12-02",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 1.1611,
+"rev_est": 938160410.0
+},
+{
 "t": "S",
 "name": "SentinelOne, Inc.",
 "date": "2026-12-03",
@@ -581,6 +431,16 @@
 "confirmed": false,
 "eps_est": 0.0914,
 "rev_est": 310192610.0
+},
+{
+"t": "SNPS",
+"name": "Synopsys, Inc.",
+"date": "2026-12-08",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.1332,
+"rev_est": 2562189820.0
 },
 {
 "t": "UEC",
@@ -601,16 +461,6 @@
 "confirmed": true,
 "eps_est": 3.8377,
 "rev_est": 34906205760.0
-},
-{
-"t": "SNPS",
-"name": "Synopsys, Inc.",
-"date": "2026-12-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 4.1332,
-"rev_est": 2562189820.0
 },
 {
 "t": "ORCL",
@@ -683,6 +533,10 @@
 {
 "t": "AEE",
 "date": "2026-12-08"
+},
+{
+"t": "APO",
+"date": "2026-11-18"
 },
 {
 "t": "AAPL",
