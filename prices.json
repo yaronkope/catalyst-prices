@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-07T08:51:27.337472+00:00",
+"generated_at": "2026-11-07T09:06:27.787260+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -94,13 +94,13 @@
 },
 "AMRQ.L": {
 "price": 104.0,
-"prev_close": 99.4,
-"move_pct": 4.628,
-"asof": "2026-11-05T00:00:00+00:00",
-"session_date": "2026-11-05",
+"prev_close": 104.0,
+"move_pct": 0.0,
+"asof": "2026-11-06T00:00:00+00:00",
+"session_date": "2026-11-06",
 "stale": false,
 "currency": "GBp",
-"ret_5d": 0.00971,
+"ret_5d": 0.06996,
 "mcap_usd": 652682722
 },
 "AMZN": {
@@ -720,14 +720,14 @@
 "mcap_usd": 2368795884
 },
 "ENOG.L": {
-"price": 700.0,
+"price": 692.0,
 "prev_close": 700.0,
-"move_pct": 0.0,
-"asof": "2026-11-05T00:00:00+00:00",
-"session_date": "2026-11-05",
+"move_pct": -1.143,
+"asof": "2026-11-06T00:00:00+00:00",
+"session_date": "2026-11-06",
 "stale": false,
 "currency": "GBp",
-"ret_5d": -0.06729,
+"ret_5d": -0.06927,
 "mcap_usd": 1719773363
 },
 "UUUU": {
@@ -962,14 +962,14 @@
 "mcap_usd": 664947244613
 },
 "KAP.L": {
-"price": 59.6,
-"prev_close": 60.0,
-"move_pct": -0.667,
-"asof": "2026-11-05T00:00:00+00:00",
-"session_date": "2026-11-05",
+"price": 60.9,
+"prev_close": 59.6,
+"move_pct": 2.181,
+"asof": "2026-11-06T00:00:00+00:00",
+"session_date": "2026-11-06",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.0702,
+"ret_5d": -0.0049,
 "mcap_usd": 7635459300
 },
 "KGS": {
@@ -1468,14 +1468,14 @@
 "mcap_usd": 19865273062
 },
 "RR.L": {
-"price": 1239.6,
-"prev_close": 1262.8,
-"move_pct": -1.837,
-"asof": "2026-11-05T00:00:00+00:00",
-"session_date": "2026-11-05",
+"price": 1261.2,
+"prev_close": 1239.6,
+"move_pct": 1.742,
+"asof": "2026-11-06T00:00:00+00:00",
+"session_date": "2026-11-06",
 "stale": false,
 "currency": "GBp",
-"ret_5d": -0.03156,
+"ret_5d": 0.01759,
 "mcap_usd": 139120895451
 },
 "RCL": {
@@ -2095,14 +2095,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 76043.9297,
+"price": 76067.2578,
 "prev_close": 75746.9297,
-"move_pct": 0.392,
+"move_pct": 0.423,
 "asof": "2026-11-07T00:00:00+00:00",
 "session_date": "2026-11-07",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.00826,
+"ret_5d": -0.00796,
 "mcap_usd": null
 },
 "ILS=X": {
