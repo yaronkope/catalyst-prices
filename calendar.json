@@ -1,27 +1,7 @@
 {
-"generated_at": "2026-11-06T04:04:26+00:00",
+"generated_at": "2026-11-07T04:03:44+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "OKLO",
-"name": "Oklo Inc.",
-"date": "2026-11-06",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.2641,
-"rev_est": 1106670.0
-},
-{
-"t": "VST",
-"name": "Vistra Corp.",
-"date": "2026-11-06",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.0753,
-"rev_est": 5977906080.0
-},
 {
 "t": "CEG",
 "name": "Constellation Energy Corporatio",
@@ -99,7 +79,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -1.209,
+"eps_est": -1.2082,
 "rev_est": 3540786350.0
 },
 {
@@ -368,7 +348,7 @@
 "date": "2026-12-01",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 1.101,
 "rev_est": 3155914360.0
 },
@@ -495,12 +475,6 @@
 ],
 "macro": [
 {
-"date": "2026-11-06",
-"title": "US jobs report (October 2026)",
-"time_et": "08:30",
-"source": "https://www.bls.gov/schedule/news_release/empsit.htm"
-},
-{
 "date": "2026-11-10",
 "title": "US CPI (October 2026)",
 "time_et": "08:30",
@@ -559,10 +533,6 @@
 "date": "2026-11-30"
 },
 {
-"t": "CCL",
-"date": "2026-11-06"
-},
-{
 "t": "CVX",
 "date": "2026-11-18"
 },
@@ -601,6 +571,10 @@
 {
 "t": "GM",
 "date": "2026-12-04"
+},
+{
+"t": "GFS",
+"date": "2026-12-22"
 },
 {
 "t": "JNJ",
@@ -669,6 +643,14 @@
 {
 "t": "VLO",
 "date": "2026-11-24"
+},
+{
+"t": "VTRS",
+"date": "2026-11-23"
+},
+{
+"t": "VST",
+"date": "2026-12-22"
 },
 {
 "t": "WEC",
