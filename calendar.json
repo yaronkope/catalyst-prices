@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-07T04:03:44+00:00",
+"generated_at": "2026-11-08T04:04:16+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -9,7 +9,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.8766,
+"eps_est": 3.8899,
 "rev_est": 9349229100.0
 },
 {
@@ -90,7 +90,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.3784,
-"rev_est": 12728444880.0
+"rev_est": 12664773310.0
 },
 {
 "t": "ICL",
@@ -270,7 +270,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.2772,
-"rev_est": 14371574890.0
+"rev_est": 14406617280.0
 },
 {
 "t": "ADSK",
@@ -471,6 +471,16 @@
 "confirmed": false,
 "eps_est": 0.2239,
 "rev_est": 6471560810.0
+},
+{
+"t": "MU",
+"name": "Micron Technology, Inc.",
+"date": "2026-12-23",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": 38.2913,
+"rev_est": 61832643300.0
 }
 ],
 "macro": [
@@ -557,6 +567,10 @@
 "date": "2026-11-10"
 },
 {
+"t": "ELAL.TA",
+"date": "2026-11-12"
+},
+{
 "t": "EFXT",
 "date": "2026-11-12"
 },
@@ -579,6 +593,10 @@
 {
 "t": "JNJ",
 "date": "2026-11-24"
+},
+{
+"t": "KGS",
+"date": "2026-11-16"
 },
 {
 "t": "LHX",
@@ -631,6 +649,10 @@
 {
 "t": "SLB",
 "date": "2026-12-02"
+},
+{
+"t": "SEI",
+"date": "2026-12-08"
 },
 {
 "t": "TMUS",
