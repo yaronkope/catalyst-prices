@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-09 07:10Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-09 07:26Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 3 | 45 | ✅ | 112 movers, market closed; 0 errors |
-| news.json | 8 | 45 | ✅ | 219 items (115 tagged = 53%), sources ok 20/22; 2 errors |
-| gnews.json | 65 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3475 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 187 | 1560 | ✅ | 48 earnings (39 confirmed), 4 macro; 0 errors |
+| candidates.json | 18 | 45 | ✅ | 112 movers, market closed; 0 errors |
+| news.json | 4 | 45 | ✅ | 235 items (122 tagged = 52%), sources ok 21/22; 1 errors |
+| gnews.json | 81 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3491 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 202 | 1560 | ✅ | 48 earnings (39 confirmed), 4 macro; 0 errors |
 
-**news.json sources down:** `bing_tariffs` no RSS entries for query 'tariffs'; `pentagon_contracts` HTTP 403
+**news.json sources down:** `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
