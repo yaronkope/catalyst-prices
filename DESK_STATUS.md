@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-10 00:31Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-10 00:46Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 4 | 45 | ✅ | 133 movers, market post; 0 errors |
-| news.json | 9 | 45 | ✅ | 316 items (190 tagged = 60%), sources ok 21/21; 0 errors |
-| gnews.json | 26 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 196 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 1228 | 1560 | ✅ | 48 earnings (39 confirmed), 4 macro; 0 errors |
+| candidates.json | 19 | 45 | ✅ | 133 movers, market post; 0 errors |
+| news.json | 4 | 45 | ✅ | 304 items (189 tagged = 62%), sources ok 20/21; 1 errors |
+| gnews.json | 41 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 211 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 1243 | 1560 | ✅ | 48 earnings (39 confirmed), 4 macro; 0 errors |
+
+**news.json sources down:** `bing_data_center` no RSS entries for query 'data center'
 
 ## Notes from Claude Code
 
