@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-10 20:11Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-10 20:26Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 4 | 45 | ✅ | 72 movers, market open; 0 errors |
-| news.json | 9 | 45 | ✅ | 296 items (184 tagged = 62%), sources ok 21/21; 0 errors |
-| gnews.json | 6 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1376 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 967 | 1560 | ✅ | 42 earnings (34 confirmed), 4 macro; 0 errors |
+| candidates.json | 19 | 45 | ✅ | 72 movers, market open; 0 errors |
+| news.json | 4 | 45 | ✅ | 295 items (184 tagged = 62%), sources ok 20/21; 1 errors |
+| gnews.json | 21 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1391 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 982 | 1560 | ✅ | 42 earnings (34 confirmed), 4 macro; 0 errors |
+
+**news.json sources down:** `bing_nvidia` no RSS entries for query 'nvidia'
 
 ## Notes from Claude Code
 
