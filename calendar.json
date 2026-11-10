@@ -1,67 +1,7 @@
 {
-"generated_at": "2026-11-09T04:03:47+00:00",
+"generated_at": "2026-11-10T04:04:14+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "CEG",
-"name": "Constellation Energy Corporatio",
-"date": "2026-11-09",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.8899,
-"rev_est": 9349229100.0
-},
-{
-"t": "KGS",
-"name": "Kodiak Gas Services, Inc.",
-"date": "2026-11-09",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.6643,
-"rev_est": 387548720.0
-},
-{
-"t": "MARA",
-"name": "MARA Holdings, Inc.",
-"date": "2026-11-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.1,
-"rev_est": 176131100.0
-},
-{
-"t": "NXE",
-"name": "Nexgen Energy Ltd.",
-"date": "2026-11-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": -0.041,
-"rev_est": 0.0
-},
-{
-"t": "OXY",
-"name": "Occidental Petroleum Corporatio",
-"date": "2026-11-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.471,
-"rev_est": 6892580980.0
-},
-{
-"t": "USAR",
-"name": "USA Rare Earth, Inc.",
-"date": "2026-11-09",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.146,
-"rev_est": 13553750.0
-},
 {
 "t": "BWAY",
 "name": "Brainsway Ltd.",
@@ -79,8 +19,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": -1.2082,
-"rev_est": 3540786350.0
+"eps_est": -1.2088,
+"rev_est": 3540872060.0
 },
 {
 "t": "ENR.DE",
@@ -229,8 +169,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4733,
-"rev_est": 108976833310.0
+"eps_est": 2.4737,
+"rev_est": 108985899980.0
 },
 {
 "t": "PANW",
@@ -515,8 +455,20 @@
 "date": "2026-11-10"
 },
 {
+"t": "GOOGL",
+"date": "2026-12-07"
+},
+{
 "t": "AEE",
 "date": "2026-12-08"
+},
+{
+"t": "APO",
+"date": "2026-11-18"
+},
+{
+"t": "AAPL",
+"date": "2026-11-12"
 },
 {
 "t": "AMAT",
@@ -543,6 +495,10 @@
 "date": "2026-11-13"
 },
 {
+"t": "COP",
+"date": "2026-11-16"
+},
+{
 "t": "CEG",
 "date": "2026-11-16"
 },
@@ -553,6 +509,10 @@
 {
 "t": "FANG",
 "date": "2026-11-12"
+},
+{
+"t": "ETN",
+"date": "2026-11-10"
 },
 {
 "t": "ELAL.TA",
@@ -569,6 +529,10 @@
 {
 "t": "F",
 "date": "2026-11-10"
+},
+{
+"t": "GM",
+"date": "2026-12-04"
 },
 {
 "t": "GFS",
@@ -615,20 +579,48 @@
 "date": "2026-12-04"
 },
 {
+"t": "OXY",
+"date": "2026-12-10"
+},
+{
 "t": "PSX",
 "date": "2026-11-17"
+},
+{
+"t": "QCOM",
+"date": "2026-12-03"
+},
+{
+"t": "RTX",
+"date": "2026-11-20"
 },
 {
 "t": "000660.KS",
 "date": "2026-11-27"
 },
 {
+"t": "SLB",
+"date": "2026-12-02"
+},
+{
 "t": "SND",
 "date": "2026-11-18"
 },
 {
+"t": "SEI",
+"date": "2026-12-08"
+},
+{
+"t": "TMUS",
+"date": "2026-11-25"
+},
+{
 "t": "TSM",
 "date": "2026-12-10"
+},
+{
+"t": "VLO",
+"date": "2026-11-24"
 },
 {
 "t": "VTRS",
@@ -645,6 +637,10 @@
 {
 "t": "WDC",
 "date": "2026-12-04"
+},
+{
+"t": "WMB",
+"date": "2026-12-11"
 }
 ],
 "errors": []
