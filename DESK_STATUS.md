@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-10 17:55Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-10 18:10Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 193/193 quotes; 0 errors |
-| candidates.json | 9 | 45 | ✅ | 77 movers, market open; 0 errors |
-| news.json | 14 | 45 | ✅ | 289 items (168 tagged = 58%), sources ok 20/21; 1 errors |
-| gnews.json | 111 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1241 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 832 | 1560 | ✅ | 42 earnings (34 confirmed), 4 macro; 0 errors |
+| candidates.json | 4 | 45 | ✅ | 75 movers, market open; 0 errors |
+| news.json | 4 | 45 | ✅ | 349 items (199 tagged = 57%), sources ok 30/36; 6 errors |
+| gnews.json | 6 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1256 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 847 | 1560 | ✅ | 42 earnings (34 confirmed), 4 macro; 0 errors |
 
-**news.json sources down:** `bing_nvidia` no RSS entries for query 'nvidia'
+**news.json sources down:** `bing_nvidia` no RSS entries for query 'nvidia'; `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
