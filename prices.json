@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-11T07:01:25.026468+00:00",
+"generated_at": "2026-11-11T07:16:30.306552+00:00",
 "source": "yfinance",
 "count": 193,
 "ok": 193,
@@ -368,14 +368,14 @@
 "mcap_usd": 94629376645
 },
 "1211.HK": {
-"price": 69.25,
+"price": 69.35,
 "prev_close": 71.95,
-"move_pct": -3.753,
+"move_pct": -3.614,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.04219,
+"ret_5d": -0.0408,
 "mcap_usd": 83622145663
 },
 "CDNS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 92.34,
+"price": 92.05,
 "prev_close": 91.49,
-"move_pct": 0.929,
+"move_pct": 0.612,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.0241,
+"ret_5d": -0.02716,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 86.49,
+"price": 86.25,
 "prev_close": 86.04,
-"move_pct": 0.523,
+"move_pct": 0.244,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.0185,
+"ret_5d": -0.02122,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.305,
+"price": 3.298,
 "prev_close": 3.296,
-"move_pct": 0.273,
+"move_pct": 0.061,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.11693,
+"ret_5d": 0.11457,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 73508.8594,
-"prev_close": 75223.1484,
-"move_pct": -2.279,
+"price": 73497.8828,
+"prev_close": 73720.1172,
+"move_pct": -0.301,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.03204,
+"ret_5d": -0.02969,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.1718,
+"price": 3.1739,
 "prev_close": 3.1575,
-"move_pct": 0.453,
+"move_pct": 0.519,
 "asof": "2026-11-11T00:00:00+00:00",
 "session_date": "2026-11-11",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.00309,
+"ret_5d": 0.00375,
 "mcap_usd": null
 },
 "^TA125.TA": {
