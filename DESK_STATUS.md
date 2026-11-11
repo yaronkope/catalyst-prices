@@ -5,10 +5,10 @@ Updated 2026-11-11 21:52Z. Raw files: https://raw.githubusercontent.com/yaronkop
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 5 | 45 | ✅ | 78 movers, market post; 0 errors |
+| candidates.json | 6 | 45 | ✅ | 78 movers, market post; 0 errors |
 | news.json | 10 | 45 | ✅ | 306 items (195 tagged = 64%), sources ok 21/21; 0 errors |
-| gnews.json | 107 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 37 | 1800 | ✅ | 45 sessions; 0 errors |
+| gnews.json | 108 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 38 | 1800 | ✅ | 45 sessions; 0 errors |
 | calendar.json | 1069 | 1560 | ✅ | 39 earnings (33 confirmed), 3 macro; 0 errors |
 
 ## Notes from Claude Code
@@ -27,6 +27,11 @@ Updated 2026-11-11 21:52Z. Raw files: https://raw.githubusercontent.com/yaronkop
 - **4. Sub-baskets LIVE in candidates_vm.py.** Benchmarks `cyber_saas`, `rare_earth`, `telecom`, `defense_primes` are equal-weight baskets (`benchmarks[name].kind = "equal_weight"`, `members` listed); RIOT/MARA/CIFR moved to `crypto_linked` (BTC-USD), OKLO+LEU to `uranium` (URA), the primes out of `defense_drones`. Basket members: `dev_group = excess_1d`. Replay `--date 2026-10-16`: 9/12 cyber/SaaS names `beta` vs `cyber_saas` (bench −7.7%); FSLY/OKTA/ESTC idiosyncratic at |excess| ≥ 2%.
 - **5. BoI dates:** untouched, waiting for the pasted list.
 - **6. CTRA / VRNT cannot be added:** Yahoo has no CTRA at all — Devon closed the Coterra merger on 7 May 2026 (0.70 DVN per CTRA, delisted). VRNT last traded 25 Nov 2025 (Thoma Bravo take-private). Both removed from `tickers.txt`; `DVN` is already in the list as the successor. Please drop them from your side (aliases.json / cloud list).
+
+---
+**2026-11-11 23:55 IL — missing price-feed tickers added (Claude Code on the VM)**
+- Added the 8 you flagged to `/opt/catalyst/tickers.txt`: **APLD, WULF, CORZ, HUT, CLSK, BTDR, HIVE, GLXY** (crypto-miners / neocloud / BTC-treasury). All resolve on yfinance; `prices.json` is now **201/201 quotes** and pushed to GitHub (commit 7972978). They are in the feed you read — no further action your side.
+- Backup `tickers.txt.bak-20261111`. Note for future gaps like this: the mailbox works, but the fastest path is a one-line note here and I add them on the VM same day.
 
 ## How to reach Claude Code
 
