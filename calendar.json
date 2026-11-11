@@ -1,27 +1,7 @@
 {
-"generated_at": "2026-11-10T04:04:14+00:00",
+"generated_at": "2026-11-11T04:03:44+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "BWAY",
-"name": "Brainsway Ltd.",
-"date": "2026-11-10",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.0867,
-"rev_est": 17796330.0
-},
-{
-"t": "CRWV",
-"name": "CoreWeave, Inc.",
-"date": "2026-11-10",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -1.2088,
-"rev_est": 3540872060.0
-},
 {
 "t": "ENR.DE",
 "name": "Siemens Energy AG             N",
@@ -36,20 +16,10 @@
 "t": "ICL",
 "name": "ICL Group Ltd.",
 "date": "2026-11-11",
-"time": "bmo",
+"time": "unknown",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.0975,
-"rev_est": null
-},
-{
-"t": "SND",
-"name": "Smart Sand, Inc.",
-"date": "2026-11-11",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": null,
+"eps_est": 0.0828,
 "rev_est": null
 },
 {
@@ -80,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.33,
-"rev_est": 1706000000.0
+"rev_est": null
 },
 {
 "t": "HLAG.DE",
@@ -90,7 +60,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.718,
-"rev_est": 6232843850.0
+"rev_est": 6128132890.0
 },
 {
 "t": "NBIS",
@@ -129,8 +99,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.0617,
-"rev_est": 6786526370.0
+"eps_est": 1.954,
+"rev_est": 6562743160.0
 },
 {
 "t": "RCAT",
@@ -169,8 +139,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4737,
-"rev_est": 108985899980.0
+"eps_est": 2.4746,
+"rev_est": 109006829530.0
 },
 {
 "t": "PANW",
@@ -180,7 +150,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.9706,
-"rev_est": 3307502950.0
+"rev_est": 3307502500.0
 },
 {
 "t": "ZIM",
@@ -280,7 +250,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.608,
-"rev_est": 761812730.0
+"rev_est": 761773220.0
 },
 {
 "t": "MRVL",
@@ -290,7 +260,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.101,
-"rev_est": 3155914360.0
+"rev_est": 3156204700.0
 },
 {
 "t": "OKTA",
@@ -318,7 +288,7 @@
 "date": "2026-12-02",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 3.4463,
 "rev_est": 11462302380.0
 },
@@ -425,12 +395,6 @@
 ],
 "macro": [
 {
-"date": "2026-11-10",
-"title": "US CPI (October 2026)",
-"time_et": "08:30",
-"source": "https://www.bls.gov/schedule/news_release/cpi.htm"
-},
-{
 "date": "2026-12-04",
 "title": "US jobs report (November 2026)",
 "time_et": "08:30",
@@ -451,10 +415,6 @@
 ],
 "ex_dividend": [
 {
-"t": "AEP",
-"date": "2026-11-10"
-},
-{
 "t": "GOOGL",
 "date": "2026-12-07"
 },
@@ -473,14 +433,6 @@
 {
 "t": "AMAT",
 "date": "2026-11-19"
-},
-{
-"t": "BKR",
-"date": "2026-11-10"
-},
-{
-"t": "OWL",
-"date": "2026-11-10"
 },
 {
 "t": "CCJ",
@@ -511,10 +463,6 @@
 "date": "2026-11-12"
 },
 {
-"t": "ETN",
-"date": "2026-11-10"
-},
-{
 "t": "ELAL.TA",
 "date": "2026-11-12"
 },
@@ -525,10 +473,6 @@
 {
 "t": "XOM",
 "date": "2026-11-16"
-},
-{
-"t": "F",
-"date": "2026-11-10"
 },
 {
 "t": "GM",
@@ -565,10 +509,6 @@
 {
 "t": "MPC",
 "date": "2026-11-18"
-},
-{
-"t": "MTDR",
-"date": "2026-11-10"
 },
 {
 "t": "MSFT",
