@@ -1,27 +1,7 @@
 {
-"generated_at": "2026-11-11T04:03:44+00:00",
+"generated_at": "2026-11-12T04:04:20+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "ENR.DE",
-"name": "Siemens Energy AG             N",
-"date": "2026-11-11",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.3784,
-"rev_est": 12664773310.0
-},
-{
-"t": "ICL",
-"name": "ICL Group Ltd.",
-"date": "2026-11-11",
-"time": "unknown",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.0828,
-"rev_est": null
-},
 {
 "t": "AMAT",
 "name": "Applied Materials, Inc.",
@@ -29,8 +9,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.0558,
-"rev_est": 10299491080.0
+"eps_est": 4.0544,
+"rev_est": 10297511440.0
 },
 {
 "t": "AMRQ.L",
@@ -129,8 +109,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.4719,
-"rev_est": 5742484660.0
+"eps_est": 1.509,
+"rev_est": 5827569530.0
 },
 {
 "t": "NVDA",
@@ -191,6 +171,16 @@
 "confirmed": true,
 "eps_est": 3.0679,
 "rev_est": 2132410570.0
+},
+{
+"t": "CLSK",
+"name": "CleanSpark, Inc.",
+"date": "2026-11-24",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.3667,
+"rev_est": 127746780.0
 },
 {
 "t": "DELL",
