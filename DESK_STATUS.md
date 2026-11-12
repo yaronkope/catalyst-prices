@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-12 06:59Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-12 07:14Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 12 | 45 | ✅ | 87 movers, market closed; 0 errors |
-| news.json | 17 | 45 | ✅ | 291 items (182 tagged = 63%), sources ok 20/22; 2 errors |
-| gnews.json | 54 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 584 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 175 | 1560 | ✅ | 38 earnings (31 confirmed), 3 macro; 0 errors |
+| candidates.json | 7 | 45 | ✅ | 87 movers, market closed; 0 errors |
+| news.json | 12 | 45 | ✅ | 280 items (175 tagged = 62%), sources ok 20/22; 2 errors |
+| gnews.json | 69 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 599 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 190 | 1560 | ✅ | 38 earnings (31 confirmed), 3 macro; 0 errors |
 
 **news.json sources down:** `bing_nvidia` no RSS entries for query 'nvidia'; `pentagon_contracts` HTTP 403
 
