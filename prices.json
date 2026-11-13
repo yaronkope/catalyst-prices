@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-13T04:59:59.413608+00:00",
+"generated_at": "2026-11-13T05:15:14.896912+00:00",
 "source": "yfinance",
 "count": 201,
 "ok": 201,
@@ -1017,14 +1017,14 @@
 "mcap_usd": 292031194855
 },
 "373220.KS": {
-"price": 325000.0,
+"price": 324000.0,
 "prev_close": 329500.0,
-"move_pct": -1.366,
+"move_pct": -1.669,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.03704,
+"ret_5d": -0.04,
 "mcap_usd": 57691098493
 },
 "LBRT": {
@@ -1050,14 +1050,14 @@
 "mcap_usd": 139547599181
 },
 "LYC.AX": {
-"price": 13.29,
+"price": 13.22,
 "prev_close": 13.34,
-"move_pct": -0.375,
+"move_pct": -0.9,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "AUD",
-"ret_5d": 0.07961,
+"ret_5d": 0.07392,
 "mcap_usd": 9201095873
 },
 "MAERSK-B.CO": {
@@ -1127,14 +1127,14 @@
 "mcap_usd": 6535120115
 },
 "2454.TW": {
-"price": 4165.0,
+"price": 4085.0,
 "prev_close": 3850.0,
-"move_pct": 8.182,
+"move_pct": 6.104,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "TWD",
-"ret_5d": 0.22861,
+"ret_5d": 0.20501,
 "mcap_usd": 186563610239
 },
 "META": {
@@ -1358,14 +1358,14 @@
 "mcap_usd": 396291871630
 },
 "PDN.AX": {
-"price": 7.26,
+"price": 7.22,
 "prev_close": 8.7,
-"move_pct": -16.552,
+"move_pct": -17.011,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.02681,
+"ret_5d": -0.03217,
 "mcap_usd": 2661097459
 },
 "PANW": {
@@ -1600,14 +1600,14 @@
 "mcap_usd": 124618094704
 },
 "000660.KS": {
-"price": 1215500.0,
+"price": 1219000.0,
 "prev_close": 1254000.0,
-"move_pct": -3.07,
+"move_pct": -2.791,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "KRW",
-"ret_5d": 0.07376,
+"ret_5d": 0.07686,
 "mcap_usd": 661654001879
 },
 "SLB": {
@@ -1765,14 +1765,14 @@
 "mcap_usd": 50931990902
 },
 "8035.T": {
-"price": 9465.0,
+"price": 9478.0,
 "prev_close": 9304.0,
-"move_pct": 1.73,
+"move_pct": 1.87,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "JPY",
-"ret_5d": 0.14547,
+"ret_5d": 0.14704,
 "mcap_usd": 131760412536
 },
 "TSEM": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 95.82,
-"prev_close": 92.76,
-"move_pct": 3.299,
-"asof": "2026-11-12T00:00:00+00:00",
-"session_date": "2026-11-12",
+"price": 95.56,
+"prev_close": 95.82,
+"move_pct": -0.271,
+"asof": "2026-11-13T00:00:00+00:00",
+"session_date": "2026-11-13",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02513,
+"ret_5d": -0.02807,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 88.74,
-"prev_close": 86.53,
-"move_pct": 2.554,
-"asof": "2026-11-12T00:00:00+00:00",
-"session_date": "2026-11-12",
+"price": 88.24,
+"prev_close": 88.74,
+"move_pct": -0.563,
+"asof": "2026-11-13T00:00:00+00:00",
+"session_date": "2026-11-13",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.01966,
+"ret_5d": -0.02851,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.34,
-"prev_close": 3.215,
-"move_pct": 3.888,
-"asof": "2026-11-12T00:00:00+00:00",
-"session_date": "2026-11-12",
+"price": 3.327,
+"prev_close": 3.34,
+"move_pct": -0.389,
+"asof": "2026-11-13T00:00:00+00:00",
+"session_date": "2026-11-13",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.13336,
+"ret_5d": 0.10974,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 68491.2891,
+"price": 68647.1875,
 "prev_close": 73964.4688,
-"move_pct": -7.4,
+"move_pct": -7.189,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.0958,
+"ret_5d": -0.09374,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.1983,
+"price": 3.1979,
 "prev_close": 3.1739,
-"move_pct": 0.767,
+"move_pct": 0.755,
 "asof": "2026-11-13T00:00:00+00:00",
 "session_date": "2026-11-13",
 "stale": false,
 "currency": "ILS",
-"ret_5d": -0.0007,
+"ret_5d": -0.00082,
 "mcap_usd": null
 },
 "^TA125.TA": {
