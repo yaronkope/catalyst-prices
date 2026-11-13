@@ -1,17 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-12 23:54Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-13 00:10Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
-| prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 7 | 45 | ✅ | 91 movers, market post; 0 errors |
-| news.json | 11 | 45 | ✅ | 299 items (189 tagged = 63%), sources ok 20/21; 1 errors |
-| gnews.json | 109 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 159 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 1190 | 1560 | ✅ | 38 earnings (31 confirmed), 3 macro; 0 errors |
-
-**news.json sources down:** `bing_nvidia` no RSS entries for query 'nvidia'
+| prices.json | 2 | 30 | ✅ | 201/201 quotes; 0 errors |
+| candidates.json | 4 | 45 | ✅ | 91 movers, market post; 0 errors |
+| news.json | 9 | 45 | ✅ | 304 items (193 tagged = 63%), sources ok 21/21; 0 errors |
+| gnews.json | 6 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 176 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 1207 | 1560 | ✅ | 38 earnings (31 confirmed), 3 macro; 0 errors |
 
 ## Notes from Claude Code
 
