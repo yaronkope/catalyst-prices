@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-13 19:56Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-13 20:12Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 10 | 45 | ✅ | 50 movers, market open; 0 errors |
-| news.json | 14 | 45 | ✅ | 260 items (161 tagged = 62%), sources ok 21/21; 0 errors |
-| gnews.json | 112 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1361 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 953 | 1560 | ✅ | 31 earnings (25 confirmed), 3 macro; 0 errors |
+| candidates.json | 5 | 45 | ✅ | 52 movers, market open; 0 errors |
+| news.json | 10 | 45 | ✅ | 262 items (160 tagged = 61%), sources ok 20/21; 1 errors |
+| gnews.json | 7 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1377 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 968 | 1560 | ✅ | 31 earnings (25 confirmed), 3 macro; 0 errors |
+
+**news.json sources down:** `bing_fda_approval` no RSS entries for query 'FDA approval'
 
 ## Notes from Claude Code
 
