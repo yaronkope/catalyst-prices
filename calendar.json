@@ -1,77 +1,7 @@
 {
-"generated_at": "2026-11-12T04:04:20+00:00",
+"generated_at": "2026-11-13T04:04:07+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "AMAT",
-"name": "Applied Materials, Inc.",
-"date": "2026-11-12",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.0544,
-"rev_est": 10297511440.0
-},
-{
-"t": "AMRQ.L",
-"name": "AMAROQ LTD. COM SHS NPV (DI)",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": null,
-"rev_est": null
-},
-{
-"t": "BN",
-"name": "Brookfield Corporation",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.33,
-"rev_est": null
-},
-{
-"t": "HLAG.DE",
-"name": "Hapag-Lloyd AG                N",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.718,
-"rev_est": 6128132890.0
-},
-{
-"t": "NBIS",
-"name": "Nebius Group N.V.",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.6284,
-"rev_est": 907172380.0
-},
-{
-"t": "ONDS",
-"name": "Ondas Inc",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.09,
-"rev_est": 148039400.0
-},
-{
-"t": "SIE.DE",
-"name": "SIEMENS AG                    N",
-"date": "2026-11-12",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.8125,
-"rev_est": 23239932540.0
-},
 {
 "t": "POLI.TA",
 "name": "BANK HAPOALIM B.M.",
@@ -119,8 +49,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4746,
-"rev_est": 109006829530.0
+"eps_est": 2.4751,
+"rev_est": 109043188870.0
 },
 {
 "t": "PANW",
@@ -149,8 +79,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.8093,
-"rev_est": 486668760.0
+"eps_est": 0.8095,
+"rev_est": 486751230.0
 },
 {
 "t": "HPE",
@@ -239,7 +169,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.608,
+"eps_est": 1.6076,
 "rev_est": 761773220.0
 },
 {
@@ -308,7 +238,7 @@
 "date": "2026-12-03",
 "time": "amc",
 "source": "yfinance",
-"confirmed": false,
+"confirmed": true,
 "eps_est": 0.0914,
 "rev_est": 310192610.0
 },
@@ -417,10 +347,6 @@
 "date": "2026-11-18"
 },
 {
-"t": "AAPL",
-"date": "2026-11-12"
-},
-{
 "t": "AMAT",
 "date": "2026-11-19"
 },
@@ -447,18 +373,6 @@
 {
 "t": "CMI",
 "date": "2026-11-20"
-},
-{
-"t": "FANG",
-"date": "2026-11-12"
-},
-{
-"t": "ELAL.TA",
-"date": "2026-11-12"
-},
-{
-"t": "EFXT",
-"date": "2026-11-12"
 },
 {
 "t": "XOM",
