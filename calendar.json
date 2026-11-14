@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-13T04:04:07+00:00",
+"generated_at": "2026-11-14T04:04:50+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -21,6 +21,16 @@
 "confirmed": true,
 "eps_est": -0.18,
 "rev_est": 40684200.0
+},
+{
+"t": "XTND",
+"name": "Xtend AI Robotics, Inc.",
+"date": "2026-11-16",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": -0.01,
+"rev_est": 23100000.0
 },
 {
 "t": "ESLT",
@@ -49,8 +59,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4751,
-"rev_est": 109043188870.0
+"eps_est": 2.4712,
+"rev_est": 108731903900.0
 },
 {
 "t": "PANW",
@@ -60,7 +70,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.9706,
-"rev_est": 3307502500.0
+"rev_est": 3307502950.0
 },
 {
 "t": "ZIM",
@@ -80,7 +90,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.8095,
-"rev_est": 486751230.0
+"rev_est": 486786700.0
 },
 {
 "t": "HPE",
@@ -119,8 +129,18 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.5537,
-"rev_est": 49175023750.0
+"eps_est": 6.5536,
+"rev_est": 49169931760.0
+},
+{
+"t": "DY",
+"name": "Dycom Industries, Inc.",
+"date": "2026-11-24",
+"time": "bmo",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 4.5326,
+"rev_est": 1945294990.0
 },
 {
 "t": "WDAY",
@@ -131,16 +151,6 @@
 "confirmed": true,
 "eps_est": 2.7449,
 "rev_est": 2691535090.0
-},
-{
-"t": "DY",
-"name": "Dycom Industries, Inc.",
-"date": "2026-11-25",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 4.5326,
-"rev_est": 1945294990.0
 },
 {
 "t": "PHOE.TA",
@@ -289,8 +299,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.9493,
-"rev_est": 19406448890.0
+"eps_est": 3.9488,
+"rev_est": 19402663890.0
 },
 {
 "t": "CCL",
@@ -359,10 +369,6 @@
 "date": "2026-11-18"
 },
 {
-"t": "CTSH",
-"date": "2026-11-13"
-},
-{
 "t": "COP",
 "date": "2026-11-16"
 },
@@ -385,6 +391,14 @@
 {
 "t": "GFS",
 "date": "2026-12-22"
+},
+{
+"t": "HAL",
+"date": "2026-12-02"
+},
+{
+"t": "ICL",
+"date": "2026-12-02"
 },
 {
 "t": "JNJ",
@@ -473,10 +487,6 @@
 {
 "t": "VST",
 "date": "2026-12-22"
-},
-{
-"t": "WEC",
-"date": "2026-11-13"
 },
 {
 "t": "WDC",
