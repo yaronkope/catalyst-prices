@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-14T04:04:50+00:00",
+"generated_at": "2026-11-15T04:03:56+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -130,7 +130,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 6.5536,
-"rev_est": 49169931760.0
+"rev_est": 49169949940.0
 },
 {
 "t": "DY",
@@ -359,6 +359,10 @@
 {
 "t": "AMAT",
 "date": "2026-11-19"
+},
+{
+"t": "BN",
+"date": "2026-12-16"
 },
 {
 "t": "CCJ",
