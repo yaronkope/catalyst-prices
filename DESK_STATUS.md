@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-15 14:18Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-15 14:33Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 11 | 45 | ✅ | 51 movers, market closed; 0 errors |
-| news.json | 16 | 45 | ✅ | 266 items (158 tagged = 59%), sources ok 19/21; 2 errors |
-| gnews.json | 13 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 2463 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 614 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
+| candidates.json | 6 | 45 | ✅ | 51 movers, market closed; 0 errors |
+| news.json | 11 | 45 | ✅ | 279 items (158 tagged = 57%), sources ok 20/21; 1 errors |
+| gnews.json | 28 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 2478 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 630 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
 
-**news.json sources down:** `bing_tariffs` no RSS entries for query 'tariffs'; `edgar_fts` timeout after 15s
+**news.json sources down:** `edgar_fts` timeout after 15s
 
 ## Notes from Claude Code
 
