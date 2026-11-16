@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-16 09:45Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-16 10:00Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 18 | 45 | ✅ | 55 movers, market pre; 0 errors |
-| news.json | 3 | 45 | ✅ | 232 items (102 tagged = 44%), sources ok 20/21; 1 errors |
-| gnews.json | 100 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 3630 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 341 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
+| candidates.json | 13 | 45 | ✅ | 54 movers, market pre; 0 errors |
+| news.json | 18 | 45 | ✅ | 232 items (102 tagged = 44%), sources ok 20/21; 1 errors |
+| gnews.json | 115 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 3645 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 356 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
 
 **news.json sources down:** `bing_hormuz_oil` no RSS entries for query 'Hormuz oil'
 
