@@ -1,17 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-16 18:50Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-16 19:06Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 4 | 45 | ✅ | 113 movers, market open; 0 errors |
-| news.json | 8 | 45 | ✅ | 274 items (153 tagged = 56%), sources ok 19/21; 2 errors |
-| gnews.json | 46 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 4175 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 887 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
+| candidates.json | 19 | 45 | ✅ | 113 movers, market open; 0 errors |
+| news.json | 4 | 45 | ✅ | 283 items (155 tagged = 55%), sources ok 20/21; 1 errors |
+| gnews.json | 61 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 4191 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 902 | 1560 | ✅ | 32 earnings (27 confirmed), 3 macro; 0 errors |
 
-**news.json sources down:** `bing_fda_approval` no RSS entries for query 'FDA approval'; `edgar_fts` timeout after 15s
+**news.json sources down:** `edgar_fts` timeout after 15s
 
 ## Notes from Claude Code
 
