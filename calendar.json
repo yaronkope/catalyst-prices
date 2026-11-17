@@ -1,37 +1,7 @@
 {
-"generated_at": "2026-11-16T04:04:07+00:00",
+"generated_at": "2026-11-17T04:03:51+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "POLI.TA",
-"name": "BANK HAPOALIM B.M.",
-"date": "2026-11-16",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.954,
-"rev_est": 6562743160.0
-},
-{
-"t": "RCAT",
-"name": "Red Cat Holdings, Inc.",
-"date": "2026-11-16",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.18,
-"rev_est": 40684200.0
-},
-{
-"t": "XTND",
-"name": "Xtend AI Robotics, Inc.",
-"date": "2026-11-16",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.01,
-"rev_est": 23100000.0
-},
 {
 "t": "ESLT",
 "name": "Elbit Systems Ltd.",
@@ -59,8 +29,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 2.4712,
-"rev_est": 108731903900.0
+"eps_est": 2.4707,
+"rev_est": 108710527430.0
 },
 {
 "t": "PANW",
@@ -70,7 +40,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.9706,
-"rev_est": 3307491840.0
+"rev_est": 3307457560.0
 },
 {
 "t": "ZIM",
@@ -90,7 +60,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.8095,
-"rev_est": 486767230.0
+"rev_est": 486766110.0
 },
 {
 "t": "HPE",
@@ -99,8 +69,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.2772,
-"rev_est": 14406617280.0
+"eps_est": 1.2812,
+"rev_est": 14425411720.0
 },
 {
 "t": "ADSK",
@@ -110,7 +80,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0679,
-"rev_est": 2132410570.0
+"rev_est": 2132414270.0
 },
 {
 "t": "CLSK",
@@ -129,8 +99,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 6.5536,
-"rev_est": 49169949940.0
+"eps_est": 6.5881,
+"rev_est": 49196513130.0
 },
 {
 "t": "DY",
@@ -373,24 +343,12 @@
 "date": "2026-11-18"
 },
 {
-"t": "COP",
-"date": "2026-11-16"
-},
-{
-"t": "CEG",
-"date": "2026-11-16"
-},
-{
 "t": "CMI",
 "date": "2026-11-20"
 },
 {
 "t": "DLR",
 "date": "2026-12-15"
-},
-{
-"t": "XOM",
-"date": "2026-11-16"
 },
 {
 "t": "GM",
@@ -411,10 +369,6 @@
 {
 "t": "JNJ",
 "date": "2026-11-24"
-},
-{
-"t": "KGS",
-"date": "2026-11-16"
 },
 {
 "t": "LHX",
