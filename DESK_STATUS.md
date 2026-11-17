@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-17 19:35Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-17 19:50Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 8 | 45 | ✅ | 56 movers, market open; 0 errors |
-| news.json | 13 | 45 | ✅ | 349 items (218 tagged = 62%), sources ok 21/21; 0 errors |
-| gnews.json | 90 | 180 | ✅ | 182 entities; 0 errors |
-| closes.json | 1340 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 931 | 1560 | ✅ | 29 earnings (24 confirmed), 3 macro; 0 errors |
+| candidates.json | 3 | 45 | ✅ | 60 movers, market open; 0 errors |
+| news.json | 8 | 45 | ✅ | 318 items (187 tagged = 59%), sources ok 20/21; 1 errors |
+| gnews.json | 106 | 180 | ✅ | 182 entities; 0 errors |
+| closes.json | 1355 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 947 | 1560 | ✅ | 29 earnings (24 confirmed), 3 macro; 0 errors |
+
+**news.json sources down:** `edgar_fts` timeout after 15s
 
 ## Notes from Claude Code
 
