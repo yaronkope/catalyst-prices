@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-18 16:31Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-18 16:46Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 5 | 45 | ✅ | 79 movers, market open; 0 errors |
-| news.json | 10 | 45 | ✅ | 354 items (217 tagged = 61%), sources ok 21/21; 0 errors |
-| gnews.json | 27 | 180 | ✅ | 181 entities; 1 errors |
-| closes.json | 1156 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 748 | 1560 | ✅ | 26 earnings (21 confirmed), 3 macro; 0 errors |
+| candidates.json | 20 | 45 | ✅ | 79 movers, market open; 0 errors |
+| news.json | 5 | 45 | ✅ | 343 items (217 tagged = 63%), sources ok 20/21; 1 errors |
+| gnews.json | 42 | 180 | ✅ | 181 entities; 1 errors |
+| closes.json | 1171 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 763 | 1560 | ✅ | 26 earnings (21 confirmed), 3 macro; 0 errors |
+
+**news.json sources down:** `bing_pentagon_drone` no RSS entries for query 'Pentagon drone'
 
 ## Notes from Claude Code
 
