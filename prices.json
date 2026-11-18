@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-18T07:42:55.205287+00:00",
+"generated_at": "2026-11-18T07:58:24.819159+00:00",
 "source": "yfinance",
 "count": 201,
 "ok": 201,
@@ -368,14 +368,14 @@
 "mcap_usd": 88378794286
 },
 "1211.HK": {
-"price": 64.25,
+"price": 64.1,
 "prev_close": 64.15,
-"move_pct": 0.156,
+"move_pct": -0.078,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "HKD",
-"ret_5d": -0.07153,
+"ret_5d": -0.0737,
 "mcap_usd": 74541590092
 },
 "CDNS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 91.82,
+"price": 91.8,
 "prev_close": 93.14,
-"move_pct": -1.417,
+"move_pct": -1.439,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.01013,
+"ret_5d": -0.01035,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 84.11,
+"price": 84.12,
 "prev_close": 86.01,
-"move_pct": -2.209,
+"move_pct": -2.197,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.02797,
+"ret_5d": -0.02785,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.187,
+"price": 3.191,
 "prev_close": 3.208,
-"move_pct": -0.655,
+"move_pct": -0.53,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.00871,
+"ret_5d": -0.00746,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,25 +2095,25 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 64465.8789,
+"price": 64834.6484,
 "prev_close": 64893.9453,
-"move_pct": -0.66,
+"move_pct": -0.091,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.05543,
+"ret_5d": -0.05003,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.2492,
+"price": 3.2478,
 "prev_close": 3.2426,
-"move_pct": 0.204,
+"move_pct": 0.16,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.02108,
+"ret_5d": 0.02064,
 "mcap_usd": null
 },
 "^TA125.TA": {
