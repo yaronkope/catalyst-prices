@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-18T04:10:46.780958+00:00",
+"generated_at": "2026-11-18T04:25:56.501996+00:00",
 "source": "yfinance",
 "count": 201,
 "ok": 201,
@@ -1017,14 +1017,14 @@
 "mcap_usd": 263187841040
 },
 "373220.KS": {
-"price": 303500.0,
+"price": 304750.0,
 "prev_close": 305500.0,
-"move_pct": -0.655,
+"move_pct": -0.245,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.09538,
+"ret_5d": -0.09165,
 "mcap_usd": 50040900000
 },
 "LBRT": {
@@ -1050,14 +1050,14 @@
 "mcap_usd": 136371285381
 },
 "LYC.AX": {
-"price": 12.475,
+"price": 12.445,
 "prev_close": 12.03,
-"move_pct": 3.699,
+"move_pct": 3.45,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.10381,
+"ret_5d": -0.10596,
 "mcap_usd": 8259247480
 },
 "MAERSK-B.CO": {
@@ -1127,14 +1127,14 @@
 "mcap_usd": 6249262587
 },
 "2454.TW": {
-"price": 3910.0,
+"price": 3970.0,
 "prev_close": 3840.0,
-"move_pct": 1.823,
+"move_pct": 3.385,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "TWD",
-"ret_5d": -0.02005,
+"ret_5d": -0.00501,
 "mcap_usd": 186442546901
 },
 "META": {
@@ -1358,14 +1358,14 @@
 "mcap_usd": 358536425290
 },
 "PDN.AX": {
-"price": 6.875,
+"price": 6.835,
 "prev_close": 6.75,
-"move_pct": 1.852,
+"move_pct": 1.259,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "AUD",
-"ret_5d": -0.20977,
+"ret_5d": -0.21437,
 "mcap_usd": 2094967422
 },
 "PANW": {
@@ -1523,14 +1523,14 @@
 "mcap_usd": 160089963516
 },
 "005930.KS": {
-"price": 191500.0,
+"price": 192500.0,
 "prev_close": 190300.0,
-"move_pct": 0.631,
+"move_pct": 1.156,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.07039,
+"ret_5d": -0.06553,
 "mcap_usd": 867453849220
 },
 "SNDK": {
@@ -1600,14 +1600,14 @@
 "mcap_usd": 116887652326
 },
 "000660.KS": {
-"price": 1138000.0,
+"price": 1140000.0,
 "prev_close": 1098000.0,
-"move_pct": 3.643,
+"move_pct": 3.825,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "KRW",
-"ret_5d": -0.10885,
+"ret_5d": -0.10728,
 "mcap_usd": 541996216826
 },
 "SLB": {
@@ -1765,14 +1765,14 @@
 "mcap_usd": 49730156288
 },
 "8035.T": {
-"price": 8623.0,
+"price": 8644.0,
 "prev_close": 8657.0,
-"move_pct": -0.393,
+"move_pct": -0.15,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "JPY",
-"ret_5d": -0.07,
+"ret_5d": -0.06773,
 "mcap_usd": 122832561340
 },
 "TSEM": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 92.4,
+"price": 92.74,
 "prev_close": 92.44,
-"move_pct": -0.043,
+"move_pct": 0.325,
 "asof": "2026-11-17T00:00:00+00:00",
 "session_date": "2026-11-17",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00995,
+"ret_5d": 0.01366,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 84.82,
-"prev_close": 86.01,
-"move_pct": -1.384,
-"asof": "2026-11-18T00:00:00+00:00",
-"session_date": "2026-11-18",
+"price": 85.06,
+"prev_close": 85.72,
+"move_pct": -0.77,
+"asof": "2026-11-17T00:00:00+00:00",
+"session_date": "2026-11-17",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.01976,
+"ret_5d": -0.01139,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.17,
-"prev_close": 3.208,
-"move_pct": -1.185,
-"asof": "2026-11-18T00:00:00+00:00",
-"session_date": "2026-11-18",
+"price": 3.174,
+"prev_close": 3.122,
+"move_pct": 1.666,
+"asof": "2026-11-17T00:00:00+00:00",
+"session_date": "2026-11-17",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.014,
+"ret_5d": -0.03701,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,14 +2095,14 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 64341.3711,
+"price": 64447.8984,
 "prev_close": 64855.8438,
-"move_pct": -0.793,
+"move_pct": -0.629,
 "asof": "2026-11-18T00:00:00+00:00",
 "session_date": "2026-11-18",
 "stale": false,
 "currency": "USD",
-"ret_5d": -0.09814,
+"ret_5d": -0.09665,
 "mcap_usd": null
 },
 "ILS=X": {
