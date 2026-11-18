@@ -1,37 +1,7 @@
 {
-"generated_at": "2026-11-17T04:03:51+00:00",
+"generated_at": "2026-11-18T04:03:55+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "ESLT",
-"name": "Elbit Systems Ltd.",
-"date": "2026-11-17",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.9375,
-"rev_est": 2257018670.0
-},
-{
-"t": "LUMI.TA",
-"name": "BK LEUMI LE ISRAEL",
-"date": "2026-11-17",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.509,
-"rev_est": 5827569530.0
-},
-{
-"t": "NVDA",
-"name": "NVIDIA Corporation",
-"date": "2026-11-17",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.4707,
-"rev_est": 108710527430.0
-},
 {
 "t": "PANW",
 "name": "Palo Alto Networks, Inc.",
@@ -39,8 +9,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.9706,
-"rev_est": 3307457560.0
+"eps_est": 0.9703,
+"rev_est": 3307494060.0
 },
 {
 "t": "ZIM",
@@ -49,8 +19,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 7.52,
-"rev_est": 2576600000.0
+"eps_est": 5.11,
+"rev_est": 2551258080.0
 },
 {
 "t": "ESTC",
@@ -190,7 +160,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.4463,
-"rev_est": 11462302380.0
+"rev_est": 11462294880.0
 },
 {
 "t": "SNOW",
@@ -331,6 +301,10 @@
 "date": "2026-11-19"
 },
 {
+"t": "POLI.TA",
+"date": "2026-11-24"
+},
+{
 "t": "BN",
 "date": "2026-12-16"
 },
@@ -405,10 +379,6 @@
 {
 "t": "OXY",
 "date": "2026-12-10"
-},
-{
-"t": "PSX",
-"date": "2026-11-17"
 },
 {
 "t": "QCOM",
