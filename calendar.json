@@ -1,27 +1,7 @@
 {
-"generated_at": "2026-11-18T04:03:55+00:00",
+"generated_at": "2026-11-19T04:04:03+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "PANW",
-"name": "Palo Alto Networks, Inc.",
-"date": "2026-11-18",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.9703,
-"rev_est": 3307494060.0
-},
-{
-"t": "ZIM",
-"name": "ZIM Integrated Shipping Service",
-"date": "2026-11-18",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 5.11,
-"rev_est": 2551258080.0
-},
 {
 "t": "ESTC",
 "name": "Elastic N.V.",
@@ -50,7 +30,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.0679,
-"rev_est": 2132414270.0
+"rev_est": 2132303160.0
 },
 {
 "t": "CLSK",
@@ -120,7 +100,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 1.6076,
-"rev_est": 761773220.0
+"rev_est": 761821790.0
 },
 {
 "t": "MRVL",
@@ -160,7 +140,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.4463,
-"rev_est": 11462294880.0
+"rev_est": 11462305880.0
 },
 {
 "t": "SNOW",
@@ -169,8 +149,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.5999,
-"rev_est": 1654183980.0
+"eps_est": 0.6,
+"rev_est": 1654413500.0
 },
 {
 "t": "ZS",
@@ -293,16 +273,16 @@
 "date": "2026-12-08"
 },
 {
-"t": "APO",
-"date": "2026-11-18"
-},
-{
 "t": "AMAT",
 "date": "2026-11-19"
 },
 {
 "t": "POLI.TA",
 "date": "2026-11-24"
+},
+{
+"t": "LUMI.TA",
+"date": "2026-12-02"
 },
 {
 "t": "BN",
@@ -313,12 +293,12 @@
 "date": "2026-11-30"
 },
 {
-"t": "CVX",
-"date": "2026-11-18"
-},
-{
 "t": "CMI",
 "date": "2026-11-20"
+},
+{
+"t": "DVN",
+"date": "2026-12-15"
 },
 {
 "t": "DLR",
@@ -361,10 +341,6 @@
 "date": "2026-12-01"
 },
 {
-"t": "MPC",
-"date": "2026-11-18"
-},
-{
 "t": "MSFT",
 "date": "2026-11-19"
 },
@@ -395,10 +371,6 @@
 {
 "t": "SLB",
 "date": "2026-12-02"
-},
-{
-"t": "SND",
-"date": "2026-11-18"
 },
 {
 "t": "SEI",
