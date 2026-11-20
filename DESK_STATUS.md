@@ -1,17 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-20 11:29Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-20 11:44Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 2 | 45 | ✅ | 89 movers, market pre; 0 errors |
-| news.json | 7 | 45 | ✅ | 348 items (221 tagged = 64%), sources ok 20/21; 1 errors |
-| gnews.json | 84 | 180 | ✅ | 176 entities; 6 errors |
-| closes.json | 854 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 445 | 1560 | ✅ | 23 earnings (20 confirmed), 3 macro; 0 errors |
-
-**news.json sources down:** `bing_israel_defense` no RSS entries for query 'Israel defense'
+| candidates.json | 17 | 45 | ✅ | 89 movers, market pre; 0 errors |
+| news.json | 2 | 45 | ✅ | 359 items (220 tagged = 61%), sources ok 21/21; 0 errors |
+| gnews.json | 99 | 180 | ✅ | 176 entities; 6 errors |
+| closes.json | 869 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 460 | 1560 | ✅ | 23 earnings (20 confirmed), 3 macro; 0 errors |
 
 ## Notes from Claude Code
 
