@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-20T04:04:00+00:00",
+"generated_at": "2026-11-21T04:03:57+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -9,7 +9,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.285,
+"eps_est": 1.2882,
 "rev_est": 14425411720.0
 },
 {
@@ -139,7 +139,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.6,
+"eps_est": 0.5983,
 "rev_est": 1654413500.0
 },
 {
@@ -189,8 +189,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.8377,
-"rev_est": 34906205760.0
+"eps_est": 3.8302,
+"rev_est": 34903482540.0
 },
 {
 "t": "ORCL",
@@ -209,8 +209,8 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.9488,
-"rev_est": 19402663890.0
+"eps_est": 3.9502,
+"rev_est": 19402137910.0
 },
 {
 "t": "MU",
@@ -219,8 +219,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 38.2913,
-"rev_est": 61832643300.0
+"eps_est": 38.2161,
+"rev_est": 61721544580.0
 },
 {
 "t": "CCL",
@@ -279,10 +279,6 @@
 "date": "2026-11-30"
 },
 {
-"t": "CMI",
-"date": "2026-11-20"
-},
-{
 "t": "DVN",
 "date": "2026-12-15"
 },
@@ -292,7 +288,7 @@
 },
 {
 "t": "ESLT",
-"date": "2026-11-23"
+"date": "2026-12-21"
 },
 {
 "t": "GM",
@@ -335,12 +331,20 @@
 "date": "2026-12-01"
 },
 {
+"t": "2454.TW",
+"date": "2027-01-05"
+},
+{
 "t": "MOS",
 "date": "2026-12-04"
 },
 {
 "t": "NTR",
 "date": "2026-12-31"
+},
+{
+"t": "NVDA",
+"date": "2026-12-02"
 },
 {
 "t": "OXY",
@@ -353,10 +357,6 @@
 {
 "t": "PWR",
 "date": "2027-01-04"
-},
-{
-"t": "RTX",
-"date": "2026-11-20"
 },
 {
 "t": "000660.KS",
