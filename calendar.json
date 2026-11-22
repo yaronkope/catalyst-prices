@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-21T04:03:57+00:00",
+"generated_at": "2026-11-22T04:04:09+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -49,7 +49,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 4.5326,
+"eps_est": 4.5672,
 "rev_est": 1945294990.0
 },
 {
@@ -231,6 +231,16 @@
 "confirmed": false,
 "eps_est": 0.2239,
 "rev_est": 6471560810.0
+},
+{
+"t": "APLD",
+"name": "Applied Digital Corporation",
+"date": "2027-01-06",
+"time": "amc",
+"source": "yfinance",
+"confirmed": false,
+"eps_est": -0.1696,
+"rev_est": 158353250.0
 }
 ],
 "macro": [
