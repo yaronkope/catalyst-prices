@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-22 23:49Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-23 00:05Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
-| prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 2 | 45 | ✅ | 147 movers, market closed; 0 errors |
-| news.json | 7 | 45 | ✅ | 171 items (54 tagged = 32%), sources ok 21/21; 0 errors |
-| gnews.json | 104 | 180 | ✅ | 181 entities; 1 errors |
-| closes.json | 3034 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 1185 | 1560 | ✅ | 24 earnings (20 confirmed), 3 macro; 0 errors |
+| prices.json | 2 | 30 | ✅ | 201/201 quotes; 0 errors |
+| candidates.json | 18 | 45 | ✅ | 147 movers, market closed; 0 errors |
+| news.json | 3 | 45 | ✅ | 169 items (57 tagged = 34%), sources ok 21/21; 0 errors |
+| gnews.json | 120 | 180 | ✅ | 181 entities; 1 errors |
+| closes.json | 3050 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 1202 | 1560 | ✅ | 24 earnings (20 confirmed), 3 macro; 0 errors |
 
 ## Notes from Claude Code
 
