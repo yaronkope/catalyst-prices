@@ -1,15 +1,15 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-23 20:01Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-23 20:16Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 15 | 45 | ✅ | 152 movers, market open; 0 errors |
-| news.json | 20 | 45 | ✅ | 297 items (186 tagged = 63%), sources ok 21/21; 0 errors |
-| gnews.json | 117 | 180 | ✅ | 181 entities; 1 errors |
-| closes.json | 4246 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
-| calendar.json | 958 | 1560 | ✅ | 24 earnings (20 confirmed), 3 macro; 0 errors |
+| candidates.json | 9 | 45 | ✅ | 152 movers, market open; 0 errors |
+| news.json | 14 | 45 | ✅ | 298 items (193 tagged = 65%), sources ok 21/21; 0 errors |
+| gnews.json | 11 | 180 | ✅ | 180 entities; 2 errors |
+| closes.json | 4261 | 1800 | ⚠️ stale | 45 sessions; 0 errors |
+| calendar.json | 972 | 1560 | ✅ | 24 earnings (20 confirmed), 3 macro; 0 errors |
 
 ## Notes from Claude Code
 
@@ -32,6 +32,12 @@ Updated 2026-11-23 20:01Z. Raw files: https://raw.githubusercontent.com/yaronkop
 **2026-11-11 23:55 IL — missing price-feed tickers added (Claude Code on the VM)**
 - Added the 8 you flagged to `/opt/catalyst/tickers.txt`: **APLD, WULF, CORZ, HUT, CLSK, BTDR, HIVE, GLXY** (crypto-miners / neocloud / BTC-treasury). All resolve on yfinance; `prices.json` is now **201/201 quotes** and pushed to GitHub (commit 7972978). They are in the feed you read — no further action your side.
 - Backup `tickers.txt.bak-20261111`. Note for future gaps like this: the mailbox works, but the fastest path is a one-line note here and I add them on the VM same day.
+
+---
+**2026-11-23 22:10 IL — spec "הזדמנות ייחודית + מעקב צל": the three Code items (Claude Code on the VM)**
+- **1. Reversible-situations scanner — "על הסף" tier LIVE.** `/opt/nasdaq-scanner/situations_desk.py`: break-even of the cheapest call ≤15% (or model p ≥ break-even) = clear tier, push "🎲 מצב הפיך: SYM"; **15–25% = push titled "על הסף – בוא נדון: SYM"**, first body line "מה חסר: …" (option not cheap enough / model gap / wide spread / thin OI / few sources). 15% only separates the tiers; above 25% it is tracked on the page, quietly (`SIT_BORDER_BE`). Re-push on a ≥5pp probability move or when a situation climbs a tier; a step down is page-only. Also new, at the request of Yaron: the classifier now returns `too_important_to_fail`, `backstop_actors`, `backstop_note` (can the market / the administration afford to let this stand?) and is told not to anchor on the formal decision-maker's denial; shown in the push and on the page. Do not send a second alert for a big-name drop caused by a reversible decision — it belongs to this scanner.
+- **2. `options.json` LIVE** — `https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/options.json` (first commit 7c2624e4, 54 names, 207 expiries, 0.90 MB, 0 errors, ~2 min). Built by `/opt/catalyst/options_vm.py` on the SAME chain code the scanner uses (`/opt/nasdaq-scanner/option_chains.py`). Structure as in the spec, plus additive keys: top level `market_state`, `atm_two_sided_share`, `n_underlyings`, `errors[]`; per underlying `sources` (watchlist / earnings / mover / extra / situation); per expiry `atm_two_sided`. `implied_move_pct` = ATM straddle mid ÷ spot, null when either leg has no quote. `quotes_live` = US regular session AND ≥70% of ATM quotes two-sided — when false, do not use prices as numbers. Names: watchlist.txt + earnings within 10 days (calendar.json) + top 15 movers by |excess_1d| (candidates.json) + `/opt/catalyst/options_extra.txt` (created, empty — write a line here and I add the name) + open situations. US-listed only. Expiries: the two nearest (can include today, dte 0), first in 30–60 d, first in 90–180 d; strikes ±30% of spot. Timer `catalyst-options.timer`: 09:40–15:40 ET every 30 min + 16:20 ET, scheduled in America/New_York. Yahoo sometimes returns `iv` 0.0 on near-dated strikes — treat 0 as missing.
+- **3. Push channel = Pushover**, via `notifier.send_pushover` on the VM (app token + user key in `/opt/nasdaq-scanner/.env`). Verified 23.11 22:03: Pushover validate → status 1, device `iphone`; 5,725 of 10,000 monthly messages left; real pushes from the same function went out tonight. The scanner itself has not fired a real push yet (0 open situations). A cloud scan cannot call this directly; simplest bridge if you want everything on one channel: write a small JSON to the repo/dashboard and I add a VM poller that pushes it.
 
 ## How to reach Claude Code
 
