@@ -1,17 +1,7 @@
 {
-"generated_at": "2026-11-23T04:03:59+00:00",
+"generated_at": "2026-11-24T04:04:01+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "HPE",
-"name": "Hewlett Packard Enterprise Comp",
-"date": "2026-11-23",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.2882,
-"rev_est": 14425411720.0
-},
 {
 "t": "ADSK",
 "name": "Autodesk, Inc.",
@@ -60,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 2.7442,
-"rev_est": 2691535090.0
+"rev_est": 2691536500.0
 },
 {
 "t": "PHOE.TA",
@@ -73,24 +63,14 @@
 "rev_est": null
 },
 {
-"t": "CRWD",
-"name": "CrowdStrike Holdings, Inc.",
-"date": "2026-12-01",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 0.3115,
-"rev_est": 1528559430.0
-},
-{
 "t": "MDB",
 "name": "MongoDB, Inc.",
 "date": "2026-12-01",
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.6076,
-"rev_est": 761821790.0
+"eps_est": 1.6073,
+"rev_est": 761754590.0
 },
 {
 "t": "MRVL",
@@ -129,8 +109,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 3.4463,
-"rev_est": 11462305880.0
+"eps_est": 3.4466,
+"rev_est": 11461322200.0
 },
 {
 "t": "SNOW",
@@ -141,16 +121,6 @@
 "confirmed": true,
 "eps_est": 0.5983,
 "rev_est": 1654413500.0
-},
-{
-"t": "ZS",
-"name": "Zscaler, Inc.",
-"date": "2026-12-02",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 1.1611,
-"rev_est": 938160410.0
 },
 {
 "t": "S",
@@ -219,8 +189,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 38.2161,
-"rev_est": 61721544580.0
+"eps_est": 38.2367,
+"rev_est": 61744991720.0
 },
 {
 "t": "CCL",
@@ -229,7 +199,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": 0.2239,
+"eps_est": 0.2238,
 "rev_est": 6471560810.0
 },
 {
@@ -240,7 +210,7 @@
 "source": "yfinance",
 "confirmed": false,
 "eps_est": -0.1696,
-"rev_est": 158353250.0
+"rev_est": 158359500.0
 }
 ],
 "macro": [
@@ -403,10 +373,6 @@
 {
 "t": "VRT",
 "date": "2026-11-24"
-},
-{
-"t": "VTRS",
-"date": "2026-11-23"
 },
 {
 "t": "VST",
