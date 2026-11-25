@@ -1,57 +1,7 @@
 {
-"generated_at": "2026-11-24T04:04:01+00:00",
+"generated_at": "2026-11-25T04:04:05+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "ADSK",
-"name": "Autodesk, Inc.",
-"date": "2026-11-24",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.0684,
-"rev_est": 2133704710.0
-},
-{
-"t": "CLSK",
-"name": "CleanSpark, Inc.",
-"date": "2026-11-24",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": -0.3667,
-"rev_est": 127746780.0
-},
-{
-"t": "DELL",
-"name": "Dell Technologies Inc.",
-"date": "2026-11-24",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 6.5522,
-"rev_est": 49273922220.0
-},
-{
-"t": "DY",
-"name": "Dycom Industries, Inc.",
-"date": "2026-11-24",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 4.5672,
-"rev_est": 1945294990.0
-},
-{
-"t": "WDAY",
-"name": "Workday, Inc.",
-"date": "2026-11-24",
-"time": "amc",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 2.7442,
-"rev_est": 2691536500.0
-},
 {
 "t": "PHOE.TA",
 "name": "PHOENIX FINANC LTD",
@@ -93,16 +43,6 @@
 "rev_est": 816171110.0
 },
 {
-"t": "AVAV",
-"name": "AeroVironment, Inc.",
-"date": "2026-12-02",
-"time": "amc",
-"source": "yfinance",
-"confirmed": false,
-"eps_est": 0.4217,
-"rev_est": 510431840.0
-},
-{
 "t": "CRM",
 "name": "Salesforce, Inc.",
 "date": "2026-12-02",
@@ -110,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.4466,
-"rev_est": 11461322200.0
+"rev_est": 11462347840.0
 },
 {
 "t": "SNOW",
@@ -119,8 +59,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 0.5983,
-"rev_est": 1654413500.0
+"eps_est": 0.5976,
+"rev_est": 1654416060.0
 },
 {
 "t": "S",
@@ -131,6 +71,16 @@
 "confirmed": true,
 "eps_est": 0.0914,
 "rev_est": 310192610.0
+},
+{
+"t": "AVAV",
+"name": "AeroVironment, Inc.",
+"date": "2026-12-08",
+"time": "amc",
+"source": "yfinance",
+"confirmed": true,
+"eps_est": 0.4211,
+"rev_est": 509570250.0
 },
 {
 "t": "SNPS",
@@ -189,8 +139,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 38.2367,
-"rev_est": 61744991720.0
+"eps_est": 38.2464,
+"rev_est": 61756168190.0
 },
 {
 "t": "CCL",
@@ -209,8 +159,8 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.1696,
-"rev_est": 158359500.0
+"eps_est": -0.2464,
+"rev_est": 158384750.0
 }
 ],
 "macro": [
@@ -241,10 +191,6 @@
 {
 "t": "AEE",
 "date": "2026-12-08"
-},
-{
-"t": "POLI.TA",
-"date": "2026-11-24"
 },
 {
 "t": "LUMI.TA",
@@ -293,10 +239,6 @@
 {
 "t": "ISRA.TA",
 "date": "2026-12-15"
-},
-{
-"t": "JNJ",
-"date": "2026-11-24"
 },
 {
 "t": "LHX",
@@ -365,14 +307,6 @@
 {
 "t": "TSM",
 "date": "2026-12-10"
-},
-{
-"t": "VLO",
-"date": "2026-11-24"
-},
-{
-"t": "VRT",
-"date": "2026-11-24"
 },
 {
 "t": "VST",
