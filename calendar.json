@@ -1,17 +1,7 @@
 {
-"generated_at": "2026-11-25T04:04:05+00:00",
+"generated_at": "2026-11-26T04:04:11+00:00",
 "horizon_days": 45,
 "earnings": [
-{
-"t": "PHOE.TA",
-"name": "PHOENIX FINANC LTD",
-"date": "2026-11-25",
-"time": "bmo",
-"source": "yfinance",
-"confirmed": true,
-"eps_est": 3.48,
-"rev_est": null
-},
 {
 "t": "MDB",
 "name": "MongoDB, Inc.",
@@ -19,7 +9,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.6073,
+"eps_est": 1.6072,
 "rev_est": 761754590.0
 },
 {
@@ -50,7 +40,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.4466,
-"rev_est": 11462347840.0
+"rev_est": 11462939140.0
 },
 {
 "t": "SNOW",
@@ -60,7 +50,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 0.5976,
-"rev_est": 1654416060.0
+"rev_est": 1654470430.0
 },
 {
 "t": "S",
@@ -110,7 +100,7 @@
 "source": "yfinance",
 "confirmed": true,
 "eps_est": 3.8302,
-"rev_est": 34903482540.0
+"rev_est": 34906205760.0
 },
 {
 "t": "ORCL",
@@ -195,6 +185,10 @@
 {
 "t": "LUMI.TA",
 "date": "2026-12-02"
+},
+{
+"t": "BSY",
+"date": "2026-12-01"
 },
 {
 "t": "BN",
@@ -301,10 +295,6 @@
 "date": "2026-12-08"
 },
 {
-"t": "TMUS",
-"date": "2026-11-25"
-},
-{
 "t": "TSM",
 "date": "2026-12-10"
 },
@@ -319,6 +309,10 @@
 {
 "t": "WMB",
 "date": "2026-12-11"
+},
+{
+"t": "ZIM",
+"date": "2026-11-30"
 }
 ],
 "errors": []
