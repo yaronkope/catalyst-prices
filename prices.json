@@ -1,18 +1,18 @@
 {
-"generated_at": "2026-11-27T09:47:55.483954+00:00",
+"generated_at": "2026-11-27T10:03:24.958484+00:00",
 "source": "yfinance",
 "count": 201,
 "ok": 201,
 "quotes": {
 "ABBN.SW": {
-"price": 66.7,
+"price": 66.6,
 "prev_close": 65.24,
-"move_pct": 2.238,
+"move_pct": 2.085,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "CHF",
-"ret_5d": 0.02081,
+"ret_5d": 0.01928,
 "mcap_usd": 141022709076
 },
 "ACN": {
@@ -49,14 +49,14 @@
 "mcap_usd": 4643487681
 },
 "AIR.PA": {
-"price": 196.46,
+"price": 196.26,
 "prev_close": 193.84,
-"move_pct": 1.352,
+"move_pct": 1.248,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": 0.03422,
+"ret_5d": 0.03316,
 "mcap_usd": 167745513863
 },
 "AKAM": {
@@ -93,14 +93,14 @@
 "mcap_usd": 3357491475037
 },
 "AMRQ.L": {
-"price": 90.8,
+"price": 90.2,
 "prev_close": 87.0,
-"move_pct": 4.368,
+"move_pct": 3.678,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "GBp",
-"ret_5d": 0.00665,
+"ret_5d": 0.0,
 "mcap_usd": 531546129
 },
 "AMZN": {
@@ -258,25 +258,25 @@
 "mcap_usd": 46039118614
 },
 "POLI.TA": {
-"price": 7322.0,
+"price": 7344.0,
 "prev_close": 7171.0,
-"move_pct": 2.106,
+"move_pct": 2.412,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILA",
-"ret_5d": 0.02852,
+"ret_5d": 0.03161,
 "mcap_usd": 28288557878
 },
 "LUMI.TA": {
-"price": 7407.0,
+"price": 7435.0,
 "prev_close": 7249.0,
-"move_pct": 2.18,
+"move_pct": 2.566,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILA",
-"ret_5d": 0.03349,
+"ret_5d": 0.03739,
 "mcap_usd": 32178712846
 },
 "BSY": {
@@ -401,14 +401,14 @@
 "mcap_usd": 26807054525
 },
 "CAP.PA": {
-"price": 120.3,
+"price": 120.7,
 "prev_close": 121.0,
-"move_pct": -0.579,
+"move_pct": -0.248,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": 0.02209,
+"ret_5d": 0.02549,
 "mcap_usd": 21668567526
 },
 "CCL": {
@@ -577,25 +577,25 @@
 "mcap_usd": 57638640167
 },
 "AM.PA": {
-"price": 304.6,
+"price": 305.8,
 "prev_close": 301.4,
-"move_pct": 1.062,
+"move_pct": 1.46,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": 0.03184,
+"ret_5d": 0.03591,
 "mcap_usd": 25205542604
 },
 "DSY.PA": {
-"price": 22.16,
+"price": 22.2,
 "prev_close": 22.3,
-"move_pct": -0.628,
+"move_pct": -0.448,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": -0.00404,
+"ret_5d": -0.00225,
 "mcap_usd": 32139179345
 },
 "DELL": {
@@ -676,14 +676,14 @@
 "mcap_usd": 123469184052
 },
 "ELAL.TA": {
-"price": 2076.0,
+"price": 2077.0,
 "prev_close": 2070.0,
-"move_pct": 0.29,
+"move_pct": 0.338,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILA",
-"ret_5d": -0.06063,
+"ret_5d": -0.06018,
 "mcap_usd": 3707815823
 },
 "ESTC": {
@@ -720,14 +720,14 @@
 "mcap_usd": 2235703723
 },
 "ENOG.L": {
-"price": 659.0,
+"price": 661.5,
 "prev_close": 644.5,
-"move_pct": 2.25,
+"move_pct": 2.638,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "GBp",
-"ret_5d": 0.05609,
+"ret_5d": 0.0601,
 "mcap_usd": 1559340561
 },
 "UUUU": {
@@ -940,14 +940,14 @@
 "mcap_usd": 5452992508
 },
 "ISRA.TA": {
-"price": 230.0,
+"price": 231.0,
 "prev_close": 231.5,
-"move_pct": -0.648,
+"move_pct": -0.216,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILA",
-"ret_5d": 0.05408,
+"ret_5d": 0.05866,
 "mcap_usd": 1822292839
 },
 "JNJ": {
@@ -1061,14 +1061,14 @@
 "mcap_usd": 9082029852
 },
 "MAERSK-B.CO": {
-"price": 19480.0,
+"price": 19455.0,
 "prev_close": 19085.0,
-"move_pct": 2.07,
+"move_pct": 1.939,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "DKK",
-"ret_5d": -0.0238,
+"ret_5d": -0.02506,
 "mcap_usd": 40204269058
 },
 "MARA": {
@@ -1391,14 +1391,14 @@
 "mcap_usd": 92088283935
 },
 "PHOE.TA": {
-"price": 17320.0,
+"price": 17300.0,
 "prev_close": 16710.0,
-"move_pct": 3.651,
+"move_pct": 3.531,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILA",
-"ret_5d": 0.04275,
+"ret_5d": 0.04154,
 "mcap_usd": 12758610444
 },
 "PTC": {
@@ -1468,14 +1468,14 @@
 "mcap_usd": 17095272329
 },
 "RR.L": {
-"price": 1317.8,
+"price": 1316.0,
 "prev_close": 1294.4,
-"move_pct": 1.808,
+"move_pct": 1.669,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "GBp",
-"ret_5d": 0.03552,
+"ret_5d": 0.0341,
 "mcap_usd": 138530341763
 },
 "RCL": {
@@ -1501,14 +1501,14 @@
 "mcap_usd": 264746744407
 },
 "SAAB-B.ST": {
-"price": 644.2,
+"price": 644.1,
 "prev_close": 624.1,
-"move_pct": 3.221,
+"move_pct": 3.205,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "SEK",
-"ret_5d": 0.0891,
+"ret_5d": 0.08893,
 "mcap_usd": 32938303170
 },
 "CRM": {
@@ -1545,14 +1545,14 @@
 "mcap_usd": 83791361956
 },
 "SU.PA": {
-"price": 222.0,
+"price": 221.65,
 "prev_close": 219.05,
-"move_pct": 1.347,
+"move_pct": 1.187,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": -0.02008,
+"ret_5d": -0.02163,
 "mcap_usd": 141156972220
 },
 "S": {
@@ -1578,25 +1578,25 @@
 "mcap_usd": 95654434521
 },
 "SIE.DE": {
-"price": 255.25,
+"price": 254.5,
 "prev_close": 250.3,
-"move_pct": 1.978,
+"move_pct": 1.678,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": 0.00236,
+"ret_5d": -0.00059,
 "mcap_usd": 209763100988
 },
 "ENR.DE": {
-"price": 122.18,
+"price": 121.74,
 "prev_close": 117.0,
-"move_pct": 4.427,
+"move_pct": 4.051,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "EUR",
-"ret_5d": 0.03262,
+"ret_5d": 0.0289,
 "mcap_usd": 109166887808
 },
 "000660.KS": {
@@ -2051,36 +2051,36 @@
 "mcap_usd": null
 },
 "BZ=F": {
-"price": 92.42,
+"price": 92.48,
 "prev_close": 94.61,
-"move_pct": -2.315,
+"move_pct": -2.251,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00478,
+"ret_5d": 0.00544,
 "mcap_usd": null
 },
 "CL=F": {
-"price": 85.94,
+"price": 85.89,
 "prev_close": 83.68,
-"move_pct": 2.701,
+"move_pct": 2.641,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.03281,
+"ret_5d": 0.03221,
 "mcap_usd": null
 },
 "NG=F": {
-"price": 3.565,
+"price": 3.563,
 "prev_close": 3.269,
-"move_pct": 9.055,
+"move_pct": 8.994,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.09088,
+"ret_5d": 0.09027,
 "mcap_usd": null
 },
 "^TNX": {
@@ -2095,36 +2095,36 @@
 "mcap_usd": null
 },
 "BTC-USD": {
-"price": 61561.8281,
+"price": 61585.1914,
 "prev_close": 60494.7109,
-"move_pct": 1.764,
+"move_pct": 1.803,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "USD",
-"ret_5d": 0.00654,
+"ret_5d": 0.00692,
 "mcap_usd": null
 },
 "ILS=X": {
-"price": 3.2919,
+"price": 3.2973,
 "prev_close": 3.3783,
-"move_pct": -2.558,
+"move_pct": -2.397,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILS",
-"ret_5d": -0.0019,
+"ret_5d": -0.00027,
 "mcap_usd": null
 },
 "^TA125.TA": {
-"price": 3911.28,
+"price": 3916.3501,
 "prev_close": 3811.27,
-"move_pct": 2.624,
+"move_pct": 2.757,
 "asof": "2026-11-27T00:00:00+00:00",
 "session_date": "2026-11-27",
 "stale": false,
 "currency": "ILS",
-"ret_5d": 0.04227,
+"ret_5d": 0.04362,
 "mcap_usd": null
 },
 "APLD": {
