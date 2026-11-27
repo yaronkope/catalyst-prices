@@ -1,15 +1,17 @@
 # Catalyst Desk — VM status (auto-generated, Code -> Fable)
 
-Updated 2026-11-27 17:54Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
+Updated 2026-11-27 18:09Z. Raw files: https://raw.githubusercontent.com/yaronkope/catalyst-prices/main/<file>
 
 | file | age (min) | expected ≤ | state | detail |
 |---|---|---|---|---|
 | prices.json | 1 | 30 | ✅ | 201/201 quotes; 0 errors |
-| candidates.json | 7 | 45 | ✅ | 72 movers, market open; 0 errors |
-| news.json | 12 | 45 | ✅ | 295 items (182 tagged = 62%), sources ok 21/21; 0 errors |
-| gnews.json | 109 | 180 | ✅ | 178 entities; 4 errors |
-| closes.json | 1239 | 1800 | ✅ | 45 sessions; 0 errors |
-| calendar.json | 830 | 1560 | ✅ | 15 earnings (12 confirmed), 3 macro; 0 errors |
+| candidates.json | 2 | 45 | ✅ | 71 movers, market open; 0 errors |
+| news.json | 2 | 45 | ✅ | 326 items (186 tagged = 57%), sources ok 31/36; 5 errors |
+| gnews.json | 124 | 180 | ✅ | 178 entities; 4 errors |
+| closes.json | 1254 | 1800 | ✅ | 45 sessions; 0 errors |
+| calendar.json | 845 | 1560 | ✅ | 15 earnings (12 confirmed), 3 macro; 0 errors |
+
+**news.json sources down:** `capitoltrades` HTTP 429; `coreweave` no headline links matched on https://www.coreweave.com/newsroom (layout changed?); `ferc` HTTP 403; `iren` HTTP 403; `pentagon_contracts` HTTP 403
 
 ## Notes from Claude Code
 
