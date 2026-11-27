@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-26T04:04:11+00:00",
+"generated_at": "2026-11-27T04:04:11+00:00",
 "horizon_days": 45,
 "earnings": [
 {
@@ -9,7 +9,7 @@
 "time": "amc",
 "source": "yfinance",
 "confirmed": true,
-"eps_est": 1.6072,
+"eps_est": 1.609,
 "rev_est": 761754590.0
 },
 {
@@ -89,7 +89,7 @@
 "time": "bmo",
 "source": "yfinance",
 "confirmed": false,
-"eps_est": -0.005,
+"eps_est": 0.0,
 "rev_est": 9501500.0
 },
 {
@@ -211,10 +211,6 @@
 "date": "2026-12-21"
 },
 {
-"t": "ENOG.L",
-"date": "2026-11-26"
-},
-{
 "t": "GM",
 "date": "2026-12-04"
 },
@@ -225,6 +221,10 @@
 {
 "t": "HAL",
 "date": "2026-12-02"
+},
+{
+"t": "HPE",
+"date": "2026-12-09"
 },
 {
 "t": "ICL",
@@ -273,6 +273,10 @@
 {
 "t": "OXY",
 "date": "2026-12-10"
+},
+{
+"t": "PHOE.TA",
+"date": "2026-12-07"
 },
 {
 "t": "QCOM",
